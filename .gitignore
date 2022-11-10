@@ -1,0 +1,11 @@
+newimages/
+old_packs/
+*.bin
+*.zip
+*.rar
+*.xlsx
+*.json0
+core_0.jar
+core_1.jar
+privatekey.txt
+publickey.txt
