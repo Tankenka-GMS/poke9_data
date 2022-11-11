@@ -11409,20 +11409,20 @@
 			"0916oink": {
 				"cry": "916",
 				"forms": [
-					{"conditions": {"gender": 0}, "name": "Oinkologne", "types": ["normal"], "power": 0, "baseImages": ["0916", "0916_ico"]},
-					{"conditions": {"gender": 1}, "name": "Oinkologne", "types": ["normal"], "power": 0, "baseImages": ["0916_f", "0916_f_ico"]}
+					{"conditions": {"gender": 0}, "name": "Oinkologne", "types": ["normal"], "power": 2, "baseImages": ["0916", "0916_ico"]},
+					{"conditions": {"gender": 1}, "name": "Oinkologne", "types": ["normal"], "power": 2, "baseImages": ["0916_f", "0916_f_ico"]}
 				]
 			},
 			"0917dudu": {
 				"cry": "917",
 				"forms": [
-					{"name": "Dudunsparce", "types": ["normal"], "power": 0, "baseImages": ["0917", "0917_ico"]}
+					{"name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]}
 				]
 			},
 			"0918taro": {
 				"cry": "918",
 				"forms": [
-					{"name": "Tarountula", "types": ["bug"], "power": 0, "baseImages": ["0918", "0918_ico"]}
+					{"name": "Tarountula", "types": ["bug"], "power": -1, "baseImages": ["0918", "0918_ico"]}
 				],
 				"evolutions": [
 					{"id": "0919spid", "conditions": {"level": 16}}
@@ -11431,13 +11431,13 @@
 			"0919spid": {
 				"cry": "919",
 				"forms": [
-					{"name": "Spidops", "types": ["bug"], "power": 0, "baseImages": ["0919", "0919_ico"]}
+					{"name": "Spidops", "types": ["bug"], "power": 1, "baseImages": ["0919", "0919_ico"]}
 				]
 			},
 			"0920nymb": {
 				"cry": "920",
 				"forms": [
-					{"name": "Nymble", "types": ["bug"], "power": 0, "baseImages": ["0920", "0920_ico"]}
+					{"name": "Nymble", "types": ["bug"], "power": -1, "baseImages": ["0920", "0920_ico"]}
 				],
 				"evolutions": [
 					{"id": "0921loki", "conditions": {"level": 16}}
@@ -11446,7 +11446,7 @@
 			"0921loki": {
 				"cry": "921",
 				"forms": [
-					{"name": "Lokix", "types": ["bug", "dark"], "power": 0, "baseImages": ["0921", "0921_ico"]}
+					{"name": "Lokix", "types": ["bug", "dark"], "power": 1, "baseImages": ["0921", "0921_ico"]}
 				]
 			},
 			"0922rell": {
@@ -11461,7 +11461,7 @@
 			"0923rabs": {
 				"cry": "923",
 				"forms": [
-					{"name": "Rabsca", "types": ["bug", "psychic"], "power": 0, "baseImages": ["0923", "0923_ico"]}
+					{"name": "Rabsca", "types": ["bug", "psychic"], "power": 2, "baseImages": ["0923", "0923_ico"]}
 				]
 			},
 			"0924grea": {
@@ -11476,7 +11476,7 @@
 			"0925houn": {
 				"cry": "925",
 				"forms": [
-					{"name": "Houndstone", "types": ["ghost"], "power": 0, "baseImages": ["0925", "0925_ico"]}
+					{"name": "Houndstone", "types": ["ghost"], "power": 2, "baseImages": ["0925", "0925_ico"]}
 				]
 			},
 			"0926flit": {
@@ -11491,19 +11491,19 @@
 			"0927espa": {
 				"cry": "927",
 				"forms": [
-					{"name": "Espathra", "types": ["psychic"], "power": 0, "baseImages": ["0927", "0927_ico"]}
+					{"name": "Espathra", "types": ["psychic"], "power": 2, "baseImages": ["0927", "0927_ico"]}
 				]
 			},
 			"0928fari": {
 				"cry": "928",
 				"forms": [
-					{"name": "Farigiraf", "types": ["normal", "psychic"], "power": 0, "baseImages": ["0928", "0928_ico"]}
+					{"name": "Farigiraf", "types": ["normal", "psychic"], "power": 2, "baseImages": ["0928", "0928_ico"]}
 				]
 			},
 			"0929wigl": {
 				"cry": "929",
 				"forms": [
-					{"name": "Wiglett", "types": ["water"], "power": 0, "baseImages": ["0929", "0929_ico"]}
+					{"name": "Wiglett", "types": ["water"], "power": -1, "baseImages": ["0929", "0929_ico"]}
 				],
 				"evolutions": [
 					{"id": "0930wugt", "conditions": {"level": 16}}
@@ -11512,19 +11512,19 @@
 			"0930wugt": {
 				"cry": "930",
 				"forms": [
-					{"name": "Wugtrio", "types": ["water"], "power": 0, "baseImages": ["0930", "0930_ico"]}
+					{"name": "Wugtrio", "types": ["water"], "power": 1, "baseImages": ["0930", "0930_ico"]}
 				]
 			},
 			"0931dond": {
 				"cry": "931",
 				"forms": [
-					{"name": "Dondozo", "types": ["water"], "power": 0, "baseImages": ["0931", "0931_ico"]}
+					{"name": "Dondozo", "types": ["water"], "power": 2, "baseImages": ["0931", "0931_ico"]}
 				]
 			},
 			"0932velu": {
 				"cry": "932",
 				"forms": [
-					{"name": "Veluza", "types": ["water", "psychic"], "power": 0, "baseImages": ["0932", "0932_ico"]}
+					{"name": "Veluza", "types": ["water", "psychic"], "power": 2, "baseImages": ["0932", "0932_ico"]}
 				]
 			},
 			"0933fini": {
@@ -11539,7 +11539,8 @@
 			"0934pala": {
 				"cry": "934",
 				"forms": [
-					{"name": "Palafin", "types": ["water"], "power": 0, "baseImages": ["0934", "0934_ico"]}
+					{"name": "Palafin", "types": ["water"], "power": 2, "baseImages": ["0934", "0934_ico"]},
+					{"name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0934", "0934_ico"]}
 				]
 			},
 			"0935smol": {
@@ -11554,7 +11555,7 @@
 			"0936doll": {
 				"cry": "936",
 				"forms": [
-					{"name": "Dolliv", "types": ["grass", "normal"], "power": 0, "baseImages": ["0936", "0936_ico"]}
+					{"name": "Dolliv", "types": ["grass", "normal"], "power": 1, "baseImages": ["0936", "0936_ico"]}
 				],
 				"evolutions": [
 					{"id": "0937arbo", "conditions": {"level": 26}}
@@ -11563,7 +11564,7 @@
 			"0937arbo": {
 				"cry": "937",
 				"forms": [
-					{"name": "Arboliva", "types": ["grass", "normal"], "power": 0, "baseImages": ["0937", "0937_ico"]}
+					{"name": "Arboliva", "types": ["grass", "normal"], "power": 2, "baseImages": ["0937", "0937_ico"]}
 				]
 			},
 			"0938caps": {
@@ -11578,7 +11579,7 @@
 			"0939scov": {
 				"cry": "939",
 				"forms": [
-					{"name": "Scovillain", "types": ["grass", "fire"], "power": 0, "baseImages": ["0939", "0939_ico"]}
+					{"name": "Scovillain", "types": ["grass", "fire"], "power": 2, "baseImages": ["0939", "0939_ico"]}
 				]
 			},
 			"0940tadb": {
@@ -11593,7 +11594,7 @@
 			"0941bell": {
 				"cry": "941",
 				"forms": [
-					{"name": "Bellibolt", "types": ["electric"], "power": 0, "baseImages": ["0941", "0941_ico"]}
+					{"name": "Bellibolt", "types": ["electric"], "power": 2, "baseImages": ["0941", "0941_ico"]}
 				]
 			},
 			"0942varo": {
@@ -11608,13 +11609,13 @@
 			"0943reva": {
 				"cry": "943",
 				"forms": [
-					{"name": "Revavroom", "types": ["poison", "steel"], "power": 0, "baseImages": ["0943", "0943_ico"]}
+					{"name": "Revavroom", "types": ["poison", "steel"], "power": 2, "baseImages": ["0943", "0943_ico"]}
 				]
 			},
 			"0944orth": {
 				"cry": "944",
 				"forms": [
-					{"name": "Orthworm", "types": ["steel"], "power": 0, "baseImages": ["0944", "0944_ico"]}
+					{"name": "Orthworm", "types": ["steel"], "power": 2, "baseImages": ["0944", "0944_ico"]}
 				]
 			},
 			"0945tand": {
@@ -11629,7 +11630,7 @@
 			"0946maus": {
 				"cry": "946",
 				"forms": [
-					{"name": "Maushold", "types": ["normal"], "power": 0, "baseImages": ["0946", "0946_ico"]}
+					{"name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946", "0946_ico"]}
 				]
 			},
 			"0947ceto": {
@@ -11644,7 +11645,7 @@
 			"0948ceti": {
 				"cry": "948",
 				"forms": [
-					{"name": "Cetitan", "types": ["ice"], "power": 0, "baseImages": ["0948", "0948_ico"]}
+					{"name": "Cetitan", "types": ["ice"], "power": 2, "baseImages": ["0948", "0948_ico"]}
 				]
 			},
 			"0949frig": {
@@ -11659,7 +11660,7 @@
 			"0950arct": {
 				"cry": "950",
 				"forms": [
-					{"name": "Arctibax", "types": ["ice", "dragon"], "power": 0, "baseImages": ["0950", "0950_ico"]}
+					{"name": "Arctibax", "types": ["ice", "dragon"], "power": 1, "baseImages": ["0950", "0950_ico"]}
 				],
 				"evolutions": [
 					{"id": "0951baxc", "conditions": {"level": 26}}
@@ -11668,25 +11669,25 @@
 			"0951baxc": {
 				"cry": "951",
 				"forms": [
-					{"name": "Baxcalibur", "types": ["ice", "dragon"], "power": 0, "baseImages": ["0951", "0951_ico"]}
+					{"name": "Baxcalibur", "types": ["ice", "dragon"], "power": 3, "baseImages": ["0951", "0951_ico"]}
 				]
 			},
 			"0952tats": {
 				"cry": "952",
 				"forms": [
-					{"name": "Tatsugiri", "types": ["water", "dragon"], "power": 0, "baseImages": ["0952", "0952_ico"]}
+					{"name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]}
 				]
 			},
 			"0953cycl": {
 				"cry": "953",
 				"forms": [
-					{"name": "Cyclizar", "types": ["dragon", "normal"], "power": 0, "baseImages": ["0953", "0953_ico"]}
+					{"name": "Cyclizar", "types": ["dragon", "normal"], "power": 2, "baseImages": ["0953", "0953_ico"]}
 				]
 			},
 			"0954pawm": {
 				"cry": "954",
 				"forms": [
-					{"name": "Pawmi", "types": ["electric"], "power": 0, "baseImages": ["0954", "0954_ico"]}
+					{"name": "Pawmi", "types": ["electric"], "power": -1, "baseImages": ["0954", "0954_ico"]}
 				],
 				"evolutions": [
 					{"id": "0955pawm", "conditions": {"level": 16}}
@@ -11704,7 +11705,7 @@
 			"0956pawm": {
 				"cry": "956",
 				"forms": [
-					{"name": "Pawmot", "types": ["electric", "fighting"], "power": 0, "baseImages": ["0956", "0956_ico"]}
+					{"name": "Pawmot", "types": ["electric", "fighting"], "power": 2, "baseImages": ["0956", "0956_ico"]}
 				]
 			},
 			"0957watt": {
@@ -11719,31 +11720,31 @@
 			"0958kilo": {
 				"cry": "958",
 				"forms": [
-					{"name": "Kilowattrel", "types": ["electric", "flying"], "power": 0, "baseImages": ["0958", "0958_ico"]}
+					{"name": "Kilowattrel", "types": ["electric", "flying"], "power": 2, "baseImages": ["0958", "0958_ico"]}
 				]
 			},
 			"0959bomb": {
 				"cry": "959",
 				"forms": [
-					{"name": "Bombirdier", "types": ["dark", "flying"], "power": 0, "baseImages": ["0959", "0959_ico"]}
+					{"name": "Bombirdier", "types": ["dark", "flying"], "power": 2, "baseImages": ["0959", "0959_ico"]}
 				]
 			},
 			"0960squa": {
 				"cry": "960",
 				"forms": [
-					{"name": "Squawkabilly", "types": ["normal", "flying"], "power": 0, "baseImages": ["0960", "0960_ico"]}
+					{"name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]}
 				]
 			},
 			"0961flam": {
 				"cry": "961",
 				"forms": [
-					{"name": "Flamigo", "types": ["flying", "fighting"], "power": 0, "baseImages": ["0961", "0961_ico"]}
+					{"name": "Flamigo", "types": ["flying", "fighting"], "power": 2, "baseImages": ["0961", "0961_ico"]}
 				]
 			},
 			"0962klaw": {
 				"cry": "962",
 				"forms": [
-					{"name": "Klawf", "types": ["rock"], "power": 0, "baseImages": ["0962", "0962_ico"]}
+					{"name": "Klawf", "types": ["rock"], "power": 1, "baseImages": ["0962", "0962_ico"]}
 				]
 			},
 			"0963nacl": {
@@ -11758,7 +11759,7 @@
 			"0964nacl": {
 				"cry": "964",
 				"forms": [
-					{"name": "Naclstack", "types": ["rock"], "power": 0, "baseImages": ["0964", "0964_ico"]}
+					{"name": "Naclstack", "types": ["rock"], "power": 1, "baseImages": ["0964", "0964_ico"]}
 				],
 				"evolutions": [
 					{"id": "0965garg", "conditions": {"level": 26}}
@@ -11767,7 +11768,7 @@
 			"0965garg": {
 				"cry": "965",
 				"forms": [
-					{"name": "Garganacl", "types": ["rock"], "power": 0, "baseImages": ["0965", "0965_ico"]}
+					{"name": "Garganacl", "types": ["rock"], "power": 2, "baseImages": ["0965", "0965_ico"]}
 				]
 			},
 			"0966glim": {
@@ -11782,7 +11783,7 @@
 			"0967glim": {
 				"cry": "967",
 				"forms": [
-					{"name": "Glimmora", "types": ["poison", "rock"], "power": 0, "baseImages": ["0967", "0967_ico"]}
+					{"name": "Glimmora", "types": ["poison", "rock"], "power": 2, "baseImages": ["0967", "0967_ico"]}
 				]
 			},
 			"0968shro": {
@@ -11797,7 +11798,7 @@
 			"0969graf": {
 				"cry": "969",
 				"forms": [
-					{"name": "Grafaiai", "types": ["poison", "normal"], "power": 0, "baseImages": ["0969", "0969_ico"]}
+					{"name": "Grafaiai", "types": ["poison", "normal"], "power": 2, "baseImages": ["0969", "0969_ico"]}
 				]
 			},
 			"0970fido": {
@@ -11812,7 +11813,7 @@
 			"0971dach": {
 				"cry": "971",
 				"forms": [
-					{"name": "Dachsbun", "types": ["fairy"], "power": 0, "baseImages": ["0971", "0971_ico"]}
+					{"name": "Dachsbun", "types": ["fairy"], "power": 2, "baseImages": ["0971", "0971_ico"]}
 				]
 			},
 			"0972masc": {
@@ -11827,8 +11828,8 @@
 			"0973mabo": {
 				"cry": "973",
 				"forms": [
-					{"conditions": {"hour": "day"}, "name": "Mabosstiff", "types": ["dark"], "power": 0, "baseImages": ["0973", "0973_ico"]},
-					{"conditions": {"hour": "night"}, "name": "Mabosstiff", "types": ["dark"], "power": 0, "baseImages": ["0973", "0973_ico"]}
+					{"conditions": {"hour": "day"}, "name": "Mabosstiff", "types": ["dark"], "power": 2, "baseImages": ["0973", "0973_ico"]},
+					{"conditions": {"hour": "night"}, "name": "Mabosstiff", "types": ["dark"], "power": 2, "baseImages": ["0973", "0973_ico"]}
 				]
 			},
 			"0974bram": {
@@ -11843,7 +11844,7 @@
 			"0975bram": {
 				"cry": "975",
 				"forms": [
-					{"name": "Brambleghast", "types": ["grass", "ghost"], "power": 0, "baseImages": ["0975", "0975_ico"]}
+					{"name": "Brambleghast", "types": ["grass", "ghost"], "power": 2, "baseImages": ["0975", "0975_ico"]}
 				]
 			},
 			"0976gimm": {
@@ -11858,127 +11859,127 @@
 			"0977ghol": {
 				"cry": "977",
 				"forms": [
-					{"name": "Gholdengo", "types": ["ghost", "steel"], "power": 0, "baseImages": ["0977", "0977_ico"]}
+					{"name": "Gholdengo", "types": ["ghost", "steel"], "power": 2, "baseImages": ["0977", "0977_ico"]}
 				]
 			},
 			"0978grea": {
 				"cry": "978",
 				"forms": [
-					{"name": "Great Tusk", "types": ["ground", "fighting"], "power": 0, "baseImages": ["0978", "0978_ico"]}
+					{"name": "Great Tusk", "types": ["ground", "fighting"], "power": 3, "baseImages": ["0978", "0978_ico"]}
 				]
 			},
 			"0979brut": {
 				"cry": "979",
 				"forms": [
-					{"name": "Brute Bonnet", "types": ["grass", "dark"], "power": 0, "baseImages": ["0979", "0979_ico"]}
+					{"name": "Brute Bonnet", "types": ["grass", "dark"], "power": 3, "baseImages": ["0979", "0979_ico"]}
 				]
 			},
 			"0981sand": {
 				"cry": "981",
 				"forms": [
-					{"name": "Sandy Shocks", "types": ["electric", "ground"], "power": 0, "baseImages": ["0981", "0981_ico"]}
+					{"name": "Sandy Shocks", "types": ["electric", "ground"], "power": 3, "baseImages": ["0981", "0981_ico"]}
 				]
 			},
 			"0982scre": {
 				"cry": "982",
 				"forms": [
-					{"name": "Scream Tail", "types": ["fairy", "psychic"], "power": 0, "baseImages": ["0982", "0982_ico"]}
+					{"name": "Scream Tail", "types": ["fairy", "psychic"], "power": 3, "baseImages": ["0982", "0982_ico"]}
 				]
 			},
 			"0983flut": {
 				"cry": "983",
 				"forms": [
-					{"name": "Flutter Mane", "types": ["ghost", "fairy"], "power": 0, "baseImages": ["0983", "0983_ico"]}
+					{"name": "Flutter Mane", "types": ["ghost", "fairy"], "power": 3, "baseImages": ["0983", "0983_ico"]}
 				]
 			},
 			"0984slit": {
 				"cry": "984",
 				"forms": [
-					{"name": "Slither Wing", "types": ["bug", "fighting"], "power": 0, "baseImages": ["0984", "0984_ico"]}
+					{"name": "Slither Wing", "types": ["bug", "fighting"], "power": 3, "baseImages": ["0984", "0984_ico"]}
 				]
 			},
 			"0985roar": {
 				"cry": "985",
 				"forms": [
-					{"name": "Roaring Moon", "types": ["dragon", "dark"], "power": 0, "baseImages": ["0985", "0985_ico"]}
+					{"name": "Roaring Moon", "types": ["dragon", "dark"], "power": 3, "baseImages": ["0985", "0985_ico"]}
 				]
 			},
 			"0986iron": {
 				"cry": "986",
 				"forms": [
-					{"name": "Iron Treads", "types": ["ground", "steel"], "power": 0, "baseImages": ["0986", "0986_ico"]}
+					{"name": "Iron Treads", "types": ["ground", "steel"], "power": 3, "baseImages": ["0986", "0986_ico"]}
 				]
 			},
 			"0988iron": {
 				"cry": "988",
 				"forms": [
-					{"name": "Iron Moth", "types": ["fire", "poison"], "power": 0, "baseImages": ["0988", "0988_ico"]}
+					{"name": "Iron Moth", "types": ["fire", "poison"], "power": 3, "baseImages": ["0988", "0988_ico"]}
 				]
 			},
 			"0989iron": {
 				"cry": "989",
 				"forms": [
-					{"name": "Iron Hands", "types": ["fighting", "electric"], "power": 0, "baseImages": ["0989", "0989_ico"]}
+					{"name": "Iron Hands", "types": ["fighting", "electric"], "power": 3, "baseImages": ["0989", "0989_ico"]}
 				]
 			},
 			"0990iron": {
 				"cry": "990",
 				"forms": [
-					{"name": "Iron Jugulis", "types": ["dark", "flying"], "power": 0, "baseImages": ["0990", "0990_ico"]}
+					{"name": "Iron Jugulis", "types": ["dark", "flying"], "power": 3, "baseImages": ["0990", "0990_ico"]}
 				]
 			},
 			"0991iron": {
 				"cry": "991",
 				"forms": [
-					{"name": "Iron Thorns", "types": ["rock", "electric"], "power": 0, "baseImages": ["0991", "0991_ico"]}
+					{"name": "Iron Thorns", "types": ["rock", "electric"], "power": 3, "baseImages": ["0991", "0991_ico"]}
 				]
 			},
 			"0992iron": {
 				"cry": "992",
 				"forms": [
-					{"name": "Iron Bundle", "types": ["ice", "water"], "power": 0, "baseImages": ["0992", "0992_ico"]}
+					{"name": "Iron Bundle", "types": ["ice", "water"], "power": 3, "baseImages": ["0992", "0992_ico"]}
 				]
 			},
 			"0993iron": {
 				"cry": "993",
 				"forms": [
-					{"name": "Iron Valiant", "types": ["fairy", "fighting"], "power": 0, "baseImages": ["0993", "0993_ico"]}
+					{"name": "Iron Valiant", "types": ["fairy", "fighting"], "power": 3, "baseImages": ["0993", "0993_ico"]}
 				]
 			},
 			"0994ting": {
 				"cry": "994",
 				"forms": [
-					{"name": "Ting-Lu", "types": ["dark", "ground"], "power": 0, "baseImages": ["0994", "0994_ico"]}
+					{"name": "Ting-Lu", "types": ["dark", "ground"], "power": 3, "baseImages": ["0994", "0994_ico"]}
 				]
 			},
 			"0995chie": {
 				"cry": "995",
 				"forms": [
-					{"name": "Chien-Pao", "types": ["dark", "ice"], "power": 0, "baseImages": ["0995", "0995_ico"]}
+					{"name": "Chien-Pao", "types": ["dark", "ice"], "power": 3, "baseImages": ["0995", "0995_ico"]}
 				]
 			},
 			"0996woch": {
 				"cry": "996",
 				"forms": [
-					{"name": "Wo-Chien", "types": ["dark", "grass"], "power": 0, "baseImages": ["0996", "0996_ico"]}
+					{"name": "Wo-Chien", "types": ["dark", "grass"], "power": 3, "baseImages": ["0996", "0996_ico"]}
 				]
 			},
 			"0997chiy": {
 				"cry": "997",
 				"forms": [
-					{"name": "Chi-Yu", "types": ["dark", "fire"], "power": 0, "baseImages": ["0997", "0997_ico"]}
+					{"name": "Chi-Yu", "types": ["dark", "fire"], "power": 3, "baseImages": ["0997", "0997_ico"]}
 				]
 			},
 			"0998kora": {
 				"cry": "998",
 				"forms": [
-					{"name": "Koraidon", "types": ["fighting", "dragon"], "power": 0, "baseImages": ["0998", "0998_ico"]}
+					{"name": "Koraidon", "types": ["fighting", "dragon"], "power": 3, "baseImages": ["0998", "0998_ico"]}
 				]
 			},
 			"0999mira": {
 				"cry": "999",
 				"forms": [
-					{"name": "Miraidon", "types": ["electric", "dragon"], "power": 0, "baseImages": ["0999", "0999_ico"]}
+					{"name": "Miraidon", "types": ["electric", "dragon"], "power": 3, "baseImages": ["0999", "0999_ico"]}
 				]
 			},
 			"1000tink": {
@@ -11993,7 +11994,7 @@
 			"1001tink": {
 				"cry": "1001",
 				"forms": [
-					{"name": "Tinkatuff", "types": ["fairy", "steel"], "power": 0, "baseImages": ["1001", "1001_ico"]}
+					{"name": "Tinkatuff", "types": ["fairy", "steel"], "power": 1, "baseImages": ["1001", "1001_ico"]}
 				],
 				"evolutions": [
 					{"id": "1002tink", "conditions": {"level": 26}}
@@ -12002,7 +12003,7 @@
 			"1002tink": {
 				"cry": "1002",
 				"forms": [
-					{"name": "Tinkaton", "types": ["fairy", "steel"], "power": 0, "baseImages": ["1002", "1002_ico"]}
+					{"name": "Tinkaton", "types": ["fairy", "steel"], "power": 2, "baseImages": ["1002", "1002_ico"]}
 				]
 			},
 			"1003char": {
@@ -12017,13 +12018,13 @@
 			"1004arma": {
 				"cry": "1004",
 				"forms": [
-					{"name": "Armarouge", "types": ["fire", "psychic"], "power": 0, "baseImages": ["1004", "1004_ico"]}
+					{"name": "Armarouge", "types": ["fire", "psychic"], "power": 2, "baseImages": ["1004", "1004_ico"]}
 				]
 			},
 			"1005ceru": {
 				"cry": "1005",
 				"forms": [
-					{"name": "Ceruledge", "types": ["fire", "ghost"], "power": 0, "baseImages": ["1005", "1005_ico"]}
+					{"name": "Ceruledge", "types": ["fire", "ghost"], "power": 2, "baseImages": ["1005", "1005_ico"]}
 				]
 			},
 			"1006toed": {
@@ -12038,25 +12039,25 @@
 			"1007toed": {
 				"cry": "1007",
 				"forms": [
-					{"name": "Toedscruel", "types": ["ground", "grass"], "power": 0, "baseImages": ["1007", "1007_ico"]}
+					{"name": "Toedscruel", "types": ["ground", "grass"], "power": 2, "baseImages": ["1007", "1007_ico"]}
 				]
 			},
 			"1008king": {
 				"cry": "1008",
 				"forms": [
-					{"name": "Kingambit", "types": ["dark", "steel"], "power": 0, "baseImages": ["1008", "1008_ico"]}
+					{"name": "Kingambit", "types": ["dark", "steel"], "power": 2, "baseImages": ["1008", "1008_ico"]}
 				]
 			},
 			"1009clod": {
 				"cry": "1009",
 				"forms": [
-					{"name": "Clodsire", "types": ["poison", "ground"], "power": 0, "baseImages": ["1009", "1009_ico"]}
+					{"name": "Clodsire", "types": ["poison", "ground"], "power": 1, "baseImages": ["1009", "1009_ico"]}
 				]
 			},
 			"1010anni": {
 				"cry": "1010",
 				"forms": [
-					{"name": "Annihilape", "types": ["fighting", "ghost"], "power": 0, "baseImages": ["1010", "1010_ico"]}
+					{"name": "Annihilape", "types": ["fighting", "ghost"], "power": 2, "baseImages": ["1010", "1010_ico"]}
 				]
 			}
 		},
