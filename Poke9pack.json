@@ -1908,6 +1908,9 @@
 				"dexEntries": [],
 				"forms": [
 					{"name": "Primeape", "types": ["fighting"], "power": 2, "baseImages": ["0057", "0057_ico"]}
+				],
+				"evolutions": [
+					{"id": "1010anni", "conditions": {"level": 60}}
 				]
 			},
 			"0058grow": {
@@ -2741,7 +2744,9 @@
 				"dexEntries": [],
 				"forms": [
 					{"conditions": {"gene": 0}, "name": "Tauros", "types": ["normal"], "power": 2, "baseImages": ["0128", "0128_ico"]},
-					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"]}
+					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"]},
+					{"conditions": {"gene": 1, "item": "x"}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting", "fire"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"]},
+					{"conditions": {"gene": 1, "item": "x"}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting", "water"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"]}
 				]
 			},
 			"0129magi": {
@@ -3594,6 +3599,9 @@
 				"forms": [
 					{"conditions": {"gender": 0}, "name": "Girafarig", "types": ["normal", "psychic"], "power": 2, "baseImages": ["0203", "0203_ico"]},
 					{"conditions": {"gender": 1}, "name": "Girafarig", "types": ["normal", "psychic"], "power": 2, "baseImages": ["0203_f", "0203_ico"]}
+				],
+				"evolutions": [
+					{"id": "0928fari", "conditions": {"level": 30}}
 				]
 			},
 			"0204pine": {
@@ -3624,6 +3632,9 @@
 				"dexEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
 				"forms": [
 					{"name": "Dunsparce", "types": ["normal"], "power": 1, "baseImages": ["0206", "0206_ico"]}
+				],
+				"evolutions": [
+					{"id": "0917dudu", "conditions": {"level": 30}}
 				]
 			},
 			"0207glig": {
@@ -8183,6 +8194,9 @@
 				"dexEntry": "This pitiless Pokémon commands a group of <<0624pawn>> to hound prey into immobility. It then moves in to finish the prey off.",
 				"forms": [
 					{"name": "Bisharp", "types": ["dark", "steel"], "power": 2, "baseImages": ["0625", "0625_ico"]}
+				],
+				"evolutions": [
+					{"id": "1008king", "conditions": {"level": 60}}
 				]
 			},
 			"0626bouf": {
@@ -11416,7 +11430,8 @@
 			"0917dudu": {
 				"cry": "917",
 				"forms": [
-					{"name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]}
+					{"name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]},
+					{"conditions": {"item": "x"}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]}
 				]
 			},
 			"0918taro": {
@@ -11540,7 +11555,7 @@
 				"cry": "934",
 				"forms": [
 					{"name": "Palafin", "types": ["water"], "power": 2, "baseImages": ["0934", "0934_ico"]},
-					{"name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0934", "0934_ico"]}
+					{"conditions": {"item": "x"}, "name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0934", "0934_ico"]}
 				]
 			},
 			"0935smol": {
@@ -11628,9 +11643,11 @@
 				]
 			},
 			"0946maus": {
+				"genes": [50,50],
 				"cry": "946",
 				"forms": [
-					{"name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946", "0946_ico"]}
+					{"conditions": {"gene": 0}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946", "0946_ico"]},
+					{"conditions": {"gene": 1}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946", "0946_ico"]}
 				]
 			},
 			"0947ceto": {
@@ -11673,9 +11690,12 @@
 				]
 			},
 			"0952tats": {
+				"genes": [33.4,33.3,33.3],
 				"cry": "952",
 				"forms": [
-					{"name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]}
+					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]},
+					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]},
+					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]}
 				]
 			},
 			"0953cycl": {
@@ -11730,9 +11750,13 @@
 				]
 			},
 			"0960squa": {
+				"genes": [25,25,25,25],
 				"cry": "960",
 				"forms": [
-					{"name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]}
+					{"conditions": {"gene": 0}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]},
+					{"conditions": {"gene": 1}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]},
+					{"conditions": {"gene": 2}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]},
+					{"conditions": {"gene": 3}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]}
 				]
 			},
 			"0961flam": {
@@ -11850,7 +11874,8 @@
 			"0976gimm": {
 				"cry": "976",
 				"forms": [
-					{"name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976", "0976_ico"]}
+					{"name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976", "0976_ico"]},
+					{"conditions": {"item": "x"}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976", "0976_ico"]}
 				],
 				"evolutions": [
 					{"id": "0977ghol", "conditions": {"level": 16}}
@@ -12448,7 +12473,8 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0056mank", "range": [1, 32]},
-					{"id": "0057prim", "range": [28, 100]}
+					{"id": "0057prim", "range": [28, 64]},
+					{"id": "1010anni", "range": [60, 100]}
 				]
 			},
 			{
@@ -13518,7 +13544,8 @@
 				"frequency": 2,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0203gira"}
+					{"id": "0203gira", "range": [1, 34]},
+					{"id": "0928fari", "range": [30, 100]}
 				]
 			},
 			{
@@ -13538,7 +13565,8 @@
 				"frequency": 2,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0206duns"}
+					{"id": "0206duns", "range": [1, 34]},
+					{"id": "0917dudu", "range": [30, 100]}
 				]
 			},
 			{
@@ -15652,7 +15680,8 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0624pawn", "range": [1, 56]},
-					{"id": "0625bish", "range": [52, 100]}
+					{"id": "0625bish", "range": [52, 64]},
+					{"id": "1008king", "range": [60, 100]}
 				]
 			},
 			{
