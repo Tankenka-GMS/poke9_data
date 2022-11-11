@@ -2736,10 +2736,12 @@
 			"0128taur": {
 				"genders": [100,0],
 				"growth": "slow",
+				"genes": [85,15],
 				"cry": "128",
 				"dexEntries": [],
 				"forms": [
-					{"name": "Tauros", "types": ["normal"], "power": 2, "baseImages": ["0128", "0128_ico"]}
+					{"conditions": {"gene": 0}, "name": "Tauros", "types": ["normal"], "power": 2, "baseImages": ["0128", "0128_ico"]},
+					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"]}
 				]
 			},
 			"0129magi": {
@@ -3460,14 +3462,17 @@
 			"0194woop": {
 				"genders": [50,50],
 				"growth": "mediumfast",
+				"genes": [85,15],
 				"cry": "194",
 				"dexEntry": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
 				"forms": [
-					{"conditions": {"gender": 0}, "name": "Wooper", "types": ["water", "ground"], "power": -1, "baseImages": ["0194", "0194_ico"]},
-					{"conditions": {"gender": 1}, "name": "Wooper", "types": ["water", "ground"], "power": -1, "baseImages": ["0194_f", "0194_ico"]}
+					{"conditions": {"gene": 0, "gender": 0}, "name": "Wooper", "types": ["water", "ground"], "power": -1, "baseImages": ["0194", "0194_ico"]},
+					{"conditions": {"gene": 0, "gender": 1}, "name": "Wooper", "types": ["water", "ground"], "power": -1, "baseImages": ["0194_f", "0194_ico"]},
+					{"conditions": {"gene": 1}, "fullName": "Paldean Wooper", "name": "Wooper", "types": ["poison", "ground"], "power": -1, "baseImages": ["0194_paldea", "0194_paldea_ico"]}
 				],
 				"evolutions": [
-					{"id": "0195quag", "conditions": {"level": 20}}
+					{"id": "0195quag", "conditions": {"gene": 0, "level": 20}},
+					{"id": "1009clod", "conditions": {"gene": 1, "level": 20}}
 				]
 			},
 			"0195quag": {
@@ -13081,7 +13086,18 @@
 			},
 			{
 				"gen": 1,
+				"familyGene": 0,
 				"diffusion": 0.75,
+				"frequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0128taur"}
+				]
+			},
+			{
+				"gen": 9,
+				"familyGene": 1,
+				"diffusion": 0.6,
 				"frequency": 3,
 				"eggCycles": 20,
 				"members": [
@@ -13429,12 +13445,24 @@
 			},
 			{
 				"gen": 2,
+				"familyGene": 0,
 				"diffusion": 0.9,
 				"frequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0194woop", "range": [1, 24]},
 					{"id": "0195quag", "range": [20, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"familyGene": 1,
+				"diffusion": 0.75,
+				"frequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0194woop", "range": [1, 24]},
+					{"id": "1009clod", "range": [20, 100]}
 				]
 			},
 			{
