@@ -1910,7 +1910,7 @@
 					{"name": "Primeape", "types": ["fighting"], "power": 2, "baseImages": ["0057", "0057_ico"]}
 				],
 				"evolutions": [
-					{"id": "1010anni", "conditions": {"level": 60}}
+					{"id": "1010anni", "conditions": {"level": 55}}
 				]
 			},
 			"0058grow": {
@@ -11580,7 +11580,7 @@
 					{"name": "Finizen", "types": ["water"], "power": 0, "baseImages": ["0933", "0933_ico"]}
 				],
 				"evolutions": [
-					{"id": "0934pala", "conditions": {"level": 16}}
+					{"id": "0934pala", "conditions": {"level": 38}}
 				]
 			},
 			"0934pala": {
@@ -11773,7 +11773,7 @@
 					{"name": "Pawmo", "types": ["electric", "fighting"], "power": 0, "baseImages": ["0955", "0955_ico"]}
 				],
 				"evolutions": [
-					{"id": "0956pawm", "conditions": {"level": 26}}
+					{"id": "0956pawm", "conditions": {"distance": 1000}}
 				]
 			},
 			"0956pawm": {
@@ -11935,7 +11935,7 @@
 					{"name": "Bramblin", "types": ["grass", "ghost"], "power": 0, "baseImages": ["0974", "0974_ico"]}
 				],
 				"evolutions": [
-					{"id": "0975bram", "conditions": {"level": 16}}
+					{"id": "0975bram", "conditions": {"distance": 1000}}
 				]
 			},
 			"0975bram": {
@@ -11953,7 +11953,7 @@
 					{"conditions": {"item": "x"}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976", "0976_ico"]}
 				],
 				"evolutions": [
-					{"id": "0977ghol", "conditions": {"level": 16}}
+					{"id": "0977ghol", "conditions": {"coins": 999}}
 				]
 			},
 			"0977ghol": {
@@ -12582,8 +12582,8 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0056mank", "range": [1, 32]},
-					{"id": "0057prim", "range": [28, 64]},
-					{"id": "1010anni", "range": [60, 100]}
+					{"id": "0057prim", "range": [28, 59]},
+					{"id": "1010anni", "range": [55, 100]}
 				]
 			},
 			{
@@ -17409,8 +17409,8 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0933fini", "range": [1, 20]},
-					{"id": "0934pala", "range": [16, 100]}
+					{"id": "0933fini", "range": [1, 42]},
+					{"id": "0934pala", "range": [38, 100]}
 				]
 			},
 			{
@@ -17495,8 +17495,8 @@
 				"gen": 9,
 				"members": [
 					{"id": "0954pawm", "range": [1, 22]},
-					{"id": "0955pawm", "range": [18, 30]},
-					{"id": "0956pawm", "range": [26, 100]}
+					{"id": "0955pawm", "range": [18, 100]},
+					{"id": "0956pawm", "range": [55, 100]}
 				]
 			},
 			{
@@ -17569,15 +17569,15 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0974bram", "range": [1, 20]},
-					{"id": "0975bram", "range": [16, 100]}
+					{"id": "0974bram", "range": [1, 100]},
+					{"id": "0975bram", "range": [55, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0976gimm", "range": [1, 20]},
-					{"id": "0977ghol", "range": [16, 100]}
+					{"id": "0976gimm", "range": [1, 100]},
+					{"id": "0977ghol", "range": [55, 100]}
 				]
 			},
 			{
