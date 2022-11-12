@@ -10523,6 +10523,7 @@
 			"0838cark": {
 				"genders": [50,50],
 				"growth": "mediumslow",
+				"warm": true,
 				"cry": "838",
 				"dexEntry": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
 				"forms": [
@@ -10535,6 +10536,7 @@
 			"0839coal": {
 				"genders": [50,50],
 				"growth": "mediumslow",
+				"warm": true,
 				"cry": "839",
 				"dexEntry": "It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",
 				"forms": [
@@ -10652,6 +10654,7 @@
 			"0850sizz": {
 				"genders": [50,50],
 				"growth": "mediumfast",
+				"warm": true,
 				"cry": "850",
 				"dexEntry": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
 				"forms": [
@@ -10664,6 +10667,7 @@
 			"0851cent": {
 				"genders": [50,50],
 				"growth": "mediumfast",
+				"warm": true,
 				"cry": "851",
 				"dexEntry": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
 				"forms": [
@@ -12127,6 +12131,7 @@
 				]
 			},
 			"1003char": {
+				"warm": true,
 				"cry": "1003",
 				"dexEntry": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Carchadet will battle even tough opponents.",
 				"forms": [
