@@ -3601,7 +3601,7 @@
 					{"conditions": {"gender": 1}, "name": "Girafarig", "types": ["normal", "psychic"], "power": 2, "baseImages": ["0203_f", "0203_ico"]}
 				],
 				"evolutions": [
-					{"id": "0928fari", "conditions": {"level": 30}}
+					{"id": "0928fari", "conditions": {"level": 33}}
 				]
 			},
 			"0204pine": {
@@ -8196,7 +8196,7 @@
 					{"name": "Bisharp", "types": ["dark", "steel"], "power": 2, "baseImages": ["0625", "0625_ico"]}
 				],
 				"evolutions": [
-					{"id": "1008king", "conditions": {"level": 60}}
+					{"id": "1008king", "conditions": {"item": "Leader's Crest"}}
 				]
 			},
 			"0626bouf": {
@@ -11354,7 +11354,7 @@
 					{"name": "Floragato", "types": ["grass"], "power": 1, "baseImages": ["0907", "0907_ico"]}
 				],
 				"evolutions": [
-					{"id": "0908meow", "conditions": {"level": 32}}
+					{"id": "0908meow", "conditions": {"level": 36}}
 				]
 			},
 			"0908meow": {
@@ -11378,7 +11378,7 @@
 					{"name": "Crocalor", "types": ["fire"], "power": 1, "baseImages": ["0910", "0910_ico"]}
 				],
 				"evolutions": [
-					{"id": "0911skel", "conditions": {"level": 32}}
+					{"id": "0911skel", "conditions": {"level": 36}}
 				]
 			},
 			"0911skel": {
@@ -11402,7 +11402,7 @@
 					{"name": "Quaxwell", "types": ["water"], "power": 1, "baseImages": ["0913", "0913_ico"]}
 				],
 				"evolutions": [
-					{"id": "0914quaq", "conditions": {"level": 32}}
+					{"id": "0914quaq", "conditions": {"level": 36}}
 				]
 			},
 			"0914quaq": {
@@ -11417,7 +11417,7 @@
 					{"name": "Lechonk", "types": ["normal"], "power": 0, "baseImages": ["0915", "0915_ico"]}
 				],
 				"evolutions": [
-					{"id": "0916oink", "conditions": {"level": 16}}
+					{"id": "0916oink", "conditions": {"level": 18}}
 				]
 			},
 			"0916oink": {
@@ -11440,7 +11440,7 @@
 					{"name": "Tarountula", "types": ["bug"], "power": -1, "baseImages": ["0918", "0918_ico"]}
 				],
 				"evolutions": [
-					{"id": "0919spid", "conditions": {"level": 16}}
+					{"id": "0919spid", "conditions": {"level": 15}}
 				]
 			},
 			"0919spid": {
@@ -11455,7 +11455,7 @@
 					{"name": "Nymble", "types": ["bug"], "power": -1, "baseImages": ["0920", "0920_ico"]}
 				],
 				"evolutions": [
-					{"id": "0921loki", "conditions": {"level": 16}}
+					{"id": "0921loki", "conditions": {"level": 24}}
 				]
 			},
 			"0921loki": {
@@ -11485,7 +11485,7 @@
 					{"name": "Greavard", "types": ["ghost"], "power": 0, "baseImages": ["0924", "0924_ico"]}
 				],
 				"evolutions": [
-					{"id": "0925houn", "conditions": {"level": 16}}
+					{"id": "0925houn", "conditions": {"level": 30, "hour": "night"}}
 				]
 			},
 			"0925houn": {
@@ -11500,7 +11500,7 @@
 					{"name": "Flittle", "types": ["psychic"], "power": 0, "baseImages": ["0926", "0926_ico"]}
 				],
 				"evolutions": [
-					{"id": "0927espa", "conditions": {"level": 16}}
+					{"id": "0927espa", "conditions": {"level": 35}}
 				]
 			},
 			"0927espa": {
@@ -11521,7 +11521,7 @@
 					{"name": "Wiglett", "types": ["water"], "power": -1, "baseImages": ["0929", "0929_ico"]}
 				],
 				"evolutions": [
-					{"id": "0930wugt", "conditions": {"level": 16}}
+					{"id": "0930wugt", "conditions": {"level": 26}}
 				]
 			},
 			"0930wugt": {
@@ -11564,7 +11564,7 @@
 					{"name": "Smoliv", "types": ["grass", "normal"], "power": 0, "baseImages": ["0935", "0935_ico"]}
 				],
 				"evolutions": [
-					{"id": "0936doll", "conditions": {"level": 16}}
+					{"id": "0936doll", "conditions": {"level": 25}}
 				]
 			},
 			"0936doll": {
@@ -11573,7 +11573,7 @@
 					{"name": "Dolliv", "types": ["grass", "normal"], "power": 1, "baseImages": ["0936", "0936_ico"]}
 				],
 				"evolutions": [
-					{"id": "0937arbo", "conditions": {"level": 26}}
+					{"id": "0937arbo", "conditions": {"level": 35}}
 				]
 			},
 			"0937arbo": {
@@ -11588,7 +11588,7 @@
 					{"name": "Capsakid", "types": ["grass"], "power": 0, "baseImages": ["0938", "0938_ico"]}
 				],
 				"evolutions": [
-					{"id": "0939scov", "conditions": {"level": 16}}
+					{"id": "0939scov", "conditions": {"item": "Fire Stone"}}
 				]
 			},
 			"0939scov": {
@@ -11603,7 +11603,7 @@
 					{"name": "Tadbulb", "types": ["electric"], "power": 0, "baseImages": ["0940", "0940_ico"]}
 				],
 				"evolutions": [
-					{"id": "0941bell", "conditions": {"level": 16}}
+					{"id": "0941bell", "conditions": {"item": "Thunder Stone"}}
 				]
 			},
 			"0941bell": {
@@ -11618,7 +11618,7 @@
 					{"name": "Varoom", "types": ["poison", "steel"], "power": 0, "baseImages": ["0942", "0942_ico"]}
 				],
 				"evolutions": [
-					{"id": "0943reva", "conditions": {"level": 16}}
+					{"id": "0943reva", "conditions": {"level": 40}}
 				]
 			},
 			"0943reva": {
@@ -11656,7 +11656,7 @@
 					{"name": "Cetoddle", "types": ["ice"], "power": 0, "baseImages": ["0947", "0947_ico"]}
 				],
 				"evolutions": [
-					{"id": "0948ceti", "conditions": {"level": 16}}
+					{"id": "0948ceti", "conditions": {"item": "Ice Stone"}}
 				]
 			},
 			"0948ceti": {
@@ -11671,7 +11671,7 @@
 					{"name": "Frigibax", "types": ["ice", "dragon"], "power": 0, "baseImages": ["0949", "0949_ico"]}
 				],
 				"evolutions": [
-					{"id": "0950arct", "conditions": {"level": 16}}
+					{"id": "0950arct", "conditions": {"level": 35}}
 				]
 			},
 			"0950arct": {
@@ -11680,7 +11680,7 @@
 					{"name": "Arctibax", "types": ["ice", "dragon"], "power": 1, "baseImages": ["0950", "0950_ico"]}
 				],
 				"evolutions": [
-					{"id": "0951baxc", "conditions": {"level": 26}}
+					{"id": "0951baxc", "conditions": {"level": 54}}
 				]
 			},
 			"0951baxc": {
@@ -11710,7 +11710,7 @@
 					{"name": "Pawmi", "types": ["electric"], "power": -1, "baseImages": ["0954", "0954_ico"]}
 				],
 				"evolutions": [
-					{"id": "0955pawm", "conditions": {"level": 16}}
+					{"id": "0955pawm", "conditions": {"level": 18}}
 				]
 			},
 			"0955pawm": {
@@ -11734,7 +11734,7 @@
 					{"name": "Wattrel", "types": ["electric", "flying"], "power": 0, "baseImages": ["0957", "0957_ico"]}
 				],
 				"evolutions": [
-					{"id": "0958kilo", "conditions": {"level": 16}}
+					{"id": "0958kilo", "conditions": {"level": 25}}
 				]
 			},
 			"0958kilo": {
@@ -11777,7 +11777,7 @@
 					{"name": "Nacli", "types": ["rock"], "power": 0, "baseImages": ["0963", "0963_ico"]}
 				],
 				"evolutions": [
-					{"id": "0964nacl", "conditions": {"level": 16}}
+					{"id": "0964nacl", "conditions": {"level": 24}}
 				]
 			},
 			"0964nacl": {
@@ -11786,7 +11786,7 @@
 					{"name": "Naclstack", "types": ["rock"], "power": 1, "baseImages": ["0964", "0964_ico"]}
 				],
 				"evolutions": [
-					{"id": "0965garg", "conditions": {"level": 26}}
+					{"id": "0965garg", "conditions": {"level": 38}}
 				]
 			},
 			"0965garg": {
@@ -11801,7 +11801,7 @@
 					{"name": "Glimmet", "types": ["poison", "rock"], "power": 0, "baseImages": ["0966", "0966_ico"]}
 				],
 				"evolutions": [
-					{"id": "0967glim", "conditions": {"level": 16}}
+					{"id": "0967glim", "conditions": {"level": 35}}
 				]
 			},
 			"0967glim": {
@@ -11816,7 +11816,7 @@
 					{"name": "Shroodle", "types": ["poison", "normal"], "power": 0, "baseImages": ["0968", "0968_ico"]}
 				],
 				"evolutions": [
-					{"id": "0969graf", "conditions": {"level": 16}}
+					{"id": "0969graf", "conditions": {"level": 28}}
 				]
 			},
 			"0969graf": {
@@ -11831,7 +11831,7 @@
 					{"name": "Fidough", "types": ["fairy"], "power": 0, "baseImages": ["0970", "0970_ico"]}
 				],
 				"evolutions": [
-					{"id": "0971dach", "conditions": {"level": 16}}
+					{"id": "0971dach", "conditions": {"level": 26}}
 				]
 			},
 			"0971dach": {
@@ -11846,7 +11846,7 @@
 					{"name": "Maschiff", "types": ["dark"], "power": 0, "baseImages": ["0972", "0972_ico"]}
 				],
 				"evolutions": [
-					{"id": "0973mabo", "conditions": {"level": 16}}
+					{"id": "0973mabo", "conditions": {"level": 30}}
 				]
 			},
 			"0973mabo": {
@@ -12013,7 +12013,7 @@
 					{"name": "Tinkatink", "types": ["fairy", "steel"], "power": 0, "baseImages": ["1000", "1000_ico"]}
 				],
 				"evolutions": [
-					{"id": "1001tink", "conditions": {"level": 16}}
+					{"id": "1001tink", "conditions": {"level": 24}}
 				]
 			},
 			"1001tink": {
@@ -12022,7 +12022,7 @@
 					{"name": "Tinkatuff", "types": ["fairy", "steel"], "power": 1, "baseImages": ["1001", "1001_ico"]}
 				],
 				"evolutions": [
-					{"id": "1002tink", "conditions": {"level": 26}}
+					{"id": "1002tink", "conditions": {"level": 38}}
 				]
 			},
 			"1002tink": {
@@ -12037,7 +12037,8 @@
 					{"name": "Charcadet", "types": ["fire"], "power": 0, "baseImages": ["1003", "1003_ico"]}
 				],
 				"evolutions": [
-					{"id": "1004arma", "conditions": {"level": 16}}
+					{"id": "1004arma", "conditions": {"item": "Auspicious Armor"}},
+					{"id": "1005ceru", "conditions": {"item": "Malicious Armor"}}
 				]
 			},
 			"1004arma": {
@@ -12058,7 +12059,7 @@
 					{"name": "Toedscool", "types": ["ground", "grass"], "power": 0, "baseImages": ["1006", "1006_ico"]}
 				],
 				"evolutions": [
-					{"id": "1007toed", "conditions": {"level": 16}}
+					{"id": "1007toed", "conditions": {"level": 30}}
 				]
 			},
 			"1007toed": {
@@ -13123,6 +13124,7 @@
 			},
 			{
 				"gen": 9,
+				"familyPrefix": "Paldean ",
 				"familyGene": 1,
 				"diffusion": 0.6,
 				"frequency": 3,
@@ -13483,6 +13485,7 @@
 			},
 			{
 				"gen": 9,
+				"familyPrefix": "Paldean ",
 				"familyGene": 1,
 				"diffusion": 0.75,
 				"frequency": 3,
@@ -13544,8 +13547,8 @@
 				"frequency": 2,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0203gira", "range": [1, 34]},
-					{"id": "0928fari", "range": [30, 100]}
+					{"id": "0203gira", "range": [1, 37]},
+					{"id": "0928fari", "range": [33, 100]}
 				]
 			},
 			{
@@ -15680,8 +15683,11 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0624pawn", "range": [1, 56]},
-					{"id": "0625bish", "range": [52, 64]},
-					{"id": "1008king", "range": [60, 100]}
+					{"id": "0625bish", "range": [52, 100]},
+					{"id": "1008king", "range": [65, 100]}
+				],
+				"items": [
+					{"id": "Leader's Crest", "prob": 2.5}
 				]
 			},
 			{
@@ -17209,8 +17215,8 @@
 				"eventFamily": "newyear",
 				"members": [
 					{"id": "0906spri", "range": [1, 20]},
-					{"id": "0907flor", "range": [16, 30]},
-					{"id": "0908meow", "range": [26, 100]}
+					{"id": "0907flor", "range": [16, 40]},
+					{"id": "0908meow", "range": [36, 100]}
 				]
 			},
 			{
@@ -17218,8 +17224,8 @@
 				"eventFamily": "newyear",
 				"members": [
 					{"id": "0909fuec", "range": [1, 20]},
-					{"id": "0910croc", "range": [16, 30]},
-					{"id": "0911skel", "range": [26, 100]}
+					{"id": "0910croc", "range": [16, 40]},
+					{"id": "0911skel", "range": [36, 100]}
 				]
 			},
 			{
@@ -17227,29 +17233,29 @@
 				"eventFamily": "newyear",
 				"members": [
 					{"id": "0912quax", "range": [1, 20]},
-					{"id": "0913quax", "range": [16, 30]},
-					{"id": "0914quaq", "range": [26, 100]}
+					{"id": "0913quax", "range": [16, 40]},
+					{"id": "0914quaq", "range": [36, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0915lech", "range": [1, 20]},
-					{"id": "0916oink", "range": [16, 100]}
+					{"id": "0915lech", "range": [1, 22]},
+					{"id": "0916oink", "range": [18, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0918taro", "range": [1, 20]},
-					{"id": "0919spid", "range": [16, 100]}
+					{"id": "0918taro", "range": [1, 19]},
+					{"id": "0919spid", "range": [15, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0920nymb", "range": [1, 20]},
-					{"id": "0921loki", "range": [16, 100]}
+					{"id": "0920nymb", "range": [1, 28]},
+					{"id": "0921loki", "range": [24, 100]}
 				]
 			},
 			{
@@ -17262,22 +17268,22 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0924grea", "range": [1, 20]},
-					{"id": "0925houn", "range": [16, 100]}
+					{"id": "0924grea", "range": [1, 34]},
+					{"id": "0925houn", "range": [30, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0926flit", "range": [1, 20]},
-					{"id": "0927espa", "range": [16, 100]}
+					{"id": "0926flit", "range": [1, 39]},
+					{"id": "0927espa", "range": [35, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0929wigl", "range": [1, 20]},
-					{"id": "0930wugt", "range": [16, 100]}
+					{"id": "0929wigl", "range": [1, 30]},
+					{"id": "0930wugt", "range": [26, 100]}
 				]
 			},
 			{
@@ -17302,30 +17308,36 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0935smol", "range": [1, 20]},
-					{"id": "0936doll", "range": [16, 30]},
-					{"id": "0937arbo", "range": [26, 100]}
+					{"id": "0935smol", "range": [1, 29]},
+					{"id": "0936doll", "range": [25, 39]},
+					{"id": "0937arbo", "range": [35, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0938caps", "range": [1, 20]},
-					{"id": "0939scov", "range": [16, 100]}
+					{"id": "0938caps", "range": [1, 100]},
+					{"id": "0939scov", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Fire Stone", "prob": 2.5}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0940tadb", "range": [1, 20]},
-					{"id": "0941bell", "range": [16, 100]}
+					{"id": "0940tadb", "range": [1, 100]},
+					{"id": "0941bell", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Thunder Stone", "prob": 2.5}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0942varo", "range": [1, 20]},
-					{"id": "0943reva", "range": [16, 100]}
+					{"id": "0942varo", "range": [1, 44]},
+					{"id": "0943reva", "range": [40, 100]}
 				]
 			},
 			{
@@ -17344,16 +17356,19 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0947ceto", "range": [1, 20]},
-					{"id": "0948ceti", "range": [16, 100]}
+					{"id": "0947ceto", "range": [1, 100]},
+					{"id": "0948ceti", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Ice Stone", "prob": 2.5}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0949frig", "range": [1, 20]},
-					{"id": "0950arct", "range": [16, 30]},
-					{"id": "0951baxc", "range": [26, 100]}
+					{"id": "0949frig", "range": [1, 39]},
+					{"id": "0950arct", "range": [35, 58]},
+					{"id": "0951baxc", "range": [54, 100]}
 				]
 			},
 			{
@@ -17371,16 +17386,16 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0954pawm", "range": [1, 20]},
-					{"id": "0955pawm", "range": [16, 30]},
+					{"id": "0954pawm", "range": [1, 22]},
+					{"id": "0955pawm", "range": [18, 30]},
 					{"id": "0956pawm", "range": [26, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0957watt", "range": [1, 20]},
-					{"id": "0958kilo", "range": [16, 100]}
+					{"id": "0957watt", "range": [1, 29]},
+					{"id": "0958kilo", "range": [25, 100]}
 				]
 			},
 			{
@@ -17410,37 +17425,37 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0963nacl", "range": [1, 20]},
-					{"id": "0964nacl", "range": [16, 30]},
-					{"id": "0965garg", "range": [26, 100]}
+					{"id": "0963nacl", "range": [1, 28]},
+					{"id": "0964nacl", "range": [24, 42]},
+					{"id": "0965garg", "range": [38, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0966glim", "range": [1, 20]},
-					{"id": "0967glim", "range": [16, 100]}
+					{"id": "0966glim", "range": [1, 39]},
+					{"id": "0967glim", "range": [35, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0968shro", "range": [1, 20]},
-					{"id": "0969graf", "range": [16, 100]}
+					{"id": "0968shro", "range": [1, 32]},
+					{"id": "0969graf", "range": [28, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0970fido", "range": [1, 20]},
-					{"id": "0971dach", "range": [16, 100]}
+					{"id": "0970fido", "range": [1, 30]},
+					{"id": "0971dach", "range": [26, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0972masc", "range": [1, 20]},
-					{"id": "0973mabo", "range": [16, 100]}
+					{"id": "0972masc", "range": [1, 34]},
+					{"id": "0973mabo", "range": [30, 100]}
 				]
 			},
 			{
@@ -17544,24 +17559,28 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1000tink", "range": [1, 20]},
-					{"id": "1001tink", "range": [16, 30]},
-					{"id": "1002tink", "range": [26, 100]}
+					{"id": "1000tink", "range": [1, 28]},
+					{"id": "1001tink", "range": [24, 42]},
+					{"id": "1002tink", "range": [38, 100]}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1003char", "range": [1, 20]},
-					{"id": "1004arma", "range": [16, 100]},
-					{"id": "1005ceru", "range": [16, 100]}
+					{"id": "1003char", "range": [1, 100]},
+					{"id": "1004arma", "range": [45, 100]},
+					{"id": "1005ceru", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Auspicious Armor", "prob": 1.5},
+					{"id": "Malicious Armor", "prob": 1.5}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1006toed", "range": [1, 20]},
-					{"id": "1007toed", "range": [16, 100]}
+					{"id": "1006toed", "range": [1, 34]},
+					{"id": "1007toed", "range": [30, 100]}
 				]
 			}
 		],
