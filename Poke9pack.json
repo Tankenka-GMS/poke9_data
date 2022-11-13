@@ -1,8 +1,8 @@
 {
 	"packName": "poke9_data",
 	"packPublicName": "Pokemon [9 gens] Data Pack",
-	"versionName": "0.1",
-	"versionNumber": 1,
+	"versionName": "0.5",
+	"versionNumber": 2,
 	"compatibleBackups": ["poke8_data", "poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke8_data", "poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"minAppVersion": 252,
@@ -2745,8 +2745,8 @@
 				"forms": [
 					{"conditions": {"gene": 0}, "name": "Tauros", "types": ["normal"], "power": 2, "baseImages": ["0128", "0128_ico"]},
 					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"], "dexEntriesPos": 1},
-					{"conditions": {"gene": 1, "item": "x"}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting", "fire"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"], "dexEntriesPos": 1},
-					{"conditions": {"gene": 1, "item": "x"}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting", "water"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"], "dexEntriesPos": 1}
+					{"conditions": {"gene": 1, "item": "Fire Stone"}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting", "fire"], "power": 2, "baseImages": ["0128_paldea_fire", "0128_paldea_fire_ico"], "dexEntriesPos": 1},
+					{"conditions": {"gene": 1, "item": "Water Stone"}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting", "water"], "power": 2, "baseImages": ["0128_paldea_water", "0128_paldea_water_ico"], "dexEntriesPos": 1}
 				]
 			},
 			"0129magi": {
@@ -3628,13 +3628,14 @@
 			"0206duns": {
 				"genders": [50,50],
 				"growth": "mediumfast",
+				"genes": [75,25],
 				"cry": "206",
 				"dexEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
 				"forms": [
 					{"name": "Dunsparce", "types": ["normal"], "power": 1, "baseImages": ["0206", "0206_ico"]}
 				],
 				"evolutions": [
-					{"id": "0917dudu", "conditions": {"level": 30}}
+					{"id": "0917dudu", "conditions": {"level": 33}}
 				]
 			},
 			"0207glig": {
@@ -11446,8 +11447,8 @@
 				"cry": "917",
 				"dexEntry": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
 				"forms": [
-					{"name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]},
-					{"conditions": {"item": "x"}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]}
+					{"conditions": {"gene": 0}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]},
+					{"conditions": {"gene": 1}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917_ico"]}
 				]
 			},
 			"0918taro": {
@@ -11491,7 +11492,7 @@
 					{"name": "Rellor", "types": ["bug"], "power": 0, "baseImages": ["0922", "0922_ico"]}
 				],
 				"evolutions": [
-					{"id": "0923rabs", "conditions": {"level": 16}}
+					{"id": "0923rabs", "conditions": {"distance": 1000}}
 				]
 			},
 			"0923rabs": {
@@ -11587,8 +11588,8 @@
 				"cry": "934",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Palafin", "types": ["water"], "power": 2, "baseImages": ["0934", "0934_ico"]},
-					{"conditions": {"item": "x"}, "name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0934", "0934_ico"]}
+					{"conditions": {"lastOutcome": "win"}, "name": "Palafin", "types": ["water"], "power": 2, "baseImages": ["0934", "0934_ico"]},
+					{"conditions": {"lastOutcome": "loss"}, "name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0934_hero", "0934_hero_ico"]}
 				]
 			},
 			"0935smol": {
@@ -11677,13 +11678,14 @@
 				]
 			},
 			"0945tand": {
+				"genes": [50,50],
 				"cry": "945",
 				"dexEntry": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
 				"forms": [
 					{"name": "Tandemaus", "types": ["normal"], "power": 0, "baseImages": ["0945", "0945_ico"]}
 				],
 				"evolutions": [
-					{"id": "0946maus", "conditions": {"level": 16}}
+					{"id": "0946maus", "conditions": {"level": 25}}
 				]
 			},
 			"0946maus": {
@@ -11691,8 +11693,8 @@
 				"cry": "946",
 				"dexEntry": "???",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946", "0946_ico"]},
-					{"conditions": {"gene": 1}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946", "0946_ico"]}
+					{"conditions": {"gene": 0}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946_three", "0946_three_ico"]},
+					{"conditions": {"gene": 1}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946_four", "0946_four_ico"]}
 				]
 			},
 			"0947ceto": {
@@ -11744,9 +11746,9 @@
 				"cry": "952",
 				"dexEntry": "???",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]},
-					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]},
-					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952", "0952_ico"]}
+					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952_orange", "0952_orange_ico"]},
+					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952_red", "0952_red_ico"]},
+					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952_yellow", "0952_yellow_ico"]}
 				]
 			},
 			"0953cycl": {
@@ -11812,10 +11814,10 @@
 				"cry": "960",
 				"dexEntry": "???",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]},
-					{"conditions": {"gene": 1}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]},
-					{"conditions": {"gene": 2}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]},
-					{"conditions": {"gene": 3}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960", "0960_ico"]}
+					{"conditions": {"gene": 0}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_green", "0960_green_ico"]},
+					{"conditions": {"gene": 1}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_blue", "0960_blue_ico"]},
+					{"conditions": {"gene": 2}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_yellow", "0960_yellow_ico"]},
+					{"conditions": {"gene": 3}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_white", "0960_white_ico"]}
 				]
 			},
 			"0961flam": {
@@ -11946,11 +11948,12 @@
 				]
 			},
 			"0976gimm": {
+				"genes": [50,50],
 				"cry": "976",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976", "0976_ico"]},
-					{"conditions": {"item": "x"}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976", "0976_ico"]}
+					{"conditions": {"gene": 0}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976_chest", "0976_chest_ico"]},
+					{"conditions": {"gene": 1}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976_roaming", "0976_roaming_ico"]}
 				],
 				"evolutions": [
 					{"id": "0977ghol", "conditions": {"coins": 999}}
