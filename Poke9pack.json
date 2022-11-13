@@ -11345,6 +11345,7 @@
 				]
 			},
 			"0906spri": {
+				"genders": [87.5,12.5],
 				"cry": "906",
 				"dexEntry": "???",
 				"forms": [
@@ -11355,6 +11356,7 @@
 				]
 			},
 			"0907flor": {
+				"genders": [87.5,12.5],
 				"cry": "907",
 				"dexEntry": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is preparded to battle, its fur becomes pointed and sharp.",
 				"forms": [
@@ -11365,6 +11367,7 @@
 				]
 			},
 			"0908meow": {
+				"genders": [87.5,12.5],
 				"cry": "908",
 				"dexEntry": "???",
 				"forms": [
@@ -11372,6 +11375,7 @@
 				]
 			},
 			"0909fuec": {
+				"genders": [87.5,12.5],
 				"cry": "909",
 				"dexEntry": "???",
 				"forms": [
@@ -11382,6 +11386,7 @@
 				]
 			},
 			"0910croc": {
+				"genders": [87.5,12.5],
 				"cry": "910",
 				"dexEntry": "???",
 				"forms": [
@@ -11392,6 +11397,7 @@
 				]
 			},
 			"0911skel": {
+				"genders": [87.5,12.5],
 				"cry": "911",
 				"dexEntry": "???",
 				"forms": [
@@ -11399,6 +11405,7 @@
 				]
 			},
 			"0912quax": {
+				"genders": [87.5,12.5],
 				"cry": "912",
 				"dexEntry": "???",
 				"forms": [
@@ -11409,6 +11416,7 @@
 				]
 			},
 			"0913quax": {
+				"genders": [87.5,12.5],
 				"cry": "913",
 				"dexEntry": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
 				"forms": [
@@ -11419,6 +11427,7 @@
 				]
 			},
 			"0914quaq": {
+				"genders": [87.5,12.5],
 				"cry": "914",
 				"dexEntry": "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
 				"forms": [
@@ -11426,6 +11435,7 @@
 				]
 			},
 			"0915lech": {
+				"genders": [50,50],
 				"cry": "915",
 				"dexEntry": "It searches for food all day. It possesses a keen sense of smell but doesn't use it for anything other than foraging.",
 				"forms": [
@@ -11436,6 +11446,7 @@
 				]
 			},
 			"0916oink": {
+				"genders": [50,50],
 				"cry": "916",
 				"dexEntry": "???",
 				"forms": [
@@ -11444,6 +11455,7 @@
 				]
 			},
 			"0917dudu": {
+				"genders": [50,50],
 				"cry": "917",
 				"dexEntry": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
 				"forms": [
@@ -11452,6 +11464,7 @@
 				]
 			},
 			"0918taro": {
+				"genders": [50,50],
 				"cry": "918",
 				"dexEntry": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of <<0123scyt>>, this Pokémon's natural ennemy.",
 				"forms": [
@@ -11462,6 +11475,7 @@
 				]
 			},
 			"0919spid": {
+				"genders": [50,50],
 				"cry": "919",
 				"dexEntry": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
 				"forms": [
@@ -11469,6 +11483,7 @@
 				]
 			},
 			"0920nymb": {
+				"genders": [50,50],
 				"cry": "920",
 				"dexEntry": "???",
 				"forms": [
@@ -11479,6 +11494,7 @@
 				]
 			},
 			"0921loki": {
+				"genders": [50,50],
 				"cry": "921",
 				"dexEntry": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
 				"forms": [
@@ -11486,6 +11502,7 @@
 				]
 			},
 			"0922rell": {
+				"genders": [50,50],
 				"cry": "922",
 				"dexEntry": "???",
 				"forms": [
@@ -11496,6 +11513,7 @@
 				]
 			},
 			"0923rabs": {
+				"genders": [50,50],
 				"cry": "923",
 				"dexEntry": "???",
 				"forms": [
@@ -11503,6 +11521,7 @@
 				]
 			},
 			"0924grea": {
+				"genders": [50,50],
 				"cry": "924",
 				"dexEntry": "???",
 				"forms": [
@@ -11513,6 +11532,7 @@
 				]
 			},
 			"0925houn": {
+				"genders": [50,50],
 				"cry": "925",
 				"dexEntry": "???",
 				"forms": [
@@ -11520,6 +11540,7 @@
 				]
 			},
 			"0926flit": {
+				"genders": [50,50],
 				"cry": "926",
 				"dexEntry": "Flittle's toes levitate about an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
 				"forms": [
@@ -11530,6 +11551,7 @@
 				]
 			},
 			"0927espa": {
+				"genders": [50,50],
 				"cry": "927",
 				"dexEntry": "???",
 				"forms": [
@@ -11537,6 +11559,7 @@
 				]
 			},
 			"0928fari": {
+				"genders": [50,50],
 				"cry": "928",
 				"dexEntry": "???",
 				"forms": [
@@ -11544,6 +11567,7 @@
 				]
 			},
 			"0929wigl": {
+				"genders": [50,50],
 				"cry": "929",
 				"dexEntry": "???",
 				"forms": [
@@ -11554,6 +11578,7 @@
 				]
 			},
 			"0930wugt": {
+				"genders": [50,50],
 				"cry": "930",
 				"dexEntry": "???",
 				"forms": [
@@ -11561,6 +11586,7 @@
 				]
 			},
 			"0931dond": {
+				"genders": [50,50],
 				"cry": "931",
 				"dexEntry": "???",
 				"forms": [
@@ -11568,6 +11594,7 @@
 				]
 			},
 			"0932velu": {
+				"genders": [50,50],
 				"cry": "932",
 				"dexEntry": "???",
 				"forms": [
@@ -11575,6 +11602,7 @@
 				]
 			},
 			"0933fini": {
+				"genders": [50,50],
 				"cry": "933",
 				"dexEntry": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
 				"forms": [
@@ -11585,6 +11613,7 @@
 				]
 			},
 			"0934pala": {
+				"genders": [50,50],
 				"cry": "934",
 				"dexEntry": "???",
 				"forms": [
@@ -11593,6 +11622,7 @@
 				]
 			},
 			"0935smol": {
+				"genders": [50,50],
 				"cry": "935",
 				"dexEntry": "???",
 				"forms": [
@@ -11603,6 +11633,7 @@
 				]
 			},
 			"0936doll": {
+				"genders": [50,50],
 				"cry": "936",
 				"dexEntry": "???",
 				"forms": [
@@ -11613,6 +11644,7 @@
 				]
 			},
 			"0937arbo": {
+				"genders": [50,50],
 				"cry": "937",
 				"dexEntry": "???",
 				"forms": [
@@ -11620,6 +11652,7 @@
 				]
 			},
 			"0938caps": {
+				"genders": [50,50],
 				"cry": "938",
 				"dexEntry": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
 				"forms": [
@@ -11630,6 +11663,7 @@
 				]
 			},
 			"0939scov": {
+				"genders": [50,50],
 				"cry": "939",
 				"dexEntry": "???",
 				"forms": [
@@ -11637,6 +11671,7 @@
 				]
 			},
 			"0940tadb": {
+				"genders": [50,50],
 				"cry": "940",
 				"dexEntry": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
 				"forms": [
@@ -11647,6 +11682,7 @@
 				]
 			},
 			"0941bell": {
+				"genders": [50,50],
 				"cry": "941",
 				"dexEntry": "???",
 				"forms": [
@@ -11654,6 +11690,7 @@
 				]
 			},
 			"0942varo": {
+				"genders": [50,50],
 				"cry": "942",
 				"dexEntry": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
 				"forms": [
@@ -11664,6 +11701,7 @@
 				]
 			},
 			"0943reva": {
+				"genders": [50,50],
 				"cry": "943",
 				"dexEntry": "???",
 				"forms": [
@@ -11671,6 +11709,7 @@
 				]
 			},
 			"0944orth": {
+				"genders": [50,50],
 				"cry": "944",
 				"dexEntry": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
 				"forms": [
@@ -11678,6 +11717,7 @@
 				]
 			},
 			"0945tand": {
+				"genders": [0,0],
 				"genes": [50,50],
 				"cry": "945",
 				"dexEntry": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
@@ -11689,6 +11729,7 @@
 				]
 			},
 			"0946maus": {
+				"genders": [0,0],
 				"genes": [50,50],
 				"cry": "946",
 				"dexEntry": "???",
@@ -11698,6 +11739,7 @@
 				]
 			},
 			"0947ceto": {
+				"genders": [50,50],
 				"cry": "947",
 				"dexEntry": "???",
 				"forms": [
@@ -11708,6 +11750,7 @@
 				]
 			},
 			"0948ceti": {
+				"genders": [50,50],
 				"cry": "948",
 				"dexEntry": "???",
 				"forms": [
@@ -11715,6 +11758,7 @@
 				]
 			},
 			"0949frig": {
+				"genders": [50,50],
 				"cry": "949",
 				"dexEntry": "???",
 				"forms": [
@@ -11725,6 +11769,7 @@
 				]
 			},
 			"0950arct": {
+				"genders": [50,50],
 				"cry": "950",
 				"dexEntry": "???",
 				"forms": [
@@ -11735,6 +11780,7 @@
 				]
 			},
 			"0951baxc": {
+				"genders": [50,50],
 				"cry": "951",
 				"dexEntry": "???",
 				"forms": [
@@ -11742,6 +11788,7 @@
 				]
 			},
 			"0952tats": {
+				"genders": [50,50],
 				"genes": [33.4,33.3,33.3],
 				"cry": "952",
 				"dexEntry": "???",
@@ -11752,6 +11799,7 @@
 				]
 			},
 			"0953cycl": {
+				"genders": [50,50],
 				"cry": "953",
 				"dexEntry": "???",
 				"forms": [
@@ -11759,6 +11807,7 @@
 				]
 			},
 			"0954pawm": {
+				"genders": [50,50],
 				"cry": "954",
 				"dexEntry": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
 				"forms": [
@@ -11769,6 +11818,7 @@
 				]
 			},
 			"0955pawm": {
+				"genders": [50,50],
 				"cry": "955",
 				"dexEntry": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
 				"forms": [
@@ -11779,6 +11829,7 @@
 				]
 			},
 			"0956pawm": {
+				"genders": [50,50],
 				"cry": "956",
 				"dexEntry": "???",
 				"forms": [
@@ -11786,6 +11837,7 @@
 				]
 			},
 			"0957watt": {
+				"genders": [50,50],
 				"cry": "957",
 				"dexEntry": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
 				"forms": [
@@ -11796,6 +11848,7 @@
 				]
 			},
 			"0958kilo": {
+				"genders": [50,50],
 				"cry": "958",
 				"dexEntry": "???",
 				"forms": [
@@ -11803,6 +11856,7 @@
 				]
 			},
 			"0959bomb": {
+				"genders": [50,50],
 				"cry": "959",
 				"dexEntry": "It gathers things up in an apron made from shed feathers added to the Pokémon's chest feathers, then drops those things from high places for fun.",
 				"forms": [
@@ -11810,6 +11864,7 @@
 				]
 			},
 			"0960squa": {
+				"genders": [50,50],
 				"genes": [25,25,25,25],
 				"cry": "960",
 				"dexEntry": "???",
@@ -11821,6 +11876,7 @@
 				]
 			},
 			"0961flam": {
+				"genders": [50,50],
 				"cry": "961",
 				"dexEntry": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
 				"forms": [
@@ -11828,6 +11884,7 @@
 				]
 			},
 			"0962klaw": {
+				"genders": [50,50],
 				"cry": "962",
 				"dexEntry": "???",
 				"forms": [
@@ -11835,6 +11892,7 @@
 				]
 			},
 			"0963nacl": {
+				"genders": [50,50],
 				"cry": "963",
 				"dexEntry": "???",
 				"forms": [
@@ -11845,6 +11903,7 @@
 				]
 			},
 			"0964nacl": {
+				"genders": [50,50],
 				"cry": "964",
 				"dexEntry": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
 				"forms": [
@@ -11855,6 +11914,7 @@
 				]
 			},
 			"0965garg": {
+				"genders": [50,50],
 				"cry": "965",
 				"dexEntry": "???",
 				"forms": [
@@ -11862,6 +11922,7 @@
 				]
 			},
 			"0966glim": {
+				"genders": [50,50],
 				"cry": "966",
 				"dexEntry": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
 				"forms": [
@@ -11872,6 +11933,7 @@
 				]
 			},
 			"0967glim": {
+				"genders": [50,50],
 				"cry": "967",
 				"dexEntry": "???",
 				"forms": [
@@ -11879,6 +11941,7 @@
 				]
 			},
 			"0968shro": {
+				"genders": [50,50],
 				"cry": "968",
 				"dexEntry": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its fire.",
 				"forms": [
@@ -11889,6 +11952,7 @@
 				]
 			},
 			"0969graf": {
+				"genders": [50,50],
 				"cry": "969",
 				"dexEntry": "???",
 				"forms": [
@@ -11896,6 +11960,7 @@
 				]
 			},
 			"0970fido": {
+				"genders": [50,50],
 				"cry": "970",
 				"dexEntry": "???",
 				"forms": [
@@ -11906,6 +11971,7 @@
 				]
 			},
 			"0971dach": {
+				"genders": [50,50],
 				"cry": "971",
 				"dexEntry": "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
 				"forms": [
@@ -11913,6 +11979,7 @@
 				]
 			},
 			"0972masc": {
+				"genders": [50,50],
 				"cry": "972",
 				"dexEntry": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
 				"forms": [
@@ -11923,6 +11990,7 @@
 				]
 			},
 			"0973mabo": {
+				"genders": [50,50],
 				"cry": "973",
 				"dexEntry": "???",
 				"forms": [
@@ -11931,6 +11999,7 @@
 				]
 			},
 			"0974bram": {
+				"genders": [50,50],
 				"cry": "974",
 				"dexEntry": "???",
 				"forms": [
@@ -11941,6 +12010,7 @@
 				]
 			},
 			"0975bram": {
+				"genders": [50,50],
 				"cry": "975",
 				"dexEntry": "???",
 				"forms": [
@@ -11948,6 +12018,7 @@
 				]
 			},
 			"0976gimm": {
+				"genders": [0,0],
 				"genes": [50,50],
 				"cry": "976",
 				"dexEntry": "???",
@@ -11960,6 +12031,7 @@
 				]
 			},
 			"0977ghol": {
+				"genders": [0,0],
 				"cry": "977",
 				"dexEntry": "???",
 				"forms": [
@@ -11967,6 +12039,7 @@
 				]
 			},
 			"0978grea": {
+				"genders": [0,0],
 				"cry": "978",
 				"dexEntry": "???",
 				"forms": [
@@ -11974,6 +12047,7 @@
 				]
 			},
 			"0979brut": {
+				"genders": [0,0],
 				"cry": "979",
 				"dexEntry": "???",
 				"forms": [
@@ -11981,6 +12055,7 @@
 				]
 			},
 			"0981sand": {
+				"genders": [0,0],
 				"cry": "981",
 				"dexEntry": "???",
 				"forms": [
@@ -11988,6 +12063,7 @@
 				]
 			},
 			"0982scre": {
+				"genders": [0,0],
 				"cry": "982",
 				"dexEntry": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
 				"forms": [
@@ -11995,6 +12071,7 @@
 				]
 			},
 			"0983flut": {
+				"genders": [0,0],
 				"cry": "983",
 				"dexEntry": "???",
 				"forms": [
@@ -12002,6 +12079,7 @@
 				]
 			},
 			"0984slit": {
+				"genders": [0,0],
 				"cry": "984",
 				"dexEntry": "???",
 				"forms": [
@@ -12009,6 +12087,7 @@
 				]
 			},
 			"0985roar": {
+				"genders": [0,0],
 				"cry": "985",
 				"dexEntry": "???",
 				"forms": [
@@ -12016,6 +12095,7 @@
 				]
 			},
 			"0986iron": {
+				"genders": [0,0],
 				"cry": "986",
 				"dexEntry": "???",
 				"forms": [
@@ -12023,6 +12103,7 @@
 				]
 			},
 			"0988iron": {
+				"genders": [0,0],
 				"cry": "988",
 				"dexEntry": "???",
 				"forms": [
@@ -12030,6 +12111,7 @@
 				]
 			},
 			"0989iron": {
+				"genders": [0,0],
 				"cry": "989",
 				"dexEntry": "???",
 				"forms": [
@@ -12037,6 +12119,7 @@
 				]
 			},
 			"0990iron": {
+				"genders": [0,0],
 				"cry": "990",
 				"dexEntry": "???",
 				"forms": [
@@ -12044,6 +12127,7 @@
 				]
 			},
 			"0991iron": {
+				"genders": [0,0],
 				"cry": "991",
 				"dexEntry": "???",
 				"forms": [
@@ -12051,6 +12135,7 @@
 				]
 			},
 			"0992iron": {
+				"genders": [0,0],
 				"cry": "992",
 				"dexEntry": "???",
 				"forms": [
@@ -12058,6 +12143,7 @@
 				]
 			},
 			"0993iron": {
+				"genders": [0,0],
 				"cry": "993",
 				"dexEntry": "???",
 				"forms": [
@@ -12065,6 +12151,7 @@
 				]
 			},
 			"0994ting": {
+				"genders": [0,0],
 				"cry": "994",
 				"dexEntry": "???",
 				"forms": [
@@ -12072,6 +12159,7 @@
 				]
 			},
 			"0995chie": {
+				"genders": [0,0],
 				"cry": "995",
 				"dexEntry": "???",
 				"forms": [
@@ -12079,6 +12167,7 @@
 				]
 			},
 			"0996woch": {
+				"genders": [0,0],
 				"cry": "996",
 				"dexEntry": "???",
 				"forms": [
@@ -12086,6 +12175,7 @@
 				]
 			},
 			"0997chiy": {
+				"genders": [0,0],
 				"cry": "997",
 				"dexEntry": "???",
 				"forms": [
@@ -12093,6 +12183,7 @@
 				]
 			},
 			"0998kora": {
+				"genders": [0,0],
 				"cry": "998",
 				"dexEntry": "???",
 				"forms": [
@@ -12100,6 +12191,7 @@
 				]
 			},
 			"0999mira": {
+				"genders": [0,0],
 				"cry": "999",
 				"dexEntry": "???",
 				"forms": [
@@ -12107,6 +12199,7 @@
 				]
 			},
 			"1000tink": {
+				"genders": [0,100],
 				"cry": "1000",
 				"dexEntry": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
 				"forms": [
@@ -12117,6 +12210,7 @@
 				]
 			},
 			"1001tink": {
+				"genders": [0,100],
 				"cry": "1001",
 				"dexEntry": "This Pokémon will attack groups of <<0624pawn>> and <<0625bish>>, gathering metal from them in order to create a large and sturdy hammer.",
 				"forms": [
@@ -12127,6 +12221,7 @@
 				]
 			},
 			"1002tink": {
+				"genders": [0,100],
 				"cry": "1002",
 				"dexEntry": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying <<0823corv>>.",
 				"forms": [
@@ -12134,6 +12229,7 @@
 				]
 			},
 			"1003char": {
+				"genders": [50,50],
 				"warm": true,
 				"cry": "1003",
 				"dexEntry": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Carchadet will battle even tough opponents.",
@@ -12146,6 +12242,7 @@
 				]
 			},
 			"1004arma": {
+				"genders": [50,50],
 				"cry": "1004",
 				"dexEntry": "???",
 				"forms": [
@@ -12153,6 +12250,7 @@
 				]
 			},
 			"1005ceru": {
+				"genders": [50,50],
 				"cry": "1005",
 				"dexEntry": "???",
 				"forms": [
@@ -12160,6 +12258,7 @@
 				]
 			},
 			"1006toed": {
+				"genders": [50,50],
 				"cry": "1006",
 				"dexEntry": "???",
 				"forms": [
@@ -12170,6 +12269,7 @@
 				]
 			},
 			"1007toed": {
+				"genders": [50,50],
 				"cry": "1007",
 				"dexEntry": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
 				"forms": [
@@ -12177,6 +12277,7 @@
 				]
 			},
 			"1008king": {
+				"genders": [50,50],
 				"cry": "1008",
 				"dexEntry": "???",
 				"forms": [
@@ -12184,6 +12285,7 @@
 				]
 			},
 			"1009clod": {
+				"genders": [50,50],
 				"cry": "1009",
 				"dexEntry": "???",
 				"forms": [
@@ -12191,6 +12293,7 @@
 				]
 			},
 			"1010anni": {
+				"genders": [50,50],
 				"cry": "1010",
 				"dexEntry": "???",
 				"forms": [
