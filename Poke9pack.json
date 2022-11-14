@@ -1,8 +1,8 @@
 {
 	"packName": "poke9_data",
 	"packPublicName": "Pokemon [9 gens] Data Pack",
-	"versionName": "0.7",
-	"versionNumber": 4,
+	"versionName": "0.8",
+	"versionNumber": 5,
 	"compatibleBackups": ["poke8_data", "poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke8_data", "poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"minAppVersion": 252,
@@ -17807,7 +17807,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17816,7 +17816,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17825,7 +17825,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17834,7 +17834,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17843,7 +17843,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17852,7 +17852,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17861,7 +17861,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17870,7 +17870,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17879,7 +17879,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17888,7 +17888,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17897,7 +17897,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17906,7 +17906,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17915,7 +17915,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
@@ -17924,7 +17924,7 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.6,
+				"diffusion": 0.2,
 				"frequency": 1,
 				"eggCycles": 40,
 				"members": [
