@@ -1,8 +1,8 @@
 {
 	"packName": "poke9_data",
 	"packPublicName": "Pokemon [9 gens] Data Pack",
-	"versionName": "0.5",
-	"versionNumber": 2,
+	"versionName": "0.7",
+	"versionNumber": 4,
 	"compatibleBackups": ["poke8_data", "poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke8_data", "poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"minAppVersion": 252,
@@ -17435,6 +17435,9 @@
 			{
 				"gen": 9,
 				"eventFamily": "newyear",
+				"diffusion": 0.8,
+				"frequency": 1,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0906spri", "range": [1, 20]},
 					{"id": "0907flor", "range": [16, 40]},
@@ -17444,6 +17447,9 @@
 			{
 				"gen": 9,
 				"eventFamily": "newyear",
+				"diffusion": 0.8,
+				"frequency": 1,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0909fuec", "range": [1, 20]},
 					{"id": "0910croc", "range": [16, 40]},
@@ -17453,6 +17459,9 @@
 			{
 				"gen": 9,
 				"eventFamily": "newyear",
+				"diffusion": 0.8,
+				"frequency": 1,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0912quax", "range": [1, 20]},
 					{"id": "0913quax", "range": [16, 40]},
@@ -17461,6 +17470,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.2,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0915lech", "range": [1, 22]},
 					{"id": "0916oink", "range": [18, 100]}
@@ -17468,6 +17480,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.2,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0918taro", "range": [1, 19]},
 					{"id": "0919spid", "range": [15, 100]}
@@ -17475,6 +17490,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0920nymb", "range": [1, 28]},
 					{"id": "0921loki", "range": [24, 100]}
@@ -17482,6 +17500,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0922rell", "range": [1, 20]},
 					{"id": "0923rabs", "range": [16, 100]}
@@ -17489,6 +17510,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.9,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0924grea", "range": [1, 34]},
 					{"id": "0925houn", "range": [30, 100]}
@@ -17496,6 +17520,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.9,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0926flit", "range": [1, 39]},
 					{"id": "0927espa", "range": [35, 100]}
@@ -17503,6 +17530,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.2,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0929wigl", "range": [1, 30]},
 					{"id": "0930wugt", "range": [26, 100]}
@@ -17510,18 +17540,27 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 3,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0931dond"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 2,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0932velu"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0933fini", "range": [1, 42]},
 					{"id": "0934pala", "range": [38, 100]}
@@ -17529,6 +17568,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.2,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0935smol", "range": [1, 29]},
 					{"id": "0936doll", "range": [25, 39]},
@@ -17537,6 +17579,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0938caps", "range": [1, 100]},
 					{"id": "0939scov", "range": [45, 100]}
@@ -17547,6 +17592,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0940tadb", "range": [1, 100]},
 					{"id": "0941bell", "range": [45, 100]}
@@ -17557,6 +17605,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0942varo", "range": [1, 44]},
 					{"id": "0943reva", "range": [40, 100]}
@@ -17564,12 +17615,18 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 3,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0944orth"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0945tand", "range": [1, 20]},
 					{"id": "0946maus", "range": [16, 100]}
@@ -17577,6 +17634,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0947ceto", "range": [1, 100]},
 					{"id": "0948ceti", "range": [45, 100]}
@@ -17587,6 +17647,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0949frig", "range": [1, 39]},
 					{"id": "0950arct", "range": [35, 58]},
@@ -17595,18 +17658,27 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 2,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0952tats"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0953cycl"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0954pawm", "range": [1, 22]},
 					{"id": "0955pawm", "range": [18, 100]},
@@ -17615,6 +17687,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.9,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0957watt", "range": [1, 29]},
 					{"id": "0958kilo", "range": [25, 100]}
@@ -17622,30 +17697,45 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 2,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0959bomb"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0960squa"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 2,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0961flam"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.9,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0962klaw"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.2,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0963nacl", "range": [1, 28]},
 					{"id": "0964nacl", "range": [24, 42]},
@@ -17654,6 +17744,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 2,
+				"eggCycles": 25,
 				"members": [
 					{"id": "0966glim", "range": [1, 39]},
 					{"id": "0967glim", "range": [35, 100]}
@@ -17661,6 +17754,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0968shro", "range": [1, 32]},
 					{"id": "0969graf", "range": [28, 100]}
@@ -17668,6 +17764,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0970fido", "range": [1, 30]},
 					{"id": "0971dach", "range": [26, 100]}
@@ -17675,6 +17774,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0972masc", "range": [1, 34]},
 					{"id": "0973mabo", "range": [30, 100]}
@@ -17682,6 +17784,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "0974bram", "range": [1, 100]},
 					{"id": "0975bram", "range": [55, 100]}
@@ -17689,6 +17794,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.9,
+				"frequency": 2,
+				"eggCycles": 25,
 				"members": [
 					{"id": "0976gimm", "range": [1, 100]},
 					{"id": "0977ghol", "range": [55, 100]}
@@ -17696,90 +17804,135 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0978grea"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0979brut"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0981sand"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0982scre"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0983flut"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0984slit"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0985roar"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0986iron"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0988iron"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0989iron"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0990iron"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0991iron"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0992iron"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.6,
+				"frequency": 1,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0993iron"}
 				]
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "1000tink", "range": [1, 28]},
 					{"id": "1001tink", "range": [24, 42]},
@@ -17788,6 +17941,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 0.75,
+				"frequency": 1,
+				"eggCycles": 20,
 				"members": [
 					{"id": "1003char", "range": [1, 100]},
 					{"id": "1004arma", "range": [45, 100]},
@@ -17800,6 +17956,9 @@
 			},
 			{
 				"gen": 9,
+				"diffusion": 1.05,
+				"frequency": 3,
+				"eggCycles": 20,
 				"members": [
 					{"id": "1006toed", "range": [1, 34]},
 					{"id": "1007toed", "range": [30, 100]}
@@ -18493,13 +18652,13 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0998kora", "minlvl": 65}
+					{"id": "0998kora", "minlvl": 70}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0999mira", "minlvl": 65}
+					{"id": "0999mira", "minlvl": 70}
 				]
 			}
 		]
