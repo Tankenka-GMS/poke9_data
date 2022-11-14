@@ -12054,6 +12054,11 @@
 					{"name": "Brute Bonnet", "types": ["grass", "dark"], "power": 3, "baseImages": ["0979", "0979_ico"]}
 				]
 			},
+			"0980": {
+				"forms": [
+					{"name": "Ancient Suicune", "types": ["normal"], "power": 3, "baseImages": ["0980", "0980_ico"]}
+				]
+			},
 			"0981sand": {
 				"genders": [0,0],
 				"cry": "981",
@@ -12100,6 +12105,11 @@
 				"dexEntry": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
 				"forms": [
 					{"name": "Iron Treads", "types": ["ground", "steel"], "power": 3, "baseImages": ["0986", "0986_ico"]}
+				]
+			},
+			"0987": {
+				"forms": [
+					{"name": "Future Virizion", "types": ["normal"], "power": 3, "baseImages": ["0987", "0987_ico"]}
 				]
 			},
 			"0988iron": {
@@ -13338,7 +13348,6 @@
 			},
 			{
 				"gen": 9,
-				"familyPrefix": "Paldean ",
 				"familyGene": 1,
 				"diffusion": 0.6,
 				"frequency": 3,
@@ -13699,7 +13708,6 @@
 			},
 			{
 				"gen": 9,
-				"familyPrefix": "Paldean ",
 				"familyGene": 1,
 				"diffusion": 0.75,
 				"frequency": 3,
