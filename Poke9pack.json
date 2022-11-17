@@ -11361,7 +11361,7 @@
 			"0907flor": {
 				"genders": [87.5,12.5],
 				"cry": "907",
-				"dexEntry": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is preparded to battle, its fur becomes pointed and sharp.",
+				"dexEntry": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and sharp.",
 				"forms": [
 					{"name": "Floragato", "types": ["grass"], "power": 1, "baseImages": ["0907", "0907_ico"]}
 				],
@@ -11997,8 +11997,7 @@
 				"cry": "973",
 				"dexEntry": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
 				"forms": [
-					{"conditions": {"hour": "day"}, "name": "Mabosstiff", "types": ["dark"], "power": 2, "baseImages": ["0973", "0973_ico"]},
-					{"conditions": {"hour": "night"}, "name": "Mabosstiff", "types": ["dark"], "power": 2, "baseImages": ["0973", "0973_ico"]}
+					{"name": "Mabosstiff", "types": ["dark"], "power": 2, "baseImages": ["0973", "0973_ico"]}
 				]
 			},
 			"0974bram": {
