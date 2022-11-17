@@ -17807,132 +17807,6 @@
 			},
 			{
 				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0978grea"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0979brut"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0981sand"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0982scre"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0983flut"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0984slit"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0985roar"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0986iron"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0988iron"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0989iron"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0990iron"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0991iron"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0992iron"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.2,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0993iron"}
-				]
-			},
-			{
-				"gen": 9,
 				"diffusion": 1.05,
 				"eggFrequency": 3,
 				"eggCycles": 20,
@@ -18626,6 +18500,90 @@
 				],
 				"items": [
 					{"id": "Reveal Glass", "prob": 0.1}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0978grea", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0979brut", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0981sand", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0982scre", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0983flut", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0984slit", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0985roar", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0986iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0988iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0989iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0990iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0991iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0992iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0993iron", "minlvl": 50}
 				]
 			},
 			{
