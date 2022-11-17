@@ -12319,7 +12319,7 @@
 				"gen": 1,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0001bulb", "range": [1, 20]},
@@ -12335,7 +12335,7 @@
 				"basicTypes": ["fire"],
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0004char", "range": [1, 20]},
@@ -12351,7 +12351,7 @@
 				"gen": 1,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0007squi", "range": [1, 20]},
@@ -12366,7 +12366,7 @@
 				"gen": 1,
 				"basicTypes": ["bug"],
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0010cate", "range": [1, 11]},
@@ -12377,7 +12377,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0013weed", "range": [1, 11]},
@@ -12391,7 +12391,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0016pidg", "range": [1, 22]},
@@ -12406,7 +12406,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0019ratt", "range": [1, 24]},
@@ -12417,7 +12417,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0019ratt", "range": [1, 24]},
@@ -12427,7 +12427,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0021spea", "range": [1, 24]},
@@ -12437,7 +12437,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0023ekan", "range": [1, 26]},
@@ -12449,7 +12449,7 @@
 				"repMember": "0025pika",
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0172pich", "range": [1, 20]},
@@ -12467,7 +12467,7 @@
 				"familyPrefix": "Alolan ",
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0172pich", "range": [1, 20]},
@@ -12483,7 +12483,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0027sand", "range": [1, 26]},
@@ -12494,7 +12494,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0027sand", "range": [1, 100]},
@@ -12509,7 +12509,7 @@
 				"repMember": "0032nido",
 				"basicTypes": ["poison"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"eggSpecies": ["0029nido", "0032nido"],
 				"members": [
@@ -12528,7 +12528,7 @@
 				"gen": 1,
 				"repMember": "0035clef",
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0173clef", "range": [1, 20]},
@@ -12543,7 +12543,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0037vulp", "range": [1, 100]},
@@ -12557,7 +12557,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0037vulp", "range": [1, 100]},
@@ -12571,7 +12571,7 @@
 				"gen": 1,
 				"repMember": "0039jigg",
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0174iggl", "range": [1, 20]},
@@ -12585,7 +12585,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0041zuba", "range": [1, 26]},
@@ -12596,7 +12596,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0043oddi", "range": [1, 25]},
@@ -12612,7 +12612,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0046para", "range": [1, 28]},
@@ -12622,7 +12622,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0048veno", "range": [1, 35]},
@@ -12633,7 +12633,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0050digl", "range": [1, 30]},
@@ -12644,7 +12644,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0050digl", "range": [1, 30]},
@@ -12655,7 +12655,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0052meow", "range": [1, 32]},
@@ -12666,7 +12666,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0052meow", "range": [1, 100]},
@@ -12677,7 +12677,7 @@
 				"gen": 8,
 				"familyGene": 2,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0052meow", "range": [1, 32]},
@@ -12687,7 +12687,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0054psyd", "range": [1, 37]},
@@ -12697,7 +12697,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0056mank", "range": [1, 32]},
@@ -12709,7 +12709,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0058grow", "range": [1, 100]},
@@ -12723,7 +12723,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0058grow", "range": [1, 100]},
@@ -12737,7 +12737,7 @@
 				"gen": 1,
 				"basicTypes": ["water"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0060poli", "range": [1, 29]},
@@ -12753,7 +12753,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0063abra", "range": [1, 20]},
@@ -12768,7 +12768,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0066mach", "range": [1, 32]},
@@ -12782,7 +12782,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0069bell", "range": [1, 25]},
@@ -12797,7 +12797,7 @@
 				"gen": 1,
 				"basicTypes": ["water"],
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0072tent", "range": [1, 34]},
@@ -12808,7 +12808,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0074geod", "range": [1, 29]},
@@ -12823,7 +12823,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0074geod", "range": [1, 29]},
@@ -12838,7 +12838,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0077pony", "range": [1, 44]},
@@ -12849,7 +12849,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0077pony", "range": [1, 44]},
@@ -12860,7 +12860,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0079slow", "range": [1, 41]},
@@ -12876,7 +12876,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0079slow", "range": [1, 100]},
@@ -12891,7 +12891,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0081magn", "range": [1, 34]},
@@ -12907,7 +12907,7 @@
 				"basicTypes": ["normal"],
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0083farf"}
@@ -12917,7 +12917,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0083farf", "range": [1, 44]},
@@ -12928,7 +12928,7 @@
 				"gen": 1,
 				"basicTypes": ["normal"],
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0084dodu", "range": [1, 35]},
@@ -12938,7 +12938,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0086seel", "range": [1, 38]},
@@ -12949,7 +12949,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0088grim", "range": [1, 42]},
@@ -12960,7 +12960,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0088grim", "range": [1, 42]},
@@ -12971,7 +12971,7 @@
 				"gen": 1,
 				"basicTypes": ["water"],
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0090shel", "range": [1, 100]},
@@ -12984,7 +12984,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0092gast", "range": [1, 29]},
@@ -12999,7 +12999,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0095onix", "range": [1, 100]},
@@ -13013,7 +13013,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0096drow", "range": [1, 30]},
@@ -13023,7 +13023,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0098krab", "range": [1, 32]},
@@ -13034,7 +13034,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0100volt", "range": [1, 34]},
@@ -13045,7 +13045,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0100volt", "range": [1, 34]},
@@ -13059,7 +13059,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0102exeg", "range": [1, 100]},
@@ -13074,7 +13074,7 @@
 				"familyPrefix": "Alolan ",
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0102exeg", "range": [1, 100]},
@@ -13088,7 +13088,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0104cubo", "range": [1, 32]},
@@ -13100,7 +13100,7 @@
 				"familyPrefix": "Alolan ",
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0104cubo", "range": [1, 32]},
@@ -13111,7 +13111,7 @@
 				"name": "Hitmon Family",
 				"gen": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0236tyro", "range": [1, 24]},
@@ -13123,7 +13123,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0108lick", "range": [1, 100]},
@@ -13134,7 +13134,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0109koff", "range": [1, 39]},
@@ -13146,7 +13146,7 @@
 				"familyPrefix": "Galarian ",
 				"familyGene": 1,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0109koff", "range": [1, 39]},
@@ -13156,7 +13156,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0111rhyh", "range": [1, 46]},
@@ -13171,7 +13171,7 @@
 				"gen": 1,
 				"repMember": "0113chan",
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0440happ", "range": [1, 20]},
@@ -13185,7 +13185,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0114tang", "range": [1, 100]},
@@ -13195,7 +13195,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0115kang"}
@@ -13208,7 +13208,7 @@
 				"gen": 1,
 				"basicTypes": ["water"],
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0116hors", "range": [1, 36]},
@@ -13222,7 +13222,7 @@
 			{
 				"gen": 1,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0118gold", "range": [1, 37]},
@@ -13233,7 +13233,7 @@
 				"gen": 1,
 				"basicTypes": ["water"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0120star", "range": [1, 100]},
@@ -13248,7 +13248,7 @@
 				"repMember": "0122mrmi",
 				"familyGene": 0,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0439mime", "range": [1, 20]},
@@ -13260,7 +13260,7 @@
 				"repMember": "0122mrmi",
 				"familyGene": 1,
 				"diffusion": 0.6,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0439mime", "range": [1, 20]},
@@ -13272,7 +13272,7 @@
 				"gen": 1,
 				"basicTypes": ["bug"],
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0123scyt", "range": [1, 100]},
@@ -13289,7 +13289,7 @@
 				"gen": 1,
 				"repMember": "0124jynx",
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0238smoo", "range": [1, 34]},
@@ -13300,7 +13300,7 @@
 				"gen": 1,
 				"repMember": "0125elec",
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0239elek", "range": [1, 34]},
@@ -13315,7 +13315,7 @@
 				"gen": 1,
 				"repMember": "0126magm",
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0240magb", "range": [1, 34]},
@@ -13330,7 +13330,7 @@
 				"gen": 1,
 				"basicTypes": ["bug"],
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0127pins"}
@@ -13343,7 +13343,7 @@
 				"gen": 1,
 				"familyGene": 0,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0128taur"}
@@ -13353,7 +13353,7 @@
 				"gen": 9,
 				"familyGene": 1,
 				"diffusion": 0.6,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0128taur"}
@@ -13363,7 +13363,7 @@
 				"gen": 1,
 				"basicTypes": ["water"],
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 5,
 				"members": [
 					{"id": "0129magi", "range": [1, 24]},
@@ -13376,7 +13376,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0131lapr"}
@@ -13385,7 +13385,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0132ditt"}
@@ -13396,7 +13396,7 @@
 				"gen": 1,
 				"basicTypes": ["normal"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 35,
 				"members": [
 					{"id": "0133eeve", "range": [1, 100]},
@@ -13420,7 +13420,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0137pory", "range": [1, 100]},
@@ -13435,7 +13435,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.6,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0138oman", "range": [1, 44]},
@@ -13445,7 +13445,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.6,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0140kabu", "range": [1, 44]},
@@ -13455,7 +13455,7 @@
 			{
 				"gen": 1,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 35,
 				"members": [
 					{"id": "0142aero"}
@@ -13468,7 +13468,7 @@
 				"gen": 1,
 				"repMember": "0143snor",
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0446munc", "range": [1, 20]},
@@ -13479,7 +13479,7 @@
 				"gen": 1,
 				"basicTypes": ["dragon"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0147drat", "range": [1, 34]},
@@ -13491,7 +13491,7 @@
 				"gen": 2,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0152chik", "range": [1, 20]},
@@ -13504,7 +13504,7 @@
 				"eventFamily": "newyear",
 				"familyGene": 0,
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0155cynd", "range": [1, 18]},
@@ -13518,7 +13518,7 @@
 				"familyPrefix": "Hisuian ",
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0155cynd", "range": [1, 18]},
@@ -13530,7 +13530,7 @@
 				"gen": 2,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0158toto", "range": [1, 22]},
@@ -13541,7 +13541,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0161sent", "range": [1, 19]},
@@ -13551,7 +13551,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0163hoot", "range": [1, 24]},
@@ -13562,7 +13562,7 @@
 				"gen": 2,
 				"basicTypes": ["bug"],
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0165ledy", "range": [1, 22]},
@@ -13572,7 +13572,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0167spin", "range": [1, 26]},
@@ -13583,7 +13583,7 @@
 				"gen": 2,
 				"basicTypes": ["water"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0170chin", "range": [1, 31]},
@@ -13594,7 +13594,7 @@
 				"gen": 2,
 				"basicTypes": ["fairy"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0175toge", "range": [1, 34]},
@@ -13608,7 +13608,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0177natu", "range": [1, 29]},
@@ -13619,7 +13619,7 @@
 				"gen": 2,
 				"basicTypes": ["electric"],
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0179mare", "range": [1, 19]},
@@ -13635,7 +13635,7 @@
 				"repMember": "0183mari",
 				"basicTypes": ["water","fairy"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0298azur", "range": [1, 12]},
@@ -13647,7 +13647,7 @@
 				"gen": 2,
 				"repMember": "0185sudo",
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0438bons", "range": [1, 20]},
@@ -13657,7 +13657,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0187hopp", "range": [1, 22]},
@@ -13668,7 +13668,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0190aipo", "range": [1, 37]},
@@ -13678,7 +13678,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0191sunk", "range": [1, 100]},
@@ -13691,7 +13691,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0193yanm", "range": [1, 100]},
@@ -13702,7 +13702,7 @@
 				"gen": 2,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0194woop", "range": [1, 24]},
@@ -13713,7 +13713,7 @@
 				"gen": 9,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0194woop", "range": [1, 24]},
@@ -13723,7 +13723,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0198murk", "range": [1, 100]},
@@ -13736,7 +13736,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0200misd", "range": [1, 100]},
@@ -13749,7 +13749,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0201unow"}
@@ -13759,7 +13759,7 @@
 				"gen": 2,
 				"repMember": "0202wobb",
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0360wyna", "range": [1, 19]},
@@ -13769,7 +13769,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0203gira", "range": [1, 37]},
@@ -13780,7 +13780,7 @@
 				"gen": 2,
 				"basicTypes": ["bug"],
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0204pine", "range": [1, 35]},
@@ -13790,7 +13790,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0206duns", "range": [1, 34]},
@@ -13800,7 +13800,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0207glig", "range": [1, 100]},
@@ -13813,7 +13813,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0209snub", "range": [1, 27]},
@@ -13825,7 +13825,7 @@
 				"basicTypes": ["water"],
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0211qwil"}
@@ -13836,7 +13836,7 @@
 				"basicTypes": ["water"],
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0211qwil", "range": [1, 42]},
@@ -13846,7 +13846,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0213shuc"}
@@ -13855,7 +13855,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0214hera"}
@@ -13868,7 +13868,7 @@
 				"gen": 2,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0215snea", "range": [1, 100]},
@@ -13882,7 +13882,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0215snea", "range": [1, 42]},
@@ -13892,7 +13892,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0216tedd", "range": [1, 34]},
@@ -13906,7 +13906,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0218slug", "range": [1, 42]},
@@ -13916,7 +13916,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0220swin", "range": [1, 37]},
@@ -13928,7 +13928,7 @@
 				"gen": 2,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0222cors"}
@@ -13938,7 +13938,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0222cors", "range": [1, 42]},
@@ -13948,7 +13948,7 @@
 			{
 				"gen": 2,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0223remo", "range": [1, 29]},
@@ -13960,7 +13960,7 @@
 				"basicTypes": ["ice"],
 				"eventFamily": "christmas",
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0225deli"}
@@ -13971,7 +13971,7 @@
 				"repMember": "0226mant",
 				"basicTypes": ["water"],
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0458mant", "range": [1, 49]},
@@ -13981,7 +13981,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0227skar"}
@@ -13990,7 +13990,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0228houn", "range": [1, 28]},
@@ -14003,7 +14003,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0231phan", "range": [1, 29]},
@@ -14013,7 +14013,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0234stan", "range": [1, 100]},
@@ -14023,7 +14023,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0235smea"}
@@ -14032,7 +14032,7 @@
 			{
 				"gen": 2,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0241milt"}
@@ -14042,7 +14042,7 @@
 				"gen": 2,
 				"basicTypes": ["rock","ground"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0246larv", "range": [1, 34]},
@@ -14058,7 +14058,7 @@
 				"basicTypes": ["grass"],
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0252tree", "range": [1, 20]},
@@ -14073,7 +14073,7 @@
 				"gen": 3,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0255torc", "range": [1, 20]},
@@ -14088,7 +14088,7 @@
 				"gen": 3,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0258mudk", "range": [1, 20]},
@@ -14102,7 +14102,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0261pooc", "range": [1, 22]},
@@ -14113,7 +14113,7 @@
 				"gen": 3,
 				"familyGene": 0,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0263zigz", "range": [1, 24]},
@@ -14124,7 +14124,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0263zigz", "range": [1, 24]},
@@ -14136,7 +14136,7 @@
 				"gen": 3,
 				"basicTypes": ["bug"],
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0265wurm", "range": [1, 11]},
@@ -14149,7 +14149,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0270lota", "range": [1, 18]},
@@ -14163,7 +14163,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0273seed", "range": [1, 18]},
@@ -14177,7 +14177,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0276tail", "range": [1, 26]},
@@ -14187,7 +14187,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0278wing", "range": [1, 29]},
@@ -14198,7 +14198,7 @@
 				"gen": 3,
 				"basicTypes": ["psychic","fairy"],
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0280ralt", "range": [1, 24]},
@@ -14216,7 +14216,7 @@
 				"gen": 3,
 				"basicTypes": ["bug","water"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0283surs", "range": [1, 26]},
@@ -14226,7 +14226,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0285shro", "range": [1, 27]},
@@ -14236,7 +14236,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0287slak", "range": [1, 22]},
@@ -14248,7 +14248,7 @@
 				"gen": 3,
 				"basicTypes": ["bug"],
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0290ninc", "range": [1, 24]},
@@ -14259,7 +14259,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0293whis", "range": [1, 24]},
@@ -14270,7 +14270,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0296maku", "range": [1, 28]},
@@ -14280,7 +14280,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0299nose", "range": [1, 100]},
@@ -14293,7 +14293,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0300skit", "range": [1, 100]},
@@ -14306,7 +14306,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0302sabl"}
@@ -14318,7 +14318,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0303mawi"}
@@ -14330,7 +14330,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 35,
 				"members": [
 					{"id": "0304aron", "range": [1, 36]},
@@ -14344,7 +14344,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0307medi", "range": [1, 41]},
@@ -14357,7 +14357,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0309elec", "range": [1, 30]},
@@ -14370,7 +14370,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0311plus"}
@@ -14379,7 +14379,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0312minu"}
@@ -14389,7 +14389,7 @@
 				"name": "<<0313volb>>&<<0314illu>> Family",
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"eggSpecies": ["0313volb", "0314illu"],
 				"members": [
@@ -14401,7 +14401,7 @@
 				"gen": 3,
 				"repMember": "0315rose",
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0406bude", "range": [1, 20]},
@@ -14415,7 +14415,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0316gulp", "range": [1, 30]},
@@ -14426,7 +14426,7 @@
 				"gen": 3,
 				"basicTypes": ["water"],
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0318carv", "range": [1, 34]},
@@ -14439,7 +14439,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0320wail", "range": [1, 44]},
@@ -14449,7 +14449,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0322nume", "range": [1, 37]},
@@ -14462,7 +14462,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0324tork"}
@@ -14471,7 +14471,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0325spoi", "range": [1, 36]},
@@ -14481,7 +14481,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0327spin"}
@@ -14490,7 +14490,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0328trap", "range": [1, 39]},
@@ -14501,7 +14501,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0331cacn", "range": [1, 36]},
@@ -14512,7 +14512,7 @@
 				"gen": 3,
 				"basicTypes": ["flying","dragon"],
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0333swab", "range": [1, 39]},
@@ -14525,7 +14525,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0335zang"}
@@ -14534,7 +14534,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0336sevi"}
@@ -14543,7 +14543,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0337luna"}
@@ -14552,7 +14552,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0338solr"}
@@ -14562,7 +14562,7 @@
 				"gen": 3,
 				"basicTypes": ["water"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0339barb", "range": [1, 34]},
@@ -14572,7 +14572,7 @@
 			{
 				"gen": 3,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0341corp", "range": [1, 34]},
@@ -14582,7 +14582,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0343balt", "range": [1, 40]},
@@ -14592,7 +14592,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.6,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0345lile", "range": [1, 44]},
@@ -14602,7 +14602,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.6,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0347anor", "range": [1, 44]},
@@ -14612,7 +14612,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0349feeb", "range": [1, 100]},
@@ -14626,7 +14626,7 @@
 				"gen": 3,
 				"basicTypes": ["normal"],
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0351cast"}
@@ -14641,7 +14641,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0352kecl"}
@@ -14650,7 +14650,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0353shup", "range": [1, 41]},
@@ -14663,7 +14663,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0355dusk", "range": [1, 41]},
@@ -14678,7 +14678,7 @@
 				"gen": 3,
 				"basicTypes": ["grass"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0357trop"}
@@ -14688,7 +14688,7 @@
 				"gen": 3,
 				"repMember": "0358chim",
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0433chin", "range": [1, 20]},
@@ -14698,7 +14698,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0359abso"}
@@ -14711,7 +14711,7 @@
 				"gen": 3,
 				"basicTypes": ["ice"],
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0361snor", "range": [1, 46]},
@@ -14726,7 +14726,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0363sphe", "range": [1, 36]},
@@ -14737,7 +14737,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0366clam", "range": [1, 100]},
@@ -14753,7 +14753,7 @@
 				"gen": 3,
 				"basicTypes": ["water"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0369reli"}
@@ -14762,7 +14762,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0370luvd"}
@@ -14772,7 +14772,7 @@
 				"gen": 3,
 				"basicTypes": ["dragon"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0371bago", "range": [1, 34]},
@@ -14786,7 +14786,7 @@
 			{
 				"gen": 3,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0374beld", "range": [1, 24]},
@@ -14801,7 +14801,7 @@
 				"gen": 4,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0387turt", "range": [1, 22]},
@@ -14813,7 +14813,7 @@
 				"gen": 4,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0390chim", "range": [1, 18]},
@@ -14826,7 +14826,7 @@
 				"basicTypes": ["water"],
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0393pipl", "range": [1, 20]},
@@ -14837,7 +14837,7 @@
 			{
 				"gen": 4,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0396star", "range": [1, 18]},
@@ -14849,7 +14849,7 @@
 				"gen": 4,
 				"basicTypes": ["normal"],
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0399bido", "range": [1, 19]},
@@ -14859,7 +14859,7 @@
 			{
 				"gen": 4,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0401kric", "range": [1, 14]},
@@ -14869,7 +14869,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0403shin", "range": [1, 19]},
@@ -14880,7 +14880,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.6,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0408cran", "range": [1, 34]},
@@ -14890,7 +14890,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.6,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0410shie", "range": [1, 34]},
@@ -14901,7 +14901,7 @@
 				"gen": 4,
 				"basicTypes": ["bug"],
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0412burm", "range": [1, 24]},
@@ -14913,7 +14913,7 @@
 				"gen": 4,
 				"basicTypes": ["bug"],
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0415comb", "range": [1, 100]},
@@ -14923,7 +14923,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0417pach"}
@@ -14932,7 +14932,7 @@
 			{
 				"gen": 4,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0418buiz", "range": [1, 30]},
@@ -14942,7 +14942,7 @@
 			{
 				"gen": 4,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0420cher", "range": [1, 29]},
@@ -14953,7 +14953,7 @@
 				"gen": 4,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0422shel", "range": [1, 34]},
@@ -14964,7 +14964,7 @@
 				"gen": 4,
 				"familyGene": 1,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0422shel", "range": [1, 34]},
@@ -14974,7 +14974,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0425drif", "range": [1, 32]},
@@ -14984,7 +14984,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0427bune", "range": [1, 24]},
@@ -14997,7 +14997,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0431glam", "range": [1, 42]},
@@ -15007,7 +15007,7 @@
 			{
 				"gen": 4,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0434stun", "range": [1, 38]},
@@ -15017,7 +15017,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0436bron", "range": [1, 37]},
@@ -15027,7 +15027,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0441chat"}
@@ -15036,7 +15036,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0442spir"}
@@ -15045,7 +15045,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0443gibl", "range": [1, 28]},
@@ -15059,7 +15059,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0447riol", "range": [1, 24]},
@@ -15072,7 +15072,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0449hipp", "range": [1, 38]},
@@ -15082,7 +15082,7 @@
 			{
 				"gen": 4,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0451skor", "range": [1, 44]},
@@ -15092,7 +15092,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0453croa", "range": [1, 41]},
@@ -15102,7 +15102,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0455carn"}
@@ -15111,7 +15111,7 @@
 			{
 				"gen": 4,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0456finn", "range": [1, 35]},
@@ -15121,7 +15121,7 @@
 			{
 				"gen": 4,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0459snov", "range": [1, 44]},
@@ -15135,7 +15135,7 @@
 				"gen": 4,
 				"basicTypes": ["electric","ghost"],
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0479roto"}
@@ -15152,7 +15152,7 @@
 				"gen": 5,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0495sniv", "range": [1, 21]},
@@ -15164,7 +15164,7 @@
 				"gen": 5,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0498tepi", "range": [1, 21]},
@@ -15177,7 +15177,7 @@
 				"eventFamily": "newyear",
 				"familyGene": 0,
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0501osha", "range": [1, 21]},
@@ -15191,7 +15191,7 @@
 				"familyPrefix": "Hisuian ",
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0501osha", "range": [1, 21]},
@@ -15202,7 +15202,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0504patr", "range": [1, 24]},
@@ -15212,7 +15212,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0506lill", "range": [1, 20]},
@@ -15223,7 +15223,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0509purr", "range": [1, 24]},
@@ -15233,7 +15233,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0511pans", "range": [1, 100]},
@@ -15246,7 +15246,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0513pans", "range": [1, 100]},
@@ -15259,7 +15259,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0515panp", "range": [1, 100]},
@@ -15272,7 +15272,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0517munn", "range": [1, 100]},
@@ -15285,7 +15285,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0519pido", "range": [1, 25]},
@@ -15296,7 +15296,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0522blit", "range": [1, 31]},
@@ -15306,7 +15306,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0524rogg", "range": [1, 29]},
@@ -15320,7 +15320,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0527woob", "range": [1, 25]},
@@ -15330,7 +15330,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0529dril", "range": [1, 35]},
@@ -15340,7 +15340,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0531audi"}
@@ -15352,7 +15352,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0532timb", "range": [1, 29]},
@@ -15366,7 +15366,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0535tymp", "range": [1, 29]},
@@ -15377,7 +15377,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0538thro"}
@@ -15386,7 +15386,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0539sawk"}
@@ -15395,7 +15395,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0540sewa", "range": [1, 24]},
@@ -15406,7 +15406,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0543veni", "range": [1, 26]},
@@ -15417,7 +15417,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0546cott", "range": [1, 100]},
@@ -15431,7 +15431,7 @@
 				"gen": 5,
 				"familyGene": 0,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0548peti", "range": [1, 100]},
@@ -15446,7 +15446,7 @@
 				"familyPrefix": "Hisuian ",
 				"familyGene": 1,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0548peti", "range": [1, 100]},
@@ -15459,7 +15459,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0550basc", "range": [1, 100]},
@@ -15469,7 +15469,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0551sand", "range": [1, 33]},
@@ -15481,7 +15481,7 @@
 				"gen": 5,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0554daru", "range": [1, 39]},
@@ -15496,7 +15496,7 @@
 				"basicTypes": ["ice"],
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0554daru", "range": [1, 100]},
@@ -15510,7 +15510,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0556mara"}
@@ -15519,7 +15519,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0557dweb", "range": [1, 38]},
@@ -15529,7 +15529,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0559scra", "range": [1, 43]},
@@ -15539,7 +15539,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0561sigi"}
@@ -15549,7 +15549,7 @@
 				"gen": 5,
 				"familyGene": 0,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0562yama", "range": [1, 38]},
@@ -15560,7 +15560,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0562yama", "range": [1, 100]},
@@ -15573,7 +15573,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.6,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0564tirt", "range": [1, 41]},
@@ -15583,7 +15583,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.6,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0566arch", "range": [1, 41]},
@@ -15593,7 +15593,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0568trub", "range": [1, 40]},
@@ -15604,7 +15604,7 @@
 				"gen": 5,
 				"familyGene": 0,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0570zoru", "range": [1, 34]},
@@ -15615,7 +15615,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0570zoru", "range": [1, 34]},
@@ -15625,7 +15625,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0572minc", "range": [1, 100]},
@@ -15638,7 +15638,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0574goth", "range": [1, 36]},
@@ -15649,7 +15649,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0577solo", "range": [1, 36]},
@@ -15660,7 +15660,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0580duck", "range": [1, 39]},
@@ -15670,7 +15670,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0582vani", "range": [1, 39]},
@@ -15681,7 +15681,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0585deer", "range": [1, 38]},
@@ -15692,7 +15692,7 @@
 				"gen": 5,
 				"basicTypes": ["electric"],
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0587emol"}
@@ -15701,7 +15701,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0588karr", "range": [1, 100]},
@@ -15714,7 +15714,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0590foon", "range": [1, 43]},
@@ -15724,7 +15724,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0592fril", "range": [1, 44]},
@@ -15734,7 +15734,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0594alom"}
@@ -15743,7 +15743,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0595jolt", "range": [1, 40]},
@@ -15753,7 +15753,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0597ferr", "range": [1, 44]},
@@ -15763,7 +15763,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0599klin", "range": [1, 42]},
@@ -15774,7 +15774,7 @@
 			{
 				"gen": 5,
 				"diffusion": 1.05,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0602tyna", "range": [1, 43]},
@@ -15788,7 +15788,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0605elgy", "range": [1, 46]},
@@ -15798,7 +15798,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0607litw", "range": [1, 45]},
@@ -15812,7 +15812,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0610axew", "range": [1, 42]},
@@ -15823,7 +15823,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0613cubc", "range": [1, 41]},
@@ -15833,7 +15833,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0615cryo"}
@@ -15842,7 +15842,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0616shel", "range": [1, 100]},
@@ -15856,7 +15856,7 @@
 				"gen": 5,
 				"familyGene": 0,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0618stun"}
@@ -15866,7 +15866,7 @@
 				"gen": 8,
 				"familyGene": 1,
 				"diffusion": 0.6,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0618stun"}
@@ -15875,7 +15875,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0619mien", "range": [1, 54]},
@@ -15885,7 +15885,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0621drud"}
@@ -15894,7 +15894,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0622gole", "range": [1, 47]},
@@ -15904,7 +15904,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0624pawn", "range": [1, 56]},
@@ -15918,7 +15918,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0626bouf"}
@@ -15928,7 +15928,7 @@
 				"gen": 5,
 				"familyGene": 0,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0627ruff", "range": [1, 58]},
@@ -15940,7 +15940,7 @@
 				"familyPrefix": "Hisuian ",
 				"familyGene": 1,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0627ruff", "range": [1, 58]},
@@ -15950,7 +15950,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0629vull", "range": [1, 58]},
@@ -15960,7 +15960,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0631heat"}
@@ -15969,7 +15969,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0632dura"}
@@ -15978,7 +15978,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0633dein", "range": [1, 54]},
@@ -15989,7 +15989,7 @@
 			{
 				"gen": 5,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0636larv", "range": [1, 63]},
@@ -16000,7 +16000,7 @@
 				"gen": 6,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0650ches", "range": [1, 20]},
@@ -16012,7 +16012,7 @@
 				"gen": 6,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0653fenn", "range": [1, 20]},
@@ -16024,7 +16024,7 @@
 				"gen": 6,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0656froa", "range": [1, 20]},
@@ -16038,7 +16038,7 @@
 			{
 				"gen": 6,
 				"diffusion": 1.2,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0659bunn", "range": [1, 24]},
@@ -16049,7 +16049,7 @@
 				"gen": 6,
 				"basicTypes": ["fire","flying"],
 				"diffusion": 1.2,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0661flet", "range": [1, 21]},
@@ -16062,7 +16062,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 0,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16075,7 +16075,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 1,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16088,7 +16088,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 2,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16101,7 +16101,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 3,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16114,7 +16114,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 4,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16127,7 +16127,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 5,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16140,7 +16140,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 6,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16153,7 +16153,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 7,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16166,7 +16166,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 8,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16179,7 +16179,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 9,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16192,7 +16192,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 10,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16205,7 +16205,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 11,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16218,7 +16218,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 12,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16231,7 +16231,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 13,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16244,7 +16244,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 14,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16257,7 +16257,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 15,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16270,7 +16270,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 16,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16283,7 +16283,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 17,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16296,7 +16296,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 18,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16309,7 +16309,7 @@
 				"basicTypes": ["bug"],
 				"familyGene": 19,
 				"diffusion": 0.2,
-				"frequency": 0.05,
+				"eggFrequency": 0.05,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0664scat", "range": [1, 13]},
@@ -16320,7 +16320,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0667litl", "range": [1, 39]},
@@ -16330,7 +16330,7 @@
 			{
 				"gen": 6,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0669flab", "range": [1, 23]},
@@ -16344,7 +16344,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0672skid", "range": [1, 36]},
@@ -16354,7 +16354,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0674panc", "range": [1, 36]},
@@ -16364,7 +16364,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0676furf"}
@@ -16373,7 +16373,7 @@
 			{
 				"gen": 6,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0677espu", "range": [1, 29]},
@@ -16383,7 +16383,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0679hone", "range": [1, 39]},
@@ -16397,7 +16397,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0682spri", "range": [1, 100]},
@@ -16410,7 +16410,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0684swir", "range": [1, 100]},
@@ -16423,7 +16423,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0686inka", "range": [1, 34]},
@@ -16433,7 +16433,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0688bina", "range": [1, 43]},
@@ -16444,7 +16444,7 @@
 				"gen": 6,
 				"basicTypes": ["water"],
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0690skre", "range": [1, 52]},
@@ -16454,7 +16454,7 @@
 			{
 				"gen": 6,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0692clau", "range": [1, 41]},
@@ -16464,7 +16464,7 @@
 			{
 				"gen": 6,
 				"diffusion": 1.05,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0694heli", "range": [1, 100]},
@@ -16477,7 +16477,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.6,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0696tyru", "range": [1, 43]},
@@ -16487,7 +16487,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.6,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0698amau", "range": [1, 43]},
@@ -16497,7 +16497,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0701hawl"}
@@ -16506,7 +16506,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0702dede"}
@@ -16515,7 +16515,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0703carb"}
@@ -16525,7 +16525,7 @@
 				"gen": 6,
 				"familyGene": 0,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0704goom", "range": [1, 44]},
@@ -16538,7 +16538,7 @@
 				"familyPrefix": "Hisuian ",
 				"familyGene": 1,
 				"diffusion": 0.6,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0704goom", "range": [1, 44]},
@@ -16549,7 +16549,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0707klef"}
@@ -16558,7 +16558,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0708phan", "range": [1, 100]},
@@ -16571,7 +16571,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0710pump", "range": [1, 100]},
@@ -16585,7 +16585,7 @@
 				"gen": 6,
 				"familyGene": 0,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0712berg", "range": [1, 41]},
@@ -16597,7 +16597,7 @@
 				"familyPrefix": "Hisuian ",
 				"familyGene": 1,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0712berg", "range": [1, 41]},
@@ -16607,7 +16607,7 @@
 			{
 				"gen": 6,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0714noib", "range": [1, 52]},
@@ -16618,7 +16618,7 @@
 				"gen": 7,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0722rowl", "range": [1, 21]},
@@ -16632,7 +16632,7 @@
 				"familyPrefix": "Hisuian ",
 				"familyGene": 1,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0722rowl", "range": [1, 21]},
@@ -16644,7 +16644,7 @@
 				"gen": 7,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0725litt", "range": [1, 21]},
@@ -16656,7 +16656,7 @@
 				"gen": 7,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0728popp", "range": [1, 21]},
@@ -16667,7 +16667,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0731piki", "range": [1, 18]},
@@ -16678,7 +16678,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0734yung", "range": [1, 24]},
@@ -16688,7 +16688,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0736grub", "range": [1, 24]},
@@ -16702,7 +16702,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0739crab", "range": [1, 100]},
@@ -16716,7 +16716,7 @@
 				"gen": 7,
 				"familyGene": 0,
 				"diffusion": 0.3,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0741oric"}
@@ -16729,7 +16729,7 @@
 				"gen": 7,
 				"familyGene": 1,
 				"diffusion": 0.3,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0741oric"}
@@ -16742,7 +16742,7 @@
 				"gen": 7,
 				"familyGene": 2,
 				"diffusion": 0.3,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0741oric"}
@@ -16755,7 +16755,7 @@
 				"gen": 7,
 				"familyGene": 3,
 				"diffusion": 0.3,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0741oric"}
@@ -16767,7 +16767,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0742cuti", "range": [1, 29]},
@@ -16777,7 +16777,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0744rock", "range": [1, 29]},
@@ -16787,7 +16787,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0746wish"}
@@ -16796,7 +16796,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0747mare", "range": [1, 42]},
@@ -16806,7 +16806,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0749mudb", "range": [1, 34]},
@@ -16816,7 +16816,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0751dewp", "range": [1, 26]},
@@ -16826,7 +16826,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0753foma", "range": [1, 38]},
@@ -16836,7 +16836,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0755more", "range": [1, 28]},
@@ -16846,7 +16846,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0757sala", "range": [1, 37]},
@@ -16856,7 +16856,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0759stuf", "range": [1, 31]},
@@ -16866,7 +16866,7 @@
 			{
 				"gen": 7,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0761boun", "range": [1, 22]},
@@ -16877,7 +16877,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0764comf"}
@@ -16886,7 +16886,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0765oran"}
@@ -16895,7 +16895,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0766pass"}
@@ -16904,7 +16904,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0767wimp", "range": [1, 34]},
@@ -16914,7 +16914,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0769sand", "range": [1, 46]},
@@ -16924,7 +16924,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0771pyuk"}
@@ -16934,7 +16934,7 @@
 				"gen": 7,
 				"basicTypes": ["normal"],
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0772type", "range": [1, 100]},
@@ -16964,7 +16964,7 @@
 				"gen": 7,
 				"basicTypes": ["rock"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0774mini"}
@@ -16973,7 +16973,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0775koma"}
@@ -16982,7 +16982,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0776turt"}
@@ -16991,7 +16991,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.9,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0777toge"}
@@ -17000,7 +17000,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0778mimi"}
@@ -17010,7 +17010,7 @@
 				"gen": 7,
 				"basicTypes": ["water"],
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0779brux"}
@@ -17019,7 +17019,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0780dram"}
@@ -17028,7 +17028,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0781dhel"}
@@ -17037,7 +17037,7 @@
 			{
 				"gen": 7,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0782jang", "range": [1, 39]},
@@ -17049,7 +17049,7 @@
 				"gen": 8,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0810groo", "range": [1, 20]},
@@ -17061,7 +17061,7 @@
 				"gen": 8,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0813scor", "range": [1, 20]},
@@ -17073,7 +17073,7 @@
 				"gen": 8,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0816sobb", "range": [1, 20]},
@@ -17084,7 +17084,7 @@
 			{
 				"gen": 8,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0819skwo", "range": [1, 28]},
@@ -17094,7 +17094,7 @@
 			{
 				"gen": 8,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0821rook", "range": [1, 22]},
@@ -17105,7 +17105,7 @@
 			{
 				"gen": 8,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0824blip", "range": [1, 14]},
@@ -17116,7 +17116,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0827nick", "range": [1, 22]},
@@ -17126,7 +17126,7 @@
 			{
 				"gen": 8,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0829goss", "range": [1, 24]},
@@ -17136,7 +17136,7 @@
 			{
 				"gen": 8,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0831wool", "range": [1, 28]},
@@ -17146,7 +17146,7 @@
 			{
 				"gen": 8,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0833chew", "range": [1, 26]},
@@ -17156,7 +17156,7 @@
 			{
 				"gen": 8,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0835yamp", "range": [1, 29]},
@@ -17166,7 +17166,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 15,
 				"members": [
 					{"id": "0837roly", "range": [1, 22]},
@@ -17177,7 +17177,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0840appl", "range": [1, 100]},
@@ -17192,7 +17192,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0843sili", "range": [1, 40]},
@@ -17202,7 +17202,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0845cram"}
@@ -17211,7 +17211,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0846arro", "range": [1, 30]},
@@ -17221,7 +17221,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0848toxe", "range": [1, 34]},
@@ -17231,7 +17231,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0850sizz", "range": [1, 32]},
@@ -17241,7 +17241,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0852clob", "range": [1, 40]},
@@ -17251,7 +17251,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0854sini", "range": [1, 100]},
@@ -17265,7 +17265,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0856hate", "range": [1, 36]},
@@ -17276,7 +17276,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0859impi", "range": [1, 36]},
@@ -17287,7 +17287,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0868milc", "range": [1, 100]},
@@ -17306,7 +17306,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0870fali"}
@@ -17315,7 +17315,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0871pinc"}
@@ -17324,7 +17324,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0872snom", "range": [1, 100]},
@@ -17334,7 +17334,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0874ston"}
@@ -17344,7 +17344,7 @@
 				"gen": 8,
 				"fullName": false,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0875eisc"}
@@ -17353,7 +17353,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0876inde"}
@@ -17363,7 +17363,7 @@
 				"gen": 8,
 				"fullName": false,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 10,
 				"members": [
 					{"id": "0877morp"}
@@ -17372,7 +17372,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0878cufa", "range": [1, 38]},
@@ -17382,7 +17382,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 35,
 				"members": [
 					{"id": "0880drac"}
@@ -17391,7 +17391,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 35,
 				"members": [
 					{"id": "0881arct"}
@@ -17400,7 +17400,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 35,
 				"members": [
 					{"id": "0882drac"}
@@ -17409,7 +17409,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.6,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 35,
 				"members": [
 					{"id": "0883arct"}
@@ -17418,7 +17418,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 30,
 				"members": [
 					{"id": "0884dura"}
@@ -17427,7 +17427,7 @@
 			{
 				"gen": 8,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0885dree", "range": [1, 54]},
@@ -17439,7 +17439,7 @@
 				"gen": 9,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0906spri", "range": [1, 20]},
@@ -17451,7 +17451,7 @@
 				"gen": 9,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0909fuec", "range": [1, 20]},
@@ -17463,7 +17463,7 @@
 				"gen": 9,
 				"eventFamily": "newyear",
 				"diffusion": 0.8,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0912quax", "range": [1, 20]},
@@ -17474,7 +17474,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0915lech", "range": [1, 22]},
@@ -17484,7 +17484,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0918taro", "range": [1, 19]},
@@ -17494,7 +17494,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0920nymb", "range": [1, 28]},
@@ -17504,7 +17504,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0922rell", "range": [1, 20]},
@@ -17514,7 +17514,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0924grea", "range": [1, 34]},
@@ -17524,7 +17524,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0926flit", "range": [1, 39]},
@@ -17534,7 +17534,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0929wigl", "range": [1, 30]},
@@ -17544,7 +17544,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0931dond"}
@@ -17553,7 +17553,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0932velu"}
@@ -17562,7 +17562,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0933fini", "range": [1, 42]},
@@ -17572,7 +17572,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0935smol", "range": [1, 29]},
@@ -17583,7 +17583,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0938caps", "range": [1, 100]},
@@ -17596,7 +17596,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0940tadb", "range": [1, 100]},
@@ -17609,7 +17609,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0942varo", "range": [1, 44]},
@@ -17619,7 +17619,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0944orth"}
@@ -17628,7 +17628,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0945tand", "range": [1, 20]},
@@ -17638,7 +17638,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0947ceto", "range": [1, 100]},
@@ -17651,7 +17651,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0949frig", "range": [1, 39]},
@@ -17662,7 +17662,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0952tats"}
@@ -17671,7 +17671,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0953cycl"}
@@ -17680,7 +17680,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0954pawm", "range": [1, 22]},
@@ -17691,7 +17691,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0957watt", "range": [1, 29]},
@@ -17701,7 +17701,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0959bomb"}
@@ -17710,7 +17710,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0960squa"}
@@ -17719,7 +17719,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0961flam"}
@@ -17728,7 +17728,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.9,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0962klaw"}
@@ -17737,7 +17737,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.2,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0963nacl", "range": [1, 28]},
@@ -17748,7 +17748,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0966glim", "range": [1, 39]},
@@ -17758,7 +17758,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0968shro", "range": [1, 32]},
@@ -17768,7 +17768,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0970fido", "range": [1, 30]},
@@ -17778,7 +17778,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0972masc", "range": [1, 34]},
@@ -17788,7 +17788,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "0974bram", "range": [1, 100]},
@@ -17798,7 +17798,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.9,
-				"frequency": 2,
+				"eggFrequency": 2,
 				"eggCycles": 25,
 				"members": [
 					{"id": "0976gimm", "range": [1, 100]},
@@ -17808,7 +17808,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0978grea"}
@@ -17817,7 +17817,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0979brut"}
@@ -17826,7 +17826,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0981sand"}
@@ -17835,7 +17835,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0982scre"}
@@ -17844,7 +17844,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0983flut"}
@@ -17853,7 +17853,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0984slit"}
@@ -17862,7 +17862,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0985roar"}
@@ -17871,7 +17871,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0986iron"}
@@ -17880,7 +17880,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0988iron"}
@@ -17889,7 +17889,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0989iron"}
@@ -17898,7 +17898,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0990iron"}
@@ -17907,7 +17907,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0991iron"}
@@ -17916,7 +17916,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0992iron"}
@@ -17925,7 +17925,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.2,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 40,
 				"members": [
 					{"id": "0993iron"}
@@ -17934,7 +17934,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "1000tink", "range": [1, 28]},
@@ -17945,7 +17945,7 @@
 			{
 				"gen": 9,
 				"diffusion": 0.75,
-				"frequency": 1,
+				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
 					{"id": "1003char", "range": [1, 100]},
@@ -17960,7 +17960,7 @@
 			{
 				"gen": 9,
 				"diffusion": 1.05,
-				"frequency": 3,
+				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
 					{"id": "1006toed", "range": [1, 34]},
