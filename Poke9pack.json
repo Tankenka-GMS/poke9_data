@@ -11349,6 +11349,7 @@
 			},
 			"0906spri": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "906",
 				"dexEntry": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
 				"forms": [
@@ -11360,6 +11361,7 @@
 			},
 			"0907flor": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "907",
 				"dexEntry": "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and sharp.",
 				"forms": [
@@ -11371,6 +11373,7 @@
 			},
 			"0908meow": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "908",
 				"dexEntry": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
 				"forms": [
@@ -11379,6 +11382,7 @@
 			},
 			"0909fuec": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "909",
 				"dexEntry": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
 				"forms": [
@@ -11390,6 +11394,7 @@
 			},
 			"0910croc": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "910",
 				"dexEntry": "The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.",
 				"forms": [
@@ -11401,6 +11406,7 @@
 			},
 			"0911skel": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "911",
 				"dexEntry": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.",
 				"forms": [
@@ -11409,6 +11415,7 @@
 			},
 			"0912quax": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "912",
 				"dexEntry": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
 				"forms": [
@@ -11420,6 +11427,7 @@
 			},
 			"0913quax": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "913",
 				"dexEntry": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
 				"forms": [
@@ -11431,6 +11439,7 @@
 			},
 			"0914quaq": {
 				"genders": [87.5,12.5],
+				"growth": "mediumslow",
 				"cry": "914",
 				"dexEntry": "A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.",
 				"forms": [
@@ -11439,6 +11448,7 @@
 			},
 			"0915lech": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "915",
 				"dexEntry": "It searches for food all day. It possesses a keen sense of smell but doesn't use it for anything other than foraging.",
 				"forms": [
@@ -11450,6 +11460,7 @@
 			},
 			"0916oink": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "916",
 				"dexEntry": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
 				"forms": [
@@ -11459,6 +11470,7 @@
 			},
 			"0917taro": {
 				"genders": [50,50],
+				"growth": "slowfast",
 				"cry": "917",
 				"dexEntry": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of <<0123scyt>>, this Pokémon's natural ennemy.",
 				"forms": [
@@ -11470,6 +11482,7 @@
 			},
 			"0918spid": {
 				"genders": [50,50],
+				"growth": "slowfast",
 				"cry": "918",
 				"dexEntry": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
 				"forms": [
@@ -11478,6 +11491,7 @@
 			},
 			"0919nymb": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "919",
 				"dexEntry": "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
 				"forms": [
@@ -11489,6 +11503,7 @@
 			},
 			"0920loki": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "920",
 				"dexEntry": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
 				"forms": [
@@ -11497,6 +11512,7 @@
 			},
 			"0921pawm": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "921",
 				"dexEntry": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
 				"forms": [
@@ -11508,6 +11524,7 @@
 			},
 			"0922pawm": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "922",
 				"dexEntry": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
 				"forms": [
@@ -11519,6 +11536,7 @@
 			},
 			"0923pawm": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "923",
 				"dexEntry": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
 				"forms": [
@@ -11528,6 +11546,7 @@
 			"0924tand": {
 				"genders": [0,0],
 				"genes": [50,50],
+				"growth": "fast",
 				"cry": "924",
 				"dexEntry": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
 				"forms": [
@@ -11540,6 +11559,7 @@
 			"0925maus": {
 				"genders": [0,0],
 				"genes": [50,50],
+				"growth": "fast",
 				"cry": "925",
 				"dexEntry": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
 				"forms": [
@@ -11549,6 +11569,7 @@
 			},
 			"0926fido": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "926",
 				"dexEntry": "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
 				"forms": [
@@ -11560,6 +11581,7 @@
 			},
 			"0927dach": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "927",
 				"dexEntry": "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
 				"forms": [
@@ -11568,6 +11590,7 @@
 			},
 			"0928smol": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "928",
 				"dexEntry": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
 				"forms": [
@@ -11579,6 +11602,7 @@
 			},
 			"0929doll": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "929",
 				"dexEntry": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
 				"forms": [
@@ -11590,6 +11614,7 @@
 			},
 			"0930arbo": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "930",
 				"dexEntry": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
 				"forms": [
@@ -11599,6 +11624,7 @@
 			"0931squa": {
 				"genders": [50,50],
 				"genes": [25,25,25,25],
+				"growth": "slowfast",
 				"cry": "931",
 				"dexEntry": "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
 				"forms": [
@@ -11610,6 +11636,7 @@
 			},
 			"0932nacl": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "932",
 				"dexEntry": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
 				"forms": [
@@ -11621,6 +11648,7 @@
 			},
 			"0933nacl": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "933",
 				"dexEntry": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
 				"forms": [
@@ -11632,6 +11660,7 @@
 			},
 			"0934garg": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "934",
 				"dexEntry": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
 				"forms": [
@@ -11641,6 +11670,7 @@
 			"0935char": {
 				"genders": [50,50],
 				"warm": true,
+				"growth": "slow",
 				"cry": "0935",
 				"dexEntry": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Carchadet will battle even tough opponents.",
 				"forms": [
@@ -11653,6 +11683,7 @@
 			},
 			"0936arma": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "0936",
 				"dexEntry": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
 				"forms": [
@@ -11661,6 +11692,7 @@
 			},
 			"0937ceru": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "0937",
 				"dexEntry": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
 				"forms": [
@@ -11669,6 +11701,7 @@
 			},
 			"0938tadb": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "938",
 				"dexEntry": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
 				"forms": [
@@ -11680,6 +11713,7 @@
 			},
 			"0939bell": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "939",
 				"dexEntry": "When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
 				"forms": [
@@ -11688,6 +11722,7 @@
 			},
 			"0940watt": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "940",
 				"dexEntry": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
 				"forms": [
@@ -11699,6 +11734,7 @@
 			},
 			"0941kilo": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "941",
 				"dexEntry": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
 				"forms": [
@@ -11707,6 +11743,7 @@
 			},
 			"0942masc": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "942",
 				"dexEntry": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
 				"forms": [
@@ -11718,6 +11755,7 @@
 			},
 			"0943mabo": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "943",
 				"dexEntry": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
 				"forms": [
@@ -11726,6 +11764,7 @@
 			},
 			"0944shro": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "944",
 				"dexEntry": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its fire.",
 				"forms": [
@@ -11737,6 +11776,7 @@
 			},
 			"0945graf": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "945",
 				"dexEntry": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
 				"forms": [
@@ -11745,6 +11785,7 @@
 			},
 			"0946bram": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "946",
 				"dexEntry": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
 				"forms": [
@@ -11756,6 +11797,7 @@
 			},
 			"0947bram": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "947",
 				"dexEntry": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
 				"forms": [
@@ -11764,6 +11806,7 @@
 			},
 			"0948toed": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "0948",
 				"dexEntry": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
 				"forms": [
@@ -11775,6 +11818,7 @@
 			},
 			"0949toed": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "0949",
 				"dexEntry": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
 				"forms": [
@@ -11783,6 +11827,7 @@
 			},
 			"0950klaw": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "950",
 				"dexEntry": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
 				"forms": [
@@ -11791,6 +11836,7 @@
 			},
 			"0951caps": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "951",
 				"dexEntry": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
 				"forms": [
@@ -11802,6 +11848,7 @@
 			},
 			"0952scov": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "952",
 				"dexEntry": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
 				"forms": [
@@ -11810,6 +11857,7 @@
 			},
 			"0953rell": {
 				"genders": [50,50],
+				"growth": "fast",
 				"cry": "953",
 				"dexEntry": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
 				"forms": [
@@ -11821,6 +11869,7 @@
 			},
 			"0954rabs": {
 				"genders": [50,50],
+				"growth": "fast",
 				"cry": "954",
 				"dexEntry": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
 				"forms": [
@@ -11829,6 +11878,7 @@
 			},
 			"0955flit": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "955",
 				"dexEntry": "Flittle's toes levitate about an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
 				"forms": [
@@ -11840,6 +11890,7 @@
 			},
 			"0956espa": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "956",
 				"dexEntry": "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
 				"forms": [
@@ -11848,6 +11899,7 @@
 			},
 			"0957tink": {
 				"genders": [0,100],
+				"growth": "mediumslow",
 				"cry": "0957",
 				"dexEntry": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
 				"forms": [
@@ -11859,6 +11911,7 @@
 			},
 			"0958tink": {
 				"genders": [0,100],
+				"growth": "mediumslow",
 				"cry": "0958",
 				"dexEntry": "This Pokémon will attack groups of <<0624pawn>> and <<0625bish>>, gathering metal from them in order to create a large and sturdy hammer.",
 				"forms": [
@@ -11870,6 +11923,7 @@
 			},
 			"0959tink": {
 				"genders": [0,100],
+				"growth": "mediumslow",
 				"cry": "0959",
 				"dexEntry": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying <<0823corv>>.",
 				"forms": [
@@ -11878,6 +11932,7 @@
 			},
 			"0960wigl": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "960",
 				"dexEntry": "This Pokémon can pick up the scent of a <<0976velu>> just over 65 feet away and will hide itself in the sand.",
 				"forms": [
@@ -11889,6 +11944,7 @@
 			},
 			"0961wugt": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "961",
 				"dexEntry": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
 				"forms": [
@@ -11897,6 +11953,7 @@
 			},
 			"0962bomb": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "962",
 				"dexEntry": "It gathers things up in an apron made from shed feathers added to the Pokémon's chest feathers, then drops those things from high places for fun.",
 				"forms": [
@@ -11905,6 +11962,7 @@
 			},
 			"0963fini": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "963",
 				"dexEntry": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
 				"forms": [
@@ -11916,6 +11974,7 @@
 			},
 			"0964pala": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "964",
 				"dexEntry": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
 				"forms": [
@@ -11925,6 +11984,7 @@
 			},
 			"0965varo": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "965",
 				"dexEntry": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
 				"forms": [
@@ -11936,6 +11996,7 @@
 			},
 			"0966reva": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "966",
 				"dexEntry": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
 				"forms": [
@@ -11944,6 +12005,7 @@
 			},
 			"0967cycl": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "967",
 				"dexEntry": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
 				"forms": [
@@ -11952,6 +12014,7 @@
 			},
 			"0968orth": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "968",
 				"dexEntry": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
 				"forms": [
@@ -11960,6 +12023,7 @@
 			},
 			"0969glim": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "969",
 				"dexEntry": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
 				"forms": [
@@ -11971,6 +12035,7 @@
 			},
 			"0970glim": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "970",
 				"dexEntry": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
 				"forms": [
@@ -11979,6 +12044,7 @@
 			},
 			"0971grea": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "971",
 				"dexEntry": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
 				"forms": [
@@ -11990,6 +12056,7 @@
 			},
 			"0972houn": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "972",
 				"dexEntry": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
 				"forms": [
@@ -11998,6 +12065,7 @@
 			},
 			"0973flam": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "973",
 				"dexEntry": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
 				"forms": [
@@ -12006,6 +12074,7 @@
 			},
 			"0974ceto": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "974",
 				"dexEntry": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to <<0320wail>>.",
 				"forms": [
@@ -12017,6 +12086,7 @@
 			},
 			"0975ceti": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "975",
 				"dexEntry": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
 				"forms": [
@@ -12025,6 +12095,7 @@
 			},
 			"0976velu": {
 				"genders": [50,50],
+				"growth": "fast",
 				"cry": "976",
 				"dexEntry": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
 				"forms": [
@@ -12033,6 +12104,7 @@
 			},
 			"0977dond": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "977",
 				"dexEntry": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a <<0978tats>> to catch prey.",
 				"forms": [
@@ -12042,6 +12114,7 @@
 			"0978tats": {
 				"genders": [50,50],
 				"genes": [33.4,33.3,33.3],
+				"growth": "mediumslow",
 				"cry": "978",
 				"dexEntry": "This is a small dragon Pokémon. It lives inside the mouth of <<0977dond>> to protect itself from enemies on the outside.",
 				"forms": [
@@ -12052,6 +12125,7 @@
 			},
 			"0979anni": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "0979",
 				"dexEntry": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
 				"forms": [
@@ -12060,6 +12134,7 @@
 			},
 			"0980clod": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "0980",
 				"dexEntry": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
 				"forms": [
@@ -12068,6 +12143,7 @@
 			},
 			"0981fari": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "981",
 				"dexEntry": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than <<0203gira>>’s.",
 				"forms": [
@@ -12076,6 +12152,7 @@
 			},
 			"0982dudu": {
 				"genders": [50,50],
+				"growth": "mediumslow",
 				"cry": "982",
 				"dexEntry": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
 				"forms": [
@@ -12085,6 +12162,7 @@
 			},
 			"0983king": {
 				"genders": [50,50],
+				"growth": "mediumfast",
 				"cry": "0983",
 				"dexEntry": "Only a <<0625bish>> that stands above all others in its vast army can evolve into Kingambit.",
 				"forms": [
@@ -12093,6 +12171,7 @@
 			},
 			"0984grea": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "984",
 				"dexEntry": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
 				"forms": [
@@ -12101,6 +12180,7 @@
 			},
 			"0985scre": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "985",
 				"dexEntry": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
 				"forms": [
@@ -12109,6 +12189,7 @@
 			},
 			"0986brut": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "986",
 				"dexEntry": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
 				"forms": [
@@ -12117,6 +12198,7 @@
 			},
 			"0987flut": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "987",
 				"dexEntry": "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
 				"forms": [
@@ -12125,6 +12207,7 @@
 			},
 			"0988slit": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "988",
 				"dexEntry": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
 				"forms": [
@@ -12133,6 +12216,7 @@
 			},
 			"0989sand": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "989",
 				"dexEntry": "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.",
 				"forms": [
@@ -12141,6 +12225,7 @@
 			},
 			"0990iron": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "990",
 				"dexEntry": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
 				"forms": [
@@ -12149,6 +12234,7 @@
 			},
 			"0991iron": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "991",
 				"dexEntry": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
 				"forms": [
@@ -12157,6 +12243,7 @@
 			},
 			"0992iron": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "992",
 				"dexEntry": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
 				"forms": [
@@ -12165,6 +12252,7 @@
 			},
 			"0993iron": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "993",
 				"dexEntry": "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a <<0635hydr>> that fell in love with a robot.",
 				"forms": [
@@ -12173,6 +12261,7 @@
 			},
 			"0994iron": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "994",
 				"dexEntry": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
 				"forms": [
@@ -12181,6 +12270,7 @@
 			},
 			"0995iron": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "995",
 				"dexEntry": "It has some similarities to a Pokémon introduced in a dubious magazine as a <<0248tyra>> from one billion years into the future.",
 				"forms": [
@@ -12189,6 +12279,7 @@
 			},
 			"0996frig": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "996",
 				"dexEntry": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
 				"forms": [
@@ -12200,6 +12291,7 @@
 			},
 			"0997arct": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "997",
 				"dexEntry": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
 				"forms": [
@@ -12211,6 +12303,7 @@
 			},
 			"0998baxc": {
 				"genders": [50,50],
+				"growth": "slow",
 				"cry": "998",
 				"dexEntry": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
 				"forms": [
@@ -12220,6 +12313,7 @@
 			"0999gimm": {
 				"genders": [0,0],
 				"genes": [50,50],
+				"growth": "slow",
 				"cry": "999",
 				"dexEntry": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
 				"forms": [
@@ -12232,6 +12326,7 @@
 			},
 			"1000ghol": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1000",
 				"dexEntry": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
 				"forms": [
@@ -12240,6 +12335,7 @@
 			},
 			"1001woch": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1001",
 				"dexEntry": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
 				"forms": [
@@ -12248,6 +12344,7 @@
 			},
 			"1002chie": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1002",
 				"dexEntry": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
 				"forms": [
@@ -12256,6 +12353,7 @@
 			},
 			"1003ting": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1003",
 				"dexEntry": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
 				"forms": [
@@ -12264,6 +12362,7 @@
 			},
 			"1004chiy": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1004",
 				"dexEntry": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
 				"forms": [
@@ -12272,6 +12371,7 @@
 			},
 			"1005roar": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1005",
 				"dexEntry": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
 				"forms": [
@@ -12280,6 +12380,7 @@
 			},
 			"1006iron": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1006",
 				"dexEntry": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
 				"forms": [
@@ -12288,6 +12389,7 @@
 			},
 			"1007kora": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1007",
 				"dexEntry": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
 				"forms": [
@@ -12296,6 +12398,7 @@
 			},
 			"1008mira": {
 				"genders": [0,0],
+				"growth": "slow",
 				"cry": "1008",
 				"dexEntry": "Much remains unknown about this creature. It resembles <<0967cycl>>, but it is far more ruthless and powerful.",
 				"forms": [
@@ -17484,7 +17587,7 @@
 				"gen": 9,
 				"diffusion": 1.2,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 15,
 				"members": [
 					{"id": "0915lech", "range": [1, 22]},
 					{"id": "0916oink", "range": [18, 100]}
@@ -17494,7 +17597,7 @@
 				"gen": 9,
 				"diffusion": 1.2,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 15,
 				"members": [
 					{"id": "0917taro", "range": [1, 19]},
 					{"id": "0918spid", "range": [15, 100]}
@@ -17514,7 +17617,7 @@
 				"gen": 9,
 				"diffusion": 1.05,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 15,
 				"members": [
 					{"id": "0921pawm", "range": [1, 22]},
 					{"id": "0922pawm", "range": [18, 100]},
@@ -17525,7 +17628,7 @@
 				"gen": 9,
 				"diffusion": 1.05,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 10,
 				"members": [
 					{"id": "0924tand", "range": [1, 20]},
 					{"id": "0925maus", "range": [16, 100]}
@@ -17556,7 +17659,7 @@
 				"gen": 9,
 				"diffusion": 1.05,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 15,
 				"members": [
 					{"id": "0931squa"}
 				]
@@ -17576,7 +17679,7 @@
 				"gen": 9,
 				"diffusion": 0.75,
 				"eggFrequency": 1,
-				"eggCycles": 20,
+				"eggCycles": 35,
 				"members": [
 					{"id": "0935char", "range": [1, 100]},
 					{"id": "0936arma", "range": [45, 100]},
@@ -17654,7 +17757,7 @@
 				"gen": 9,
 				"diffusion": 0.9,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 35,
 				"members": [
 					{"id": "0950klaw"}
 				]
@@ -17717,7 +17820,7 @@
 				"gen": 9,
 				"diffusion": 0.75,
 				"eggFrequency": 2,
-				"eggCycles": 20,
+				"eggCycles": 35,
 				"members": [
 					{"id": "0962bomb"}
 				]
@@ -17726,7 +17829,7 @@
 				"gen": 9,
 				"diffusion": 1.05,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0963fini", "range": [1, 42]},
 					{"id": "0964pala", "range": [38, 100]}
@@ -17746,7 +17849,7 @@
 				"gen": 9,
 				"diffusion": 1.05,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 30,
 				"members": [
 					{"id": "0967cycl"}
 				]
@@ -17755,7 +17858,7 @@
 				"gen": 9,
 				"diffusion": 0.75,
 				"eggFrequency": 3,
-				"eggCycles": 40,
+				"eggCycles": 35,
 				"members": [
 					{"id": "0968orth"}
 				]
@@ -17764,7 +17867,7 @@
 				"gen": 9,
 				"diffusion": 0.75,
 				"eggFrequency": 2,
-				"eggCycles": 25,
+				"eggCycles": 30,
 				"members": [
 					{"id": "0969glim", "range": [1, 39]},
 					{"id": "0970glim", "range": [35, 100]}
@@ -17793,7 +17896,7 @@
 				"gen": 9,
 				"diffusion": 1.05,
 				"eggFrequency": 3,
-				"eggCycles": 20,
+				"eggCycles": 25,
 				"members": [
 					{"id": "0974ceto", "range": [1, 100]},
 					{"id": "0975ceti", "range": [45, 100]}
@@ -17824,7 +17927,7 @@
 				"gen": 9,
 				"diffusion": 0.75,
 				"eggFrequency": 2,
-				"eggCycles": 20,
+				"eggCycles": 35,
 				"members": [
 					{"id": "0978tats"}
 				]
@@ -17844,7 +17947,7 @@
 				"gen": 9,
 				"diffusion": 0.9,
 				"eggFrequency": 2,
-				"eggCycles": 25,
+				"eggCycles": 40,
 				"members": [
 					{"id": "0999gimm", "range": [1, 100]},
 					{"id": "1000ghol", "range": [55, 100]}
