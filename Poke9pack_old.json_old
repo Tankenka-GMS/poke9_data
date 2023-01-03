@@ -1913,7 +1913,7 @@
 					{"name": "Primeape", "types": ["fighting"], "power": 2, "baseImages": ["0057", "0057_ico"]}
 				],
 				"evolutions": [
-					{"id": "0979anni", "conditions": {"level": 55}}
+					{"id": "1010anni", "conditions": {"level": 55}}
 				]
 			},
 			"0058grow": {
@@ -3480,7 +3480,7 @@
 				],
 				"evolutions": [
 					{"id": "0195quag", "conditions": {"gene": 0, "level": 20}},
-					{"id": "0980clod", "conditions": {"gene": 1, "level": 20}}
+					{"id": "1009clod", "conditions": {"gene": 1, "level": 20}}
 				]
 			},
 			"0195quag": {
@@ -3604,7 +3604,7 @@
 					{"conditions": {"gender": 1}, "name": "Girafarig", "types": ["normal", "psychic"], "power": 2, "baseImages": ["0203_f", "0203_ico"]}
 				],
 				"evolutions": [
-					{"id": "0981fari", "conditions": {"level": 33}}
+					{"id": "0928fari", "conditions": {"level": 33}}
 				]
 			},
 			"0204pine": {
@@ -3638,7 +3638,7 @@
 					{"name": "Dunsparce", "types": ["normal"], "power": 1, "baseImages": ["0206", "0206_ico"]}
 				],
 				"evolutions": [
-					{"id": "0982dudu", "conditions": {"level": 33}}
+					{"id": "0917dudu", "conditions": {"level": 33}}
 				]
 			},
 			"0207glig": {
@@ -8200,7 +8200,7 @@
 					{"name": "Bisharp", "types": ["dark", "steel"], "power": 2, "baseImages": ["0625", "0625_ico"]}
 				],
 				"evolutions": [
-					{"id": "0983king", "conditions": {"item": "Leader's Crest"}}
+					{"id": "1008king", "conditions": {"item": "Leader's Crest"}}
 				]
 			},
 			"0626bouf": {
@@ -11457,849 +11457,859 @@
 					{"conditions": {"gender": 1}, "name": "Oinkologne", "types": ["normal"], "power": 2, "baseImages": ["0916_f", "0916_f"]}
 				]
 			},
-			"0917taro": {
+			"0917dudu": {
 				"genders": [50,50],
 				"cry": "917",
-				"dexEntry": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of <<0123scyt>>, this Pokémon's natural ennemy.",
-				"forms": [
-					{"name": "Tarountula", "types": ["bug"], "power": -1, "baseImages": ["0917", "0917"]}
-				],
-				"evolutions": [
-					{"id": "0918spid", "conditions": {"level": 15}}
-				]
-			},
-			"0918spid": {
-				"genders": [50,50],
-				"cry": "918",
-				"dexEntry": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
-				"forms": [
-					{"name": "Spidops", "types": ["bug"], "power": 1, "baseImages": ["0918", "0918"]}
-				]
-			},
-			"0919nymb": {
-				"genders": [50,50],
-				"cry": "919",
-				"dexEntry": "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
-				"forms": [
-					{"name": "Nymble", "types": ["bug"], "power": -1, "baseImages": ["0919", "0919"]}
-				],
-				"evolutions": [
-					{"id": "0920loki", "conditions": {"level": 24}}
-				]
-			},
-			"0920loki": {
-				"genders": [50,50],
-				"cry": "920",
-				"dexEntry": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
-				"forms": [
-					{"name": "Lokix", "types": ["bug", "dark"], "power": 1, "baseImages": ["0920", "0920"]}
-				]
-			},
-			"0921pawm": {
-				"genders": [50,50],
-				"cry": "921",
-				"dexEntry": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
-				"forms": [
-					{"name": "Pawmi", "types": ["electric"], "power": -1, "baseImages": ["0921", "0921"]}
-				],
-				"evolutions": [
-					{"id": "0922pawm", "conditions": {"level": 18}}
-				]
-			},
-			"0922pawm": {
-				"genders": [50,50],
-				"cry": "922",
-				"dexEntry": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
-				"forms": [
-					{"name": "Pawmo", "types": ["electric", "fighting"], "power": 0, "baseImages": ["0922", "0922"]}
-				],
-				"evolutions": [
-					{"id": "0923pawm", "conditions": {"distance": 1000}}
-				]
-			},
-			"0923pawm": {
-				"genders": [50,50],
-				"cry": "923",
-				"dexEntry": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
-				"forms": [
-					{"name": "Pawmot", "types": ["electric", "fighting"], "power": 2, "baseImages": ["0923", "0923"]}
-				]
-			},
-			"0924tand": {
-				"genders": [0,0],
-				"genes": [50,50],
-				"cry": "924",
-				"dexEntry": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
-				"forms": [
-					{"name": "Tandemaus", "types": ["normal"], "power": 0, "baseImages": ["0924", "0924"]}
-				],
-				"evolutions": [
-					{"id": "0925maus", "conditions": {"level": 25}}
-				]
-			},
-			"0925maus": {
-				"genders": [0,0],
-				"genes": [50,50],
-				"cry": "925",
-				"dexEntry": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
-				"forms": [
-					{"conditions": {"gene": 0}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0925_three", "0925_three"]},
-					{"conditions": {"gene": 1}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0925_four", "0925_four"]}
-				]
-			},
-			"0926fido": {
-				"genders": [50,50],
-				"cry": "926",
-				"dexEntry": "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
-				"forms": [
-					{"name": "Fidough", "types": ["fairy"], "power": 0, "baseImages": ["0926", "0926"]}
-				],
-				"evolutions": [
-					{"id": "0927dach", "conditions": {"level": 26}}
-				]
-			},
-			"0927dach": {
-				"genders": [50,50],
-				"cry": "927",
-				"dexEntry": "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
-				"forms": [
-					{"name": "Dachsbun", "types": ["fairy"], "power": 2, "baseImages": ["0927", "0927"]}
-				]
-			},
-			"0928smol": {
-				"genders": [50,50],
-				"cry": "928",
-				"dexEntry": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
-				"forms": [
-					{"name": "Smoliv", "types": ["grass", "normal"], "power": 0, "baseImages": ["0928", "0928"]}
-				],
-				"evolutions": [
-					{"id": "0929doll", "conditions": {"level": 25}}
-				]
-			},
-			"0929doll": {
-				"genders": [50,50],
-				"cry": "929",
-				"dexEntry": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
-				"forms": [
-					{"name": "Dolliv", "types": ["grass", "normal"], "power": 1, "baseImages": ["0929", "0929"]}
-				],
-				"evolutions": [
-					{"id": "0930arbo", "conditions": {"level": 35}}
-				]
-			},
-			"0930arbo": {
-				"genders": [50,50],
-				"cry": "930",
-				"dexEntry": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
-				"forms": [
-					{"name": "Arboliva", "types": ["grass", "normal"], "power": 2, "baseImages": ["0930", "0930"]}
-				]
-			},
-			"0931squa": {
-				"genders": [50,50],
-				"genes": [25,25,25,25],
-				"cry": "931",
-				"dexEntry": "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
-				"forms": [
-					{"conditions": {"gene": 0}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0931_green", "0931_green"]},
-					{"conditions": {"gene": 1}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0931_blue", "0931_blue"]},
-					{"conditions": {"gene": 2}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0931_yellow", "0931_yellow"]},
-					{"conditions": {"gene": 3}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0931_white", "0931_white"]}
-				]
-			},
-			"0932nacl": {
-				"genders": [50,50],
-				"cry": "932",
-				"dexEntry": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
-				"forms": [
-					{"name": "Nacli", "types": ["rock"], "power": 0, "baseImages": ["0932", "0932"]}
-				],
-				"evolutions": [
-					{"id": "0933nacl", "conditions": {"level": 24}}
-				]
-			},
-			"0933nacl": {
-				"genders": [50,50],
-				"cry": "933",
-				"dexEntry": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
-				"forms": [
-					{"name": "Naclstack", "types": ["rock"], "power": 1, "baseImages": ["0933", "0933"]}
-				],
-				"evolutions": [
-					{"id": "0934garg", "conditions": {"level": 38}}
-				]
-			},
-			"0934garg": {
-				"genders": [50,50],
-				"cry": "934",
-				"dexEntry": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
-				"forms": [
-					{"name": "Garganacl", "types": ["rock"], "power": 2, "baseImages": ["0934", "0934"]}
-				]
-			},
-			"0935char": {
-				"genders": [50,50],
-				"warm": true,
-				"cry": "0935",
-				"dexEntry": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Carchadet will battle even tough opponents.",
-				"forms": [
-					{"name": "Charcadet", "types": ["fire"], "power": 0, "baseImages": ["0935", "0935"]}
-				],
-				"evolutions": [
-					{"id": "0936arma", "conditions": {"item": "Auspicious Armor"}},
-					{"id": "0937ceru", "conditions": {"item": "Malicious Armor"}}
-				]
-			},
-			"0936arma": {
-				"genders": [50,50],
-				"cry": "0936",
-				"dexEntry": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
-				"forms": [
-					{"name": "Armarouge", "types": ["fire", "psychic"], "power": 2, "baseImages": ["0936", "0936"]}
-				]
-			},
-			"0937ceru": {
-				"genders": [50,50],
-				"cry": "0937",
-				"dexEntry": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
-				"forms": [
-					{"name": "Ceruledge", "types": ["fire", "ghost"], "power": 2, "baseImages": ["0937", "0937"]}
-				]
-			},
-			"0938tadb": {
-				"genders": [50,50],
-				"cry": "938",
-				"dexEntry": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
-				"forms": [
-					{"name": "Tadbulb", "types": ["electric"], "power": 0, "baseImages": ["0938", "0938"]}
-				],
-				"evolutions": [
-					{"id": "0939bell", "conditions": {"item": "Thunder Stone"}}
-				]
-			},
-			"0939bell": {
-				"genders": [50,50],
-				"cry": "939",
-				"dexEntry": "When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
-				"forms": [
-					{"name": "Bellibolt", "types": ["electric"], "power": 2, "baseImages": ["0939", "0939"]}
-				]
-			},
-			"0940watt": {
-				"genders": [50,50],
-				"cry": "940",
-				"dexEntry": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
-				"forms": [
-					{"name": "Wattrel", "types": ["electric", "flying"], "power": 0, "baseImages": ["0940", "0940"]}
-				],
-				"evolutions": [
-					{"id": "0941kilo", "conditions": {"level": 25}}
-				]
-			},
-			"0941kilo": {
-				"genders": [50,50],
-				"cry": "941",
-				"dexEntry": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
-				"forms": [
-					{"name": "Kilowattrel", "types": ["electric", "flying"], "power": 2, "baseImages": ["0941", "0941"]}
-				]
-			},
-			"0942masc": {
-				"genders": [50,50],
-				"cry": "942",
-				"dexEntry": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
-				"forms": [
-					{"name": "Maschiff", "types": ["dark"], "power": 0, "baseImages": ["0942", "0942"]}
-				],
-				"evolutions": [
-					{"id": "0943mabo", "conditions": {"level": 30}}
-				]
-			},
-			"0943mabo": {
-				"genders": [50,50],
-				"cry": "943",
-				"dexEntry": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
-				"forms": [
-					{"name": "Mabosstiff", "types": ["dark"], "power": 2, "baseImages": ["0943", "0943"]}
-				]
-			},
-			"0944shro": {
-				"genders": [50,50],
-				"cry": "944",
-				"dexEntry": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its fire.",
-				"forms": [
-					{"name": "Shroodle", "types": ["poison", "normal"], "power": 0, "baseImages": ["0944", "0944"]}
-				],
-				"evolutions": [
-					{"id": "0945graf", "conditions": {"level": 28}}
-				]
-			},
-			"0945graf": {
-				"genders": [50,50],
-				"cry": "945",
-				"dexEntry": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
-				"forms": [
-					{"name": "Grafaiai", "types": ["poison", "normal"], "power": 2, "baseImages": ["0945", "0945"]}
-				]
-			},
-			"0946bram": {
-				"genders": [50,50],
-				"cry": "946",
-				"dexEntry": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
-				"forms": [
-					{"name": "Bramblin", "types": ["grass", "ghost"], "power": 0, "baseImages": ["0946", "0946"]}
-				],
-				"evolutions": [
-					{"id": "0947bram", "conditions": {"distance": 1000}}
-				]
-			},
-			"0947bram": {
-				"genders": [50,50],
-				"cry": "947",
-				"dexEntry": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
-				"forms": [
-					{"name": "Brambleghast", "types": ["grass", "ghost"], "power": 2, "baseImages": ["0947", "0947"]}
-				]
-			},
-			"0948toed": {
-				"genders": [50,50],
-				"cry": "0948",
-				"dexEntry": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
-				"forms": [
-					{"name": "Toedscool", "types": ["ground", "grass"], "power": 0, "baseImages": ["0948", "0948"]}
-				],
-				"evolutions": [
-					{"id": "0949toed", "conditions": {"level": 30}}
-				]
-			},
-			"0949toed": {
-				"genders": [50,50],
-				"cry": "0949",
-				"dexEntry": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
-				"forms": [
-					{"name": "Toedscruel", "types": ["ground", "grass"], "power": 2, "baseImages": ["0949", "0949"]}
-				]
-			},
-			"0950klaw": {
-				"genders": [50,50],
-				"cry": "950",
-				"dexEntry": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
-				"forms": [
-					{"name": "Klawf", "types": ["rock"], "power": 1, "baseImages": ["0950", "0950"]}
-				]
-			},
-			"0951caps": {
-				"genders": [50,50],
-				"cry": "951",
-				"dexEntry": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
-				"forms": [
-					{"name": "Capsakid", "types": ["grass"], "power": 0, "baseImages": ["0951", "0951"]}
-				],
-				"evolutions": [
-					{"id": "0952scov", "conditions": {"item": "Fire Stone"}}
-				]
-			},
-			"0952scov": {
-				"genders": [50,50],
-				"cry": "952",
-				"dexEntry": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
-				"forms": [
-					{"name": "Scovillain", "types": ["grass", "fire"], "power": 2, "baseImages": ["0952", "0952"]}
-				]
-			},
-			"0953rell": {
-				"genders": [50,50],
-				"cry": "953",
-				"dexEntry": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
-				"forms": [
-					{"name": "Rellor", "types": ["bug"], "power": 0, "baseImages": ["0953", "0953"]}
-				],
-				"evolutions": [
-					{"id": "0954rabs", "conditions": {"distance": 1000}}
-				]
-			},
-			"0954rabs": {
-				"genders": [50,50],
-				"cry": "954",
-				"dexEntry": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
-				"forms": [
-					{"name": "Rabsca", "types": ["bug", "psychic"], "power": 2, "baseImages": ["0954", "0954"]}
-				]
-			},
-			"0955flit": {
-				"genders": [50,50],
-				"cry": "955",
-				"dexEntry": "Flittle's toes levitate about an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
-				"forms": [
-					{"name": "Flittle", "types": ["psychic"], "power": 0, "baseImages": ["0955", "0955"]}
-				],
-				"evolutions": [
-					{"id": "0956espa", "conditions": {"level": 35}}
-				]
-			},
-			"0956espa": {
-				"genders": [50,50],
-				"cry": "956",
-				"dexEntry": "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
-				"forms": [
-					{"name": "Espathra", "types": ["psychic"], "power": 2, "baseImages": ["0956", "0956"]}
-				]
-			},
-			"0957tink": {
-				"genders": [0,100],
-				"cry": "0957",
-				"dexEntry": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
-				"forms": [
-					{"name": "Tinkatink", "types": ["fairy", "steel"], "power": 0, "baseImages": ["0957", "0957"]}
-				],
-				"evolutions": [
-					{"id": "0958tink", "conditions": {"level": 24}}
-				]
-			},
-			"0958tink": {
-				"genders": [0,100],
-				"cry": "0958",
-				"dexEntry": "This Pokémon will attack groups of <<0624pawn>> and <<0625bish>>, gathering metal from them in order to create a large and sturdy hammer.",
-				"forms": [
-					{"name": "Tinkatuff", "types": ["fairy", "steel"], "power": 1, "baseImages": ["0958", "0958"]}
-				],
-				"evolutions": [
-					{"id": "0959tink", "conditions": {"level": 38}}
-				]
-			},
-			"0959tink": {
-				"genders": [0,100],
-				"cry": "0959",
-				"dexEntry": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying <<0823corv>>.",
-				"forms": [
-					{"name": "Tinkaton", "types": ["fairy", "steel"], "power": 2, "baseImages": ["0959", "0959"]}
-				]
-			},
-			"0960wigl": {
-				"genders": [50,50],
-				"cry": "960",
-				"dexEntry": "This Pokémon can pick up the scent of a <<0976velu>> just over 65 feet away and will hide itself in the sand.",
-				"forms": [
-					{"name": "Wiglett", "types": ["water"], "power": -1, "baseImages": ["0960", "0960"]}
-				],
-				"evolutions": [
-					{"id": "0961wugt", "conditions": {"level": 26}}
-				]
-			},
-			"0961wugt": {
-				"genders": [50,50],
-				"cry": "961",
-				"dexEntry": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
-				"forms": [
-					{"name": "Wugtrio", "types": ["water"], "power": 1, "baseImages": ["0961", "0961"]}
-				]
-			},
-			"0962bomb": {
-				"genders": [50,50],
-				"cry": "962",
-				"dexEntry": "It gathers things up in an apron made from shed feathers added to the Pokémon's chest feathers, then drops those things from high places for fun.",
-				"forms": [
-					{"name": "Bombirdier", "types": ["dark", "flying"], "power": 2, "baseImages": ["0962", "0962"]}
-				]
-			},
-			"0963fini": {
-				"genders": [50,50],
-				"cry": "963",
-				"dexEntry": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
-				"forms": [
-					{"name": "Finizen", "types": ["water"], "power": 0, "baseImages": ["0963", "0963"]}
-				],
-				"evolutions": [
-					{"id": "0964pala", "conditions": {"level": 38}}
-				]
-			},
-			"0964pala": {
-				"genders": [50,50],
-				"cry": "964",
-				"dexEntry": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
-				"forms": [
-					{"conditions": {"lastOutcome": "win"}, "name": "Palafin", "types": ["water"], "power": 2, "baseImages": ["0964", "0964"]},
-					{"conditions": {"lastOutcome": "loss"}, "name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0964_hero", "0964_hero"]}
-				]
-			},
-			"0965varo": {
-				"genders": [50,50],
-				"cry": "965",
-				"dexEntry": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
-				"forms": [
-					{"name": "Varoom", "types": ["poison", "steel"], "power": 0, "baseImages": ["0965", "0965"]}
-				],
-				"evolutions": [
-					{"id": "0966reva", "conditions": {"level": 40}}
-				]
-			},
-			"0966reva": {
-				"genders": [50,50],
-				"cry": "966",
-				"dexEntry": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
-				"forms": [
-					{"name": "Revavroom", "types": ["poison", "steel"], "power": 2, "baseImages": ["0966", "0966"]}
-				]
-			},
-			"0967cycl": {
-				"genders": [50,50],
-				"cry": "967",
-				"dexEntry": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
-				"forms": [
-					{"name": "Cyclizar", "types": ["dragon", "normal"], "power": 2, "baseImages": ["0967", "0967"]}
-				]
-			},
-			"0968orth": {
-				"genders": [50,50],
-				"cry": "968",
-				"dexEntry": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
-				"forms": [
-					{"name": "Orthworm", "types": ["steel"], "power": 2, "baseImages": ["0968", "0968"]}
-				]
-			},
-			"0969glim": {
-				"genders": [50,50],
-				"cry": "969",
-				"dexEntry": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
-				"forms": [
-					{"name": "Glimmet", "types": ["poison", "rock"], "power": 0, "baseImages": ["0969", "0969"]}
-				],
-				"evolutions": [
-					{"id": "0970glim", "conditions": {"level": 35}}
-				]
-			},
-			"0970glim": {
-				"genders": [50,50],
-				"cry": "970",
-				"dexEntry": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
-				"forms": [
-					{"name": "Glimmora", "types": ["poison", "rock"], "power": 2, "baseImages": ["0970", "0970"]}
-				]
-			},
-			"0971grea": {
-				"genders": [50,50],
-				"cry": "971",
-				"dexEntry": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
-				"forms": [
-					{"name": "Greavard", "types": ["ghost"], "power": 0, "baseImages": ["0971", "0971"]}
-				],
-				"evolutions": [
-					{"id": "0972houn", "conditions": {"level": 30, "hour": "night"}}
-				]
-			},
-			"0972houn": {
-				"genders": [50,50],
-				"cry": "972",
-				"dexEntry": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
-				"forms": [
-					{"name": "Houndstone", "types": ["ghost"], "power": 2, "baseImages": ["0972", "0972"]}
-				]
-			},
-			"0973flam": {
-				"genders": [50,50],
-				"cry": "973",
-				"dexEntry": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
-				"forms": [
-					{"name": "Flamigo", "types": ["flying", "fighting"], "power": 2, "baseImages": ["0973", "0973"]}
-				]
-			},
-			"0974ceto": {
-				"genders": [50,50],
-				"cry": "974",
-				"dexEntry": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to <<0320wail>>.",
-				"forms": [
-					{"name": "Cetoddle", "types": ["ice"], "power": 0, "baseImages": ["0974", "0974"]}
-				],
-				"evolutions": [
-					{"id": "0975ceti", "conditions": {"item": "Ice Stone"}}
-				]
-			},
-			"0975ceti": {
-				"genders": [50,50],
-				"cry": "975",
-				"dexEntry": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
-				"forms": [
-					{"name": "Cetitan", "types": ["ice"], "power": 2, "baseImages": ["0975", "0975"]}
-				]
-			},
-			"0976velu": {
-				"genders": [50,50],
-				"cry": "976",
-				"dexEntry": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
-				"forms": [
-					{"name": "Veluza", "types": ["water", "psychic"], "power": 2, "baseImages": ["0976", "0976"]}
-				]
-			},
-			"0977dond": {
-				"genders": [50,50],
-				"cry": "977",
-				"dexEntry": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a <<0978tats>> to catch prey.",
-				"forms": [
-					{"name": "Dondozo", "types": ["water"], "power": 2, "baseImages": ["0977", "0977"]}
-				]
-			},
-			"0978tats": {
-				"genders": [50,50],
-				"genes": [33.4,33.3,33.3],
-				"cry": "978",
-				"dexEntry": "This is a small dragon Pokémon. It lives inside the mouth of <<0977dond>> to protect itself from enemies on the outside.",
-				"forms": [
-					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0978_orange", "0978_orange"]},
-					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0978_red", "0978_red"]},
-					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0978_yellow", "0978_yellow"]}
-				]
-			},
-			"0979anni": {
-				"genders": [50,50],
-				"cry": "0979",
-				"dexEntry": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
-				"forms": [
-					{"name": "Annihilape", "types": ["fighting", "ghost"], "power": 2, "baseImages": ["0979", "0979"]}
-				]
-			},
-			"0980clod": {
-				"genders": [50,50],
-				"cry": "0980",
-				"dexEntry": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
-				"forms": [
-					{"name": "Clodsire", "types": ["poison", "ground"], "power": 1, "baseImages": ["0980", "0980"]}
-				]
-			},
-			"0981fari": {
-				"genders": [50,50],
-				"cry": "981",
-				"dexEntry": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than <<0203gira>>’s.",
-				"forms": [
-					{"name": "Farigiraf", "types": ["normal", "psychic"], "power": 2, "baseImages": ["0981", "0981"]}
-				]
-			},
-			"0982dudu": {
-				"genders": [50,50],
-				"cry": "982",
 				"dexEntry": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0982", "0982"]},
-					{"conditions": {"gene": 1}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0982", "0982"]}
+					{"conditions": {"gene": 0}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917"]},
+					{"conditions": {"gene": 1}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0917", "0917"]}
 				]
 			},
-			"0983king": {
+			"0918taro": {
 				"genders": [50,50],
-				"cry": "0983",
-				"dexEntry": "Only a <<0625bish>> that stands above all others in its vast army can evolve into Kingambit.",
+				"cry": "918",
+				"dexEntry": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of <<0123scyt>>, this Pokémon's natural ennemy.",
 				"forms": [
-					{"name": "Kingambit", "types": ["dark", "steel"], "power": 2, "baseImages": ["0983", "0983"]}
+					{"name": "Tarountula", "types": ["bug"], "power": -1, "baseImages": ["0918", "0918"]}
+				],
+				"evolutions": [
+					{"id": "0919spid", "conditions": {"level": 15}}
 				]
 			},
-			"0984grea": {
+			"0919spid": {
+				"genders": [50,50],
+				"cry": "919",
+				"dexEntry": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+				"forms": [
+					{"name": "Spidops", "types": ["bug"], "power": 1, "baseImages": ["0919", "0919"]}
+				]
+			},
+			"0920nymb": {
+				"genders": [50,50],
+				"cry": "920",
+				"dexEntry": "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.",
+				"forms": [
+					{"name": "Nymble", "types": ["bug"], "power": -1, "baseImages": ["0920", "0920"]}
+				],
+				"evolutions": [
+					{"id": "0921loki", "conditions": {"level": 24}}
+				]
+			},
+			"0921loki": {
+				"genders": [50,50],
+				"cry": "921",
+				"dexEntry": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+				"forms": [
+					{"name": "Lokix", "types": ["bug", "dark"], "power": 1, "baseImages": ["0921", "0921"]}
+				]
+			},
+			"0922rell": {
+				"genders": [50,50],
+				"cry": "922",
+				"dexEntry": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+				"forms": [
+					{"name": "Rellor", "types": ["bug"], "power": 0, "baseImages": ["0922", "0922"]}
+				],
+				"evolutions": [
+					{"id": "0923rabs", "conditions": {"distance": 1000}}
+				]
+			},
+			"0923rabs": {
+				"genders": [50,50],
+				"cry": "923",
+				"dexEntry": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
+				"forms": [
+					{"name": "Rabsca", "types": ["bug", "psychic"], "power": 2, "baseImages": ["0923", "0923"]}
+				]
+			},
+			"0924grea": {
+				"genders": [50,50],
+				"cry": "924",
+				"dexEntry": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
+				"forms": [
+					{"name": "Greavard", "types": ["ghost"], "power": 0, "baseImages": ["0924", "0924"]}
+				],
+				"evolutions": [
+					{"id": "0925houn", "conditions": {"level": 30, "hour": "night"}}
+				]
+			},
+			"0925houn": {
+				"genders": [50,50],
+				"cry": "925",
+				"dexEntry": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
+				"forms": [
+					{"name": "Houndstone", "types": ["ghost"], "power": 2, "baseImages": ["0925", "0925"]}
+				]
+			},
+			"0926flit": {
+				"genders": [50,50],
+				"cry": "926",
+				"dexEntry": "Flittle's toes levitate about an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
+				"forms": [
+					{"name": "Flittle", "types": ["psychic"], "power": 0, "baseImages": ["0926", "0926"]}
+				],
+				"evolutions": [
+					{"id": "0927espa", "conditions": {"level": 35}}
+				]
+			},
+			"0927espa": {
+				"genders": [50,50],
+				"cry": "927",
+				"dexEntry": "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
+				"forms": [
+					{"name": "Espathra", "types": ["psychic"], "power": 2, "baseImages": ["0927", "0927"]}
+				]
+			},
+			"0928fari": {
+				"genders": [50,50],
+				"cry": "928",
+				"dexEntry": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than <<0203gira>>’s.",
+				"forms": [
+					{"name": "Farigiraf", "types": ["normal", "psychic"], "power": 2, "baseImages": ["0928", "0928"]}
+				]
+			},
+			"0929wigl": {
+				"genders": [50,50],
+				"cry": "929",
+				"dexEntry": "This Pokémon can pick up the scent of a <<0932velu>> just over 65 feet away and will hide itself in the sand.",
+				"forms": [
+					{"name": "Wiglett", "types": ["water"], "power": -1, "baseImages": ["0929", "0929"]}
+				],
+				"evolutions": [
+					{"id": "0930wugt", "conditions": {"level": 26}}
+				]
+			},
+			"0930wugt": {
+				"genders": [50,50],
+				"cry": "930",
+				"dexEntry": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+				"forms": [
+					{"name": "Wugtrio", "types": ["water"], "power": 1, "baseImages": ["0930", "0930"]}
+				]
+			},
+			"0931dond": {
+				"genders": [50,50],
+				"cry": "931",
+				"dexEntry": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a <<0952tats>> to catch prey.",
+				"forms": [
+					{"name": "Dondozo", "types": ["water"], "power": 2, "baseImages": ["0931", "0931"]}
+				]
+			},
+			"0932velu": {
+				"genders": [50,50],
+				"cry": "932",
+				"dexEntry": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+				"forms": [
+					{"name": "Veluza", "types": ["water", "psychic"], "power": 2, "baseImages": ["0932", "0932"]}
+				]
+			},
+			"0933fini": {
+				"genders": [50,50],
+				"cry": "933",
+				"dexEntry": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
+				"forms": [
+					{"name": "Finizen", "types": ["water"], "power": 0, "baseImages": ["0933", "0933"]}
+				],
+				"evolutions": [
+					{"id": "0934pala", "conditions": {"level": 38}}
+				]
+			},
+			"0934pala": {
+				"genders": [50,50],
+				"cry": "934",
+				"dexEntry": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
+				"forms": [
+					{"conditions": {"lastOutcome": "win"}, "name": "Palafin", "types": ["water"], "power": 2, "baseImages": ["0934", "0934"]},
+					{"conditions": {"lastOutcome": "loss"}, "name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0934_hero", "0934_hero"]}
+				]
+			},
+			"0935smol": {
+				"genders": [50,50],
+				"cry": "935",
+				"dexEntry": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
+				"forms": [
+					{"name": "Smoliv", "types": ["grass", "normal"], "power": 0, "baseImages": ["0935", "0935"]}
+				],
+				"evolutions": [
+					{"id": "0936doll", "conditions": {"level": 25}}
+				]
+			},
+			"0936doll": {
+				"genders": [50,50],
+				"cry": "936",
+				"dexEntry": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+				"forms": [
+					{"name": "Dolliv", "types": ["grass", "normal"], "power": 1, "baseImages": ["0936", "0936"]}
+				],
+				"evolutions": [
+					{"id": "0937arbo", "conditions": {"level": 35}}
+				]
+			},
+			"0937arbo": {
+				"genders": [50,50],
+				"cry": "937",
+				"dexEntry": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+				"forms": [
+					{"name": "Arboliva", "types": ["grass", "normal"], "power": 2, "baseImages": ["0937", "0937"]}
+				]
+			},
+			"0938caps": {
+				"genders": [50,50],
+				"cry": "938",
+				"dexEntry": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+				"forms": [
+					{"name": "Capsakid", "types": ["grass"], "power": 0, "baseImages": ["0938", "0938"]}
+				],
+				"evolutions": [
+					{"id": "0939scov", "conditions": {"item": "Fire Stone"}}
+				]
+			},
+			"0939scov": {
+				"genders": [50,50],
+				"cry": "939",
+				"dexEntry": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+				"forms": [
+					{"name": "Scovillain", "types": ["grass", "fire"], "power": 2, "baseImages": ["0939", "0939"]}
+				]
+			},
+			"0940tadb": {
+				"genders": [50,50],
+				"cry": "940",
+				"dexEntry": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+				"forms": [
+					{"name": "Tadbulb", "types": ["electric"], "power": 0, "baseImages": ["0940", "0940"]}
+				],
+				"evolutions": [
+					{"id": "0941bell", "conditions": {"item": "Thunder Stone"}}
+				]
+			},
+			"0941bell": {
+				"genders": [50,50],
+				"cry": "941",
+				"dexEntry": "When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
+				"forms": [
+					{"name": "Bellibolt", "types": ["electric"], "power": 2, "baseImages": ["0941", "0941"]}
+				]
+			},
+			"0942varo": {
+				"genders": [50,50],
+				"cry": "942",
+				"dexEntry": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+				"forms": [
+					{"name": "Varoom", "types": ["poison", "steel"], "power": 0, "baseImages": ["0942", "0942"]}
+				],
+				"evolutions": [
+					{"id": "0943reva", "conditions": {"level": 40}}
+				]
+			},
+			"0943reva": {
+				"genders": [50,50],
+				"cry": "943",
+				"dexEntry": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
+				"forms": [
+					{"name": "Revavroom", "types": ["poison", "steel"], "power": 2, "baseImages": ["0943", "0943"]}
+				]
+			},
+			"0944orth": {
+				"genders": [50,50],
+				"cry": "944",
+				"dexEntry": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+				"forms": [
+					{"name": "Orthworm", "types": ["steel"], "power": 2, "baseImages": ["0944", "0944"]}
+				]
+			},
+			"0945tand": {
 				"genders": [0,0],
-				"cry": "984",
+				"genes": [50,50],
+				"cry": "945",
+				"dexEntry": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+				"forms": [
+					{"name": "Tandemaus", "types": ["normal"], "power": 0, "baseImages": ["0945", "0945"]}
+				],
+				"evolutions": [
+					{"id": "0946maus", "conditions": {"level": 25}}
+				]
+			},
+			"0946maus": {
+				"genders": [0,0],
+				"genes": [50,50],
+				"cry": "946",
+				"dexEntry": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
+				"forms": [
+					{"conditions": {"gene": 0}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946_three", "0946_three"]},
+					{"conditions": {"gene": 1}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0946_four", "0946_four"]}
+				]
+			},
+			"0947ceto": {
+				"genders": [50,50],
+				"cry": "947",
+				"dexEntry": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to <<0320wail>>.",
+				"forms": [
+					{"name": "Cetoddle", "types": ["ice"], "power": 0, "baseImages": ["0947", "0947"]}
+				],
+				"evolutions": [
+					{"id": "0948ceti", "conditions": {"item": "Ice Stone"}}
+				]
+			},
+			"0948ceti": {
+				"genders": [50,50],
+				"cry": "948",
+				"dexEntry": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+				"forms": [
+					{"name": "Cetitan", "types": ["ice"], "power": 2, "baseImages": ["0948", "0948"]}
+				]
+			},
+			"0949frig": {
+				"genders": [50,50],
+				"cry": "949",
+				"dexEntry": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+				"forms": [
+					{"name": "Frigibax", "types": ["ice", "dragon"], "power": 0, "baseImages": ["0949", "0949"]}
+				],
+				"evolutions": [
+					{"id": "0950arct", "conditions": {"level": 35}}
+				]
+			},
+			"0950arct": {
+				"genders": [50,50],
+				"cry": "950",
+				"dexEntry": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+				"forms": [
+					{"name": "Arctibax", "types": ["ice", "dragon"], "power": 1, "baseImages": ["0950", "0950"]}
+				],
+				"evolutions": [
+					{"id": "0951baxc", "conditions": {"level": 54}}
+				]
+			},
+			"0951baxc": {
+				"genders": [50,50],
+				"cry": "951",
+				"dexEntry": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+				"forms": [
+					{"name": "Baxcalibur", "types": ["ice", "dragon"], "power": 3, "baseImages": ["0951", "0951"]}
+				]
+			},
+			"0952tats": {
+				"genders": [50,50],
+				"genes": [33.4,33.3,33.3],
+				"cry": "952",
+				"dexEntry": "This is a small dragon Pokémon. It lives inside the mouth of <<0931dond>> to protect itself from enemies on the outside.",
+				"forms": [
+					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952_orange", "0952_orange"]},
+					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952_red", "0952_red"]},
+					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0952_yellow", "0952_yellow"]}
+				]
+			},
+			"0953cycl": {
+				"genders": [50,50],
+				"cry": "953",
+				"dexEntry": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+				"forms": [
+					{"name": "Cyclizar", "types": ["dragon", "normal"], "power": 2, "baseImages": ["0953", "0953"]}
+				]
+			},
+			"0954pawm": {
+				"genders": [50,50],
+				"cry": "954",
+				"dexEntry": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+				"forms": [
+					{"name": "Pawmi", "types": ["electric"], "power": -1, "baseImages": ["0954", "0954"]}
+				],
+				"evolutions": [
+					{"id": "0955pawm", "conditions": {"level": 18}}
+				]
+			},
+			"0955pawm": {
+				"genders": [50,50],
+				"cry": "955",
+				"dexEntry": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+				"forms": [
+					{"name": "Pawmo", "types": ["electric", "fighting"], "power": 0, "baseImages": ["0955", "0955"]}
+				],
+				"evolutions": [
+					{"id": "0956pawm", "conditions": {"distance": 1000}}
+				]
+			},
+			"0956pawm": {
+				"genders": [50,50],
+				"cry": "956",
+				"dexEntry": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+				"forms": [
+					{"name": "Pawmot", "types": ["electric", "fighting"], "power": 2, "baseImages": ["0956", "0956"]}
+				]
+			},
+			"0957watt": {
+				"genders": [50,50],
+				"cry": "957",
+				"dexEntry": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
+				"forms": [
+					{"name": "Wattrel", "types": ["electric", "flying"], "power": 0, "baseImages": ["0957", "0957"]}
+				],
+				"evolutions": [
+					{"id": "0958kilo", "conditions": {"level": 25}}
+				]
+			},
+			"0958kilo": {
+				"genders": [50,50],
+				"cry": "958",
+				"dexEntry": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
+				"forms": [
+					{"name": "Kilowattrel", "types": ["electric", "flying"], "power": 2, "baseImages": ["0958", "0958"]}
+				]
+			},
+			"0959bomb": {
+				"genders": [50,50],
+				"cry": "959",
+				"dexEntry": "It gathers things up in an apron made from shed feathers added to the Pokémon's chest feathers, then drops those things from high places for fun.",
+				"forms": [
+					{"name": "Bombirdier", "types": ["dark", "flying"], "power": 2, "baseImages": ["0959", "0959"]}
+				]
+			},
+			"0960squa": {
+				"genders": [50,50],
+				"genes": [25,25,25,25],
+				"cry": "960",
+				"dexEntry": "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
+				"forms": [
+					{"conditions": {"gene": 0}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_green", "0960_green"]},
+					{"conditions": {"gene": 1}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_blue", "0960_blue"]},
+					{"conditions": {"gene": 2}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_yellow", "0960_yellow"]},
+					{"conditions": {"gene": 3}, "name": "Squawkabilly", "types": ["normal", "flying"], "power": 1, "baseImages": ["0960_white", "0960_white"]}
+				]
+			},
+			"0961flam": {
+				"genders": [50,50],
+				"cry": "961",
+				"dexEntry": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+				"forms": [
+					{"name": "Flamigo", "types": ["flying", "fighting"], "power": 2, "baseImages": ["0961", "0961"]}
+				]
+			},
+			"0962klaw": {
+				"genders": [50,50],
+				"cry": "962",
+				"dexEntry": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
+				"forms": [
+					{"name": "Klawf", "types": ["rock"], "power": 1, "baseImages": ["0962", "0962"]}
+				]
+			},
+			"0963nacl": {
+				"genders": [50,50],
+				"cry": "963",
+				"dexEntry": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
+				"forms": [
+					{"name": "Nacli", "types": ["rock"], "power": 0, "baseImages": ["0963", "0963"]}
+				],
+				"evolutions": [
+					{"id": "0964nacl", "conditions": {"level": 24}}
+				]
+			},
+			"0964nacl": {
+				"genders": [50,50],
+				"cry": "964",
+				"dexEntry": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
+				"forms": [
+					{"name": "Naclstack", "types": ["rock"], "power": 1, "baseImages": ["0964", "0964"]}
+				],
+				"evolutions": [
+					{"id": "0965garg", "conditions": {"level": 38}}
+				]
+			},
+			"0965garg": {
+				"genders": [50,50],
+				"cry": "965",
+				"dexEntry": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
+				"forms": [
+					{"name": "Garganacl", "types": ["rock"], "power": 2, "baseImages": ["0965", "0965"]}
+				]
+			},
+			"0966glim": {
+				"genders": [50,50],
+				"cry": "966",
+				"dexEntry": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+				"forms": [
+					{"name": "Glimmet", "types": ["poison", "rock"], "power": 0, "baseImages": ["0966", "0966"]}
+				],
+				"evolutions": [
+					{"id": "0967glim", "conditions": {"level": 35}}
+				]
+			},
+			"0967glim": {
+				"genders": [50,50],
+				"cry": "967",
+				"dexEntry": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+				"forms": [
+					{"name": "Glimmora", "types": ["poison", "rock"], "power": 2, "baseImages": ["0967", "0967"]}
+				]
+			},
+			"0968shro": {
+				"genders": [50,50],
+				"cry": "968",
+				"dexEntry": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its fire.",
+				"forms": [
+					{"name": "Shroodle", "types": ["poison", "normal"], "power": 0, "baseImages": ["0968", "0968"]}
+				],
+				"evolutions": [
+					{"id": "0969graf", "conditions": {"level": 28}}
+				]
+			},
+			"0969graf": {
+				"genders": [50,50],
+				"cry": "969",
+				"dexEntry": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+				"forms": [
+					{"name": "Grafaiai", "types": ["poison", "normal"], "power": 2, "baseImages": ["0969", "0969"]}
+				]
+			},
+			"0970fido": {
+				"genders": [50,50],
+				"cry": "970",
+				"dexEntry": "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
+				"forms": [
+					{"name": "Fidough", "types": ["fairy"], "power": 0, "baseImages": ["0970", "0970"]}
+				],
+				"evolutions": [
+					{"id": "0971dach", "conditions": {"level": 26}}
+				]
+			},
+			"0971dach": {
+				"genders": [50,50],
+				"cry": "971",
+				"dexEntry": "The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+				"forms": [
+					{"name": "Dachsbun", "types": ["fairy"], "power": 2, "baseImages": ["0971", "0971"]}
+				]
+			},
+			"0972masc": {
+				"genders": [50,50],
+				"cry": "972",
+				"dexEntry": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
+				"forms": [
+					{"name": "Maschiff", "types": ["dark"], "power": 0, "baseImages": ["0972", "0972"]}
+				],
+				"evolutions": [
+					{"id": "0973mabo", "conditions": {"level": 30}}
+				]
+			},
+			"0973mabo": {
+				"genders": [50,50],
+				"cry": "973",
+				"dexEntry": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+				"forms": [
+					{"name": "Mabosstiff", "types": ["dark"], "power": 2, "baseImages": ["0973", "0973"]}
+				]
+			},
+			"0974bram": {
+				"genders": [50,50],
+				"cry": "974",
+				"dexEntry": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
+				"forms": [
+					{"name": "Bramblin", "types": ["grass", "ghost"], "power": 0, "baseImages": ["0974", "0974"]}
+				],
+				"evolutions": [
+					{"id": "0975bram", "conditions": {"distance": 1000}}
+				]
+			},
+			"0975bram": {
+				"genders": [50,50],
+				"cry": "975",
+				"dexEntry": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+				"forms": [
+					{"name": "Brambleghast", "types": ["grass", "ghost"], "power": 2, "baseImages": ["0975", "0975"]}
+				]
+			},
+			"0976gimm": {
+				"genders": [0,0],
+				"genes": [50,50],
+				"cry": "976",
+				"dexEntry": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+				"forms": [
+					{"conditions": {"gene": 0}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976_chest", "0976_chest"]},
+					{"conditions": {"gene": 1}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0976_roaming", "0976_roaming"]}
+				],
+				"evolutions": [
+					{"id": "0977ghol", "conditions": {"coins": 999}}
+				]
+			},
+			"0977ghol": {
+				"genders": [0,0],
+				"cry": "977",
+				"dexEntry": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+				"forms": [
+					{"name": "Gholdengo", "types": ["ghost", "steel"], "power": 2, "baseImages": ["0977", "0977"]}
+				]
+			},
+			"0978grea": {
+				"genders": [0,0],
+				"cry": "978",
 				"dexEntry": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.",
 				"forms": [
-					{"name": "Great Tusk", "types": ["ground", "fighting"], "power": 3, "baseImages": ["0984", "0984"]}
+					{"name": "Great Tusk", "types": ["ground", "fighting"], "power": 3, "baseImages": ["0978", "0978"]}
 				]
 			},
-			"0985scre": {
+			"0979brut": {
 				"genders": [0,0],
-				"cry": "985",
-				"dexEntry": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
-				"forms": [
-					{"name": "Scream Tail", "types": ["fairy", "psychic"], "power": 3, "baseImages": ["0985", "0985"]}
-				]
-			},
-			"0986brut": {
-				"genders": [0,0],
-				"cry": "986",
+				"cry": "979",
 				"dexEntry": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
 				"forms": [
-					{"name": "Brute Bonnet", "types": ["grass", "dark"], "power": 3, "baseImages": ["0986", "0986"]}
+					{"name": "Brute Bonnet", "types": ["grass", "dark"], "power": 3, "baseImages": ["0979", "0979"]}
 				]
 			},
-			"0987flut": {
-				"genders": [0,0],
-				"cry": "987",
-				"dexEntry": "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+			"0980": {
 				"forms": [
-					{"name": "Flutter Mane", "types": ["ghost", "fairy"], "power": 3, "baseImages": ["0987", "0987"]}
+					{"name": "Ancient Suicune", "types": ["normal"], "power": 3, "baseImages": ["0980", "0980"]}
 				]
 			},
-			"0988slit": {
+			"0981sand": {
 				"genders": [0,0],
-				"cry": "988",
-				"dexEntry": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
-				"forms": [
-					{"name": "Slither Wing", "types": ["bug", "fighting"], "power": 3, "baseImages": ["0988", "0988"]}
-				]
-			},
-			"0989sand": {
-				"genders": [0,0],
-				"cry": "989",
+				"cry": "981",
 				"dexEntry": "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.",
 				"forms": [
-					{"name": "Sandy Shocks", "types": ["electric", "ground"], "power": 3, "baseImages": ["0989", "0989"]}
+					{"name": "Sandy Shocks", "types": ["electric", "ground"], "power": 3, "baseImages": ["0981", "0981"]}
+				]
+			},
+			"0982scre": {
+				"genders": [0,0],
+				"cry": "982",
+				"dexEntry": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+				"forms": [
+					{"name": "Scream Tail", "types": ["fairy", "psychic"], "power": 3, "baseImages": ["0982", "0982"]}
+				]
+			},
+			"0983flut": {
+				"genders": [0,0],
+				"cry": "983",
+				"dexEntry": "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+				"forms": [
+					{"name": "Flutter Mane", "types": ["ghost", "fairy"], "power": 3, "baseImages": ["0983", "0983"]}
+				]
+			},
+			"0984slit": {
+				"genders": [0,0],
+				"cry": "984",
+				"dexEntry": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
+				"forms": [
+					{"name": "Slither Wing", "types": ["bug", "fighting"], "power": 3, "baseImages": ["0984", "0984"]}
+				]
+			},
+			"0985roar": {
+				"genders": [0,0],
+				"cry": "985",
+				"dexEntry": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+				"forms": [
+					{"name": "Roaring Moon", "types": ["dragon", "dark"], "power": 3, "baseImages": ["0985", "0985"]}
+				]
+			},
+			"0986iron": {
+				"genders": [0,0],
+				"cry": "986",
+				"dexEntry": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+				"forms": [
+					{"name": "Iron Treads", "types": ["ground", "steel"], "power": 3, "baseImages": ["0986", "0986"]}
+				]
+			},
+			"0987": {
+				"forms": [
+					{"name": "Future Virizion", "types": ["normal"], "power": 3, "baseImages": ["0987", "0987"]}
+				]
+			},
+			"0988iron": {
+				"genders": [0,0],
+				"cry": "988",
+				"dexEntry": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
+				"forms": [
+					{"name": "Iron Moth", "types": ["fire", "poison"], "power": 3, "baseImages": ["0988", "0988"]}
+				]
+			},
+			"0989iron": {
+				"genders": [0,0],
+				"cry": "989",
+				"dexEntry": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+				"forms": [
+					{"name": "Iron Hands", "types": ["fighting", "electric"], "power": 3, "baseImages": ["0989", "0989"]}
 				]
 			},
 			"0990iron": {
 				"genders": [0,0],
 				"cry": "990",
-				"dexEntry": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+				"dexEntry": "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a <<0635hydr>> that fell in love with a robot.",
 				"forms": [
-					{"name": "Iron Treads", "types": ["ground", "steel"], "power": 3, "baseImages": ["0990", "0990"]}
+					{"name": "Iron Jugulis", "types": ["dark", "flying"], "power": 3, "baseImages": ["0990", "0990"]}
 				]
 			},
 			"0991iron": {
 				"genders": [0,0],
 				"cry": "991",
-				"dexEntry": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
+				"dexEntry": "It has some similarities to a Pokémon introduced in a dubious magazine as a <<0248tyra>> from one billion years into the future.",
 				"forms": [
-					{"name": "Iron Bundle", "types": ["ice", "water"], "power": 3, "baseImages": ["0991", "0991"]}
+					{"name": "Iron Thorns", "types": ["rock", "electric"], "power": 3, "baseImages": ["0991", "0991"]}
 				]
 			},
 			"0992iron": {
 				"genders": [0,0],
 				"cry": "992",
-				"dexEntry": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+				"dexEntry": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.",
 				"forms": [
-					{"name": "Iron Hands", "types": ["fighting", "electric"], "power": 3, "baseImages": ["0992", "0992"]}
+					{"name": "Iron Bundle", "types": ["ice", "water"], "power": 3, "baseImages": ["0992", "0992"]}
 				]
 			},
 			"0993iron": {
 				"genders": [0,0],
 				"cry": "993",
-				"dexEntry": "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a <<0635hydr>> that fell in love with a robot.",
-				"forms": [
-					{"name": "Iron Jugulis", "types": ["dark", "flying"], "power": 3, "baseImages": ["0993", "0993"]}
-				]
-			},
-			"0994iron": {
-				"genders": [0,0],
-				"cry": "994",
-				"dexEntry": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
-				"forms": [
-					{"name": "Iron Moth", "types": ["fire", "poison"], "power": 3, "baseImages": ["0994", "0994"]}
-				]
-			},
-			"0995iron": {
-				"genders": [0,0],
-				"cry": "995",
-				"dexEntry": "It has some similarities to a Pokémon introduced in a dubious magazine as a <<0248tyra>> from one billion years into the future.",
-				"forms": [
-					{"name": "Iron Thorns", "types": ["rock", "electric"], "power": 3, "baseImages": ["0995", "0995"]}
-				]
-			},
-			"0996frig": {
-				"genders": [50,50],
-				"cry": "996",
-				"dexEntry": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
-				"forms": [
-					{"name": "Frigibax", "types": ["ice", "dragon"], "power": 0, "baseImages": ["0996", "0996"]}
-				],
-				"evolutions": [
-					{"id": "0997arct", "conditions": {"level": 35}}
-				]
-			},
-			"0997arct": {
-				"genders": [50,50],
-				"cry": "997",
-				"dexEntry": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
-				"forms": [
-					{"name": "Arctibax", "types": ["ice", "dragon"], "power": 1, "baseImages": ["0997", "0997"]}
-				],
-				"evolutions": [
-					{"id": "0998baxc", "conditions": {"level": 54}}
-				]
-			},
-			"0998baxc": {
-				"genders": [50,50],
-				"cry": "998",
-				"dexEntry": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
-				"forms": [
-					{"name": "Baxcalibur", "types": ["ice", "dragon"], "power": 3, "baseImages": ["0998", "0998"]}
-				]
-			},
-			"0999gimm": {
-				"genders": [0,0],
-				"genes": [50,50],
-				"cry": "999",
-				"dexEntry": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
-				"forms": [
-					{"conditions": {"gene": 0}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0999_chest", "0999_chest"]},
-					{"conditions": {"gene": 1}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0999_roaming", "0999_roaming"]}
-				],
-				"evolutions": [
-					{"id": "1000ghol", "conditions": {"coins": 999}}
-				]
-			},
-			"1000ghol": {
-				"genders": [0,0],
-				"cry": "1000",
-				"dexEntry": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
-				"forms": [
-					{"name": "Gholdengo", "types": ["ghost", "steel"], "power": 2, "baseImages": ["1000", "1000"]}
-				]
-			},
-			"1001woch": {
-				"genders": [0,0],
-				"cry": "1001",
-				"dexEntry": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
-				"forms": [
-					{"name": "Wo-Chien", "types": ["dark", "grass"], "power": 3, "baseImages": ["1001", "1001"]}
-				]
-			},
-			"1002chie": {
-				"genders": [0,0],
-				"cry": "1002",
-				"dexEntry": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
-				"forms": [
-					{"name": "Chien-Pao", "types": ["dark", "ice"], "power": 3, "baseImages": ["1002", "1002"]}
-				]
-			},
-			"1003ting": {
-				"genders": [0,0],
-				"cry": "1003",
-				"dexEntry": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
-				"forms": [
-					{"name": "Ting-Lu", "types": ["dark", "ground"], "power": 3, "baseImages": ["1003", "1003"]}
-				]
-			},
-			"1004chiy": {
-				"genders": [0,0],
-				"cry": "1004",
-				"dexEntry": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
-				"forms": [
-					{"name": "Chi-Yu", "types": ["dark", "fire"], "power": 3, "baseImages": ["1004", "1004"]}
-				]
-			},
-			"1005roar": {
-				"genders": [0,0],
-				"cry": "1005",
-				"dexEntry": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
-				"forms": [
-					{"name": "Roaring Moon", "types": ["dragon", "dark"], "power": 3, "baseImages": ["1005", "1005"]}
-				]
-			},
-			"1006iron": {
-				"genders": [0,0],
-				"cry": "1006",
 				"dexEntry": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
 				"forms": [
-					{"name": "Iron Valiant", "types": ["fairy", "fighting"], "power": 3, "baseImages": ["1006", "1006"]}
+					{"name": "Iron Valiant", "types": ["fairy", "fighting"], "power": 3, "baseImages": ["0993", "0993"]}
 				]
 			},
-			"1007kora": {
+			"0994ting": {
 				"genders": [0,0],
-				"cry": "1007",
+				"cry": "994",
+				"dexEntry": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
+				"forms": [
+					{"name": "Ting-Lu", "types": ["dark", "ground"], "power": 3, "baseImages": ["0994", "0994"]}
+				]
+			},
+			"0995chie": {
+				"genders": [0,0],
+				"cry": "995",
+				"dexEntry": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+				"forms": [
+					{"name": "Chien-Pao", "types": ["dark", "ice"], "power": 3, "baseImages": ["0995", "0995"]}
+				]
+			},
+			"0996woch": {
+				"genders": [0,0],
+				"cry": "996",
+				"dexEntry": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+				"forms": [
+					{"name": "Wo-Chien", "types": ["dark", "grass"], "power": 3, "baseImages": ["0996", "0996"]}
+				]
+			},
+			"0997chiy": {
+				"genders": [0,0],
+				"cry": "997",
+				"dexEntry": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+				"forms": [
+					{"name": "Chi-Yu", "types": ["dark", "fire"], "power": 3, "baseImages": ["0997", "0997"]}
+				]
+			},
+			"0998kora": {
+				"genders": [0,0],
+				"cry": "998",
 				"dexEntry": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
 				"forms": [
-					{"name": "Koraidon", "types": ["fighting", "dragon"], "power": 3, "baseImages": ["1007", "1007"]}
+					{"name": "Koraidon", "types": ["fighting", "dragon"], "power": 3, "baseImages": ["0998", "0998"]}
 				]
 			},
-			"1008mira": {
+			"0999mira": {
 				"genders": [0,0],
-				"cry": "1008",
-				"dexEntry": "Much remains unknown about this creature. It resembles <<0967cycl>>, but it is far more ruthless and powerful.",
+				"cry": "999",
+				"dexEntry": "Much remains unknown about this creature. It resembles <<0953cycl>>, but it is far more ruthless and powerful.",
 				"forms": [
-					{"name": "Miraidon", "types": ["electric", "dragon"], "power": 3, "baseImages": ["1008", "1008"]}
+					{"name": "Miraidon", "types": ["electric", "dragon"], "power": 3, "baseImages": ["0999", "0999"]}
+				]
+			},
+			"1000tink": {
+				"genders": [0,100],
+				"cry": "1000",
+				"dexEntry": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+				"forms": [
+					{"name": "Tinkatink", "types": ["fairy", "steel"], "power": 0, "baseImages": ["1000", "1000"]}
+				],
+				"evolutions": [
+					{"id": "1001tink", "conditions": {"level": 24}}
+				]
+			},
+			"1001tink": {
+				"genders": [0,100],
+				"cry": "1001",
+				"dexEntry": "This Pokémon will attack groups of <<0624pawn>> and <<0625bish>>, gathering metal from them in order to create a large and sturdy hammer.",
+				"forms": [
+					{"name": "Tinkatuff", "types": ["fairy", "steel"], "power": 1, "baseImages": ["1001", "1001"]}
+				],
+				"evolutions": [
+					{"id": "1002tink", "conditions": {"level": 38}}
+				]
+			},
+			"1002tink": {
+				"genders": [0,100],
+				"cry": "1002",
+				"dexEntry": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying <<0823corv>>.",
+				"forms": [
+					{"name": "Tinkaton", "types": ["fairy", "steel"], "power": 2, "baseImages": ["1002", "1002"]}
+				]
+			},
+			"1003char": {
+				"genders": [50,50],
+				"warm": true,
+				"cry": "1003",
+				"dexEntry": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Carchadet will battle even tough opponents.",
+				"forms": [
+					{"name": "Charcadet", "types": ["fire"], "power": 0, "baseImages": ["1003", "1003"]}
+				],
+				"evolutions": [
+					{"id": "1004arma", "conditions": {"item": "Auspicious Armor"}},
+					{"id": "1005ceru", "conditions": {"item": "Malicious Armor"}}
+				]
+			},
+			"1004arma": {
+				"genders": [50,50],
+				"cry": "1004",
+				"dexEntry": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+				"forms": [
+					{"name": "Armarouge", "types": ["fire", "psychic"], "power": 2, "baseImages": ["1004", "1004"]}
+				]
+			},
+			"1005ceru": {
+				"genders": [50,50],
+				"cry": "1005",
+				"dexEntry": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+				"forms": [
+					{"name": "Ceruledge", "types": ["fire", "ghost"], "power": 2, "baseImages": ["1005", "1005"]}
+				]
+			},
+			"1006toed": {
+				"genders": [50,50],
+				"cry": "1006",
+				"dexEntry": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
+				"forms": [
+					{"name": "Toedscool", "types": ["ground", "grass"], "power": 0, "baseImages": ["1006", "1006"]}
+				],
+				"evolutions": [
+					{"id": "1007toed", "conditions": {"level": 30}}
+				]
+			},
+			"1007toed": {
+				"genders": [50,50],
+				"cry": "1007",
+				"dexEntry": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
+				"forms": [
+					{"name": "Toedscruel", "types": ["ground", "grass"], "power": 2, "baseImages": ["1007", "1007"]}
+				]
+			},
+			"1008king": {
+				"genders": [50,50],
+				"cry": "1008",
+				"dexEntry": "Only a <<0625bish>> that stands above all others in its vast army can evolve into Kingambit.",
+				"forms": [
+					{"name": "Kingambit", "types": ["dark", "steel"], "power": 2, "baseImages": ["1008", "1008"]}
+				]
+			},
+			"1009clod": {
+				"genders": [50,50],
+				"cry": "1009",
+				"dexEntry": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+				"forms": [
+					{"name": "Clodsire", "types": ["poison", "ground"], "power": 1, "baseImages": ["1009", "1009"]}
+				]
+			},
+			"1010anni": {
+				"genders": [50,50],
+				"cry": "1010",
+				"dexEntry": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
+				"forms": [
+					{"name": "Annihilape", "types": ["fighting", "ghost"], "power": 2, "baseImages": ["1010", "1010"]}
 				]
 			}
 		},
@@ -12691,7 +12701,7 @@
 				"members": [
 					{"id": "0056mank", "range": [1, 32]},
 					{"id": "0057prim", "range": [28, 59]},
-					{"id": "0979anni", "range": [55, 100]}
+					{"id": "1010anni", "range": [55, 100]}
 				]
 			},
 			{
@@ -13726,7 +13736,7 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0194woop", "range": [1, 24]},
-					{"id": "0980clod", "range": [20, 100]}
+					{"id": "1009clod", "range": [20, 100]}
 				]
 			},
 			{
@@ -13782,7 +13792,7 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0203gira", "range": [1, 37]},
-					{"id": "0981fari", "range": [33, 100]}
+					{"id": "0928fari", "range": [33, 100]}
 				]
 			},
 			{
@@ -13803,7 +13813,7 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0206duns", "range": [1, 34]},
-					{"id": "0982dudu", "range": [30, 100]}
+					{"id": "0917dudu", "range": [30, 100]}
 				]
 			},
 			{
@@ -15918,7 +15928,7 @@
 				"members": [
 					{"id": "0624pawn", "range": [1, 56]},
 					{"id": "0625bish", "range": [52, 100]},
-					{"id": "0983king", "range": [65, 100]}
+					{"id": "1008king", "range": [65, 100]}
 				],
 				"items": [
 					{"id": "Leader's Crest", "prob": 2.5}
@@ -17496,8 +17506,8 @@
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0917taro", "range": [1, 19]},
-					{"id": "0918spid", "range": [15, 100]}
+					{"id": "0918taro", "range": [1, 19]},
+					{"id": "0919spid", "range": [15, 100]}
 				]
 			},
 			{
@@ -17506,8 +17516,8 @@
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0919nymb", "range": [1, 28]},
-					{"id": "0920loki", "range": [24, 100]}
+					{"id": "0920nymb", "range": [1, 28]},
+					{"id": "0921loki", "range": [24, 100]}
 				]
 			},
 			{
@@ -17516,29 +17526,28 @@
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0921pawm", "range": [1, 22]},
-					{"id": "0922pawm", "range": [18, 100]},
-					{"id": "0923pawm", "range": [55, 100]}
+					{"id": "0922rell", "range": [1, 20]},
+					{"id": "0923rabs", "range": [16, 100]}
 				]
 			},
 			{
 				"gen": 9,
-				"diffusion": 1.05,
+				"diffusion": 0.9,
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0924tand", "range": [1, 20]},
-					{"id": "0925maus", "range": [16, 100]}
+					{"id": "0924grea", "range": [1, 34]},
+					{"id": "0925houn", "range": [30, 100]}
 				]
 			},
 			{
 				"gen": 9,
-				"diffusion": 1.05,
+				"diffusion": 0.9,
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0926fido", "range": [1, 30]},
-					{"id": "0927dach", "range": [26, 100]}
+					{"id": "0926flit", "range": [1, 39]},
+					{"id": "0927espa", "range": [35, 100]}
 				]
 			},
 			{
@@ -17547,9 +17556,26 @@
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0928smol", "range": [1, 29]},
-					{"id": "0929doll", "range": [25, 39]},
-					{"id": "0930arbo", "range": [35, 100]}
+					{"id": "0929wigl", "range": [1, 30]},
+					{"id": "0930wugt", "range": [26, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 3,
+				"eggCycles": 40,
+				"members": [
+					{"id": "0931dond"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 2,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0932velu"}
 				]
 			},
 			{
@@ -17558,7 +17584,8 @@
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0931squa"}
+					{"id": "0933fini", "range": [1, 42]},
+					{"id": "0934pala", "range": [38, 100]}
 				]
 			},
 			{
@@ -17567,9 +17594,245 @@
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0932nacl", "range": [1, 28]},
-					{"id": "0933nacl", "range": [24, 42]},
-					{"id": "0934garg", "range": [38, 100]}
+					{"id": "0935smol", "range": [1, 29]},
+					{"id": "0936doll", "range": [25, 39]},
+					{"id": "0937arbo", "range": [35, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0938caps", "range": [1, 100]},
+					{"id": "0939scov", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Fire Stone", "prob": 2.5}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0940tadb", "range": [1, 100]},
+					{"id": "0941bell", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Thunder Stone", "prob": 2.5}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0942varo", "range": [1, 44]},
+					{"id": "0943reva", "range": [40, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 3,
+				"eggCycles": 40,
+				"members": [
+					{"id": "0944orth"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0945tand", "range": [1, 20]},
+					{"id": "0946maus", "range": [16, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0947ceto", "range": [1, 100]},
+					{"id": "0948ceti", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Ice Stone", "prob": 2.5}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 1,
+				"eggCycles": 40,
+				"members": [
+					{"id": "0949frig", "range": [1, 39]},
+					{"id": "0950arct", "range": [35, 58]},
+					{"id": "0951baxc", "range": [54, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 2,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0952tats"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0953cycl"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0954pawm", "range": [1, 22]},
+					{"id": "0955pawm", "range": [18, 100]},
+					{"id": "0956pawm", "range": [55, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.9,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0957watt", "range": [1, 29]},
+					{"id": "0958kilo", "range": [25, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 2,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0959bomb"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0960squa"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 2,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0961flam"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.9,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0962klaw"}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.2,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0963nacl", "range": [1, 28]},
+					{"id": "0964nacl", "range": [24, 42]},
+					{"id": "0965garg", "range": [38, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.75,
+				"eggFrequency": 2,
+				"eggCycles": 25,
+				"members": [
+					{"id": "0966glim", "range": [1, 39]},
+					{"id": "0967glim", "range": [35, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0968shro", "range": [1, 32]},
+					{"id": "0969graf", "range": [28, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0970fido", "range": [1, 30]},
+					{"id": "0971dach", "range": [26, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0972masc", "range": [1, 34]},
+					{"id": "0973mabo", "range": [30, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "0974bram", "range": [1, 100]},
+					{"id": "0975bram", "range": [55, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.9,
+				"eggFrequency": 2,
+				"eggCycles": 25,
+				"members": [
+					{"id": "0976gimm", "range": [1, 100]},
+					{"id": "0977ghol", "range": [55, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 1.05,
+				"eggFrequency": 3,
+				"eggCycles": 20,
+				"members": [
+					{"id": "1000tink", "range": [1, 28]},
+					{"id": "1001tink", "range": [24, 42]},
+					{"id": "1002tink", "range": [38, 100]}
 				]
 			},
 			{
@@ -17578,9 +17841,9 @@
 				"eggFrequency": 1,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0935char", "range": [1, 100]},
-					{"id": "0936arma", "range": [45, 100]},
-					{"id": "0937ceru", "range": [45, 100]}
+					{"id": "1003char", "range": [1, 100]},
+					{"id": "1004arma", "range": [45, 100]},
+					{"id": "1005ceru", "range": [45, 100]}
 				],
 				"items": [
 					{"id": "Auspicious Armor", "prob": 1.5},
@@ -17593,261 +17856,8 @@
 				"eggFrequency": 3,
 				"eggCycles": 20,
 				"members": [
-					{"id": "0938tadb", "range": [1, 100]},
-					{"id": "0939bell", "range": [45, 100]}
-				],
-				"items": [
-					{"id": "Thunder Stone", "prob": 2.5}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.9,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0940watt", "range": [1, 29]},
-					{"id": "0941kilo", "range": [25, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0942masc", "range": [1, 34]},
-					{"id": "0943mabo", "range": [30, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0944shro", "range": [1, 32]},
-					{"id": "0945graf", "range": [28, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0946bram", "range": [1, 100]},
-					{"id": "0947bram", "range": [55, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0948toed", "range": [1, 34]},
-					{"id": "0949toed", "range": [30, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.9,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0950klaw"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0951caps", "range": [1, 100]},
-					{"id": "0952scov", "range": [45, 100]}
-				],
-				"items": [
-					{"id": "Fire Stone", "prob": 2.5}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0953rell", "range": [1, 20]},
-					{"id": "0954rabs", "range": [16, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.9,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0955flit", "range": [1, 39]},
-					{"id": "0956espa", "range": [35, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0957tink", "range": [1, 28]},
-					{"id": "0958tink", "range": [24, 42]},
-					{"id": "0959tink", "range": [38, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.2,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0960wigl", "range": [1, 30]},
-					{"id": "0961wugt", "range": [26, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 2,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0962bomb"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0963fini", "range": [1, 42]},
-					{"id": "0964pala", "range": [38, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0965varo", "range": [1, 44]},
-					{"id": "0966reva", "range": [40, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0967cycl"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 3,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0968orth"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 2,
-				"eggCycles": 25,
-				"members": [
-					{"id": "0969glim", "range": [1, 39]},
-					{"id": "0970glim", "range": [35, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.9,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0971grea", "range": [1, 34]},
-					{"id": "0972houn", "range": [30, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 2,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0973flam"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 1.05,
-				"eggFrequency": 3,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0974ceto", "range": [1, 100]},
-					{"id": "0975ceti", "range": [45, 100]}
-				],
-				"items": [
-					{"id": "Ice Stone", "prob": 2.5}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 2,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0976velu"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 3,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0977dond"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 2,
-				"eggCycles": 20,
-				"members": [
-					{"id": "0978tats"}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.75,
-				"eggFrequency": 1,
-				"eggCycles": 40,
-				"members": [
-					{"id": "0996frig", "range": [1, 39]},
-					{"id": "0997arct", "range": [35, 58]},
-					{"id": "0998baxc", "range": [54, 100]}
-				]
-			},
-			{
-				"gen": 9,
-				"diffusion": 0.9,
-				"eggFrequency": 2,
-				"eggCycles": 25,
-				"members": [
-					{"id": "0999gimm", "range": [1, 100]},
-					{"id": "1000ghol", "range": [55, 100]}
+					{"id": "1006toed", "range": [1, 34]},
+					{"id": "1007toed", "range": [30, 100]}
 				]
 			}
 		],
@@ -18514,37 +18524,61 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0984grea", "minlvl": 50}
+					{"id": "0978grea", "minlvl": 50}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0985scre", "minlvl": 50}
+					{"id": "0979brut", "minlvl": 50}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0986brut", "minlvl": 50}
+					{"id": "0981sand", "minlvl": 50}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0987flut", "minlvl": 50}
+					{"id": "0982scre", "minlvl": 50}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0988slit", "minlvl": 50}
+					{"id": "0983flut", "minlvl": 50}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0989sand", "minlvl": 50}
+					{"id": "0984slit", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0985roar", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0986iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0988iron", "minlvl": 50}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "0989iron", "minlvl": 50}
 				]
 			},
 			{
@@ -18574,61 +18608,37 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0994iron", "minlvl": 50}
+					{"id": "0994ting", "minlvl": 65}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "0995iron", "minlvl": 50}
+					{"id": "0995chie", "minlvl": 65}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1001woch", "minlvl": 65}
+					{"id": "0996woch", "minlvl": 65}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1002chie", "minlvl": 65}
+					{"id": "0997chiy", "minlvl": 65}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1003ting", "minlvl": 65}
+					{"id": "0998kora", "minlvl": 70}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1004chiy", "minlvl": 65}
-				]
-			},
-			{
-				"gen": 9,
-				"members": [
-					{"id": "1005roar", "minlvl": 50}
-				]
-			},
-			{
-				"gen": 9,
-				"members": [
-					{"id": "1006iron", "minlvl": 50}
-				]
-			},
-			{
-				"gen": 9,
-				"members": [
-					{"id": "1007kora", "minlvl": 70}
-				]
-			},
-			{
-				"gen": 9,
-				"members": [
-					{"id": "1008mira", "minlvl": 70}
+					{"id": "0999mira", "minlvl": 70}
 				]
 			}
 		]
