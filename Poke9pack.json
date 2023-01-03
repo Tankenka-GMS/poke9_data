@@ -1,8 +1,8 @@
 {
 	"packName": "poke9_data",
 	"packPublicName": "Pokemon [9 gens] Data Pack",
-	"versionName": "1.0",
-	"versionNumber": 10,
+	"versionName": "1.1",
+	"versionNumber": 11,
 	"compatibleBackups": ["poke8_data", "poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke8_data", "poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"minAppVersion": 252,
@@ -2747,9 +2747,9 @@
 				"dexEntries": [2],
 				"forms": [
 					{"conditions": {"gene": 0}, "name": "Tauros", "types": ["normal"], "power": 2, "baseImages": ["0128", "0128_ico"]},
-					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"], "dexEntriesPos": 1},
-					{"conditions": {"gene": 2}, "fullName": "Paldean Tauros (fire breed)", "name": "Tauros", "types": ["fighting", "fire"], "power": 2, "baseImages": ["0128_paldea_fire", "0128_paldea_fire_ico"], "dexEntriesPos": 1},
-					{"conditions": {"gene": 3}, "fullName": "Paldean Tauros (water breed)", "name": "Tauros", "types": ["fighting", "water"], "power": 2, "baseImages": ["0128_paldea_water", "0128_paldea_water_ico"], "dexEntriesPos": 1}
+					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros (combat breed)", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"], "dexEntriesPos": 1},
+					{"conditions": {"gene": 2}, "fullName": "Paldean Tauros (blaze breed)", "name": "Tauros", "types": ["fighting", "fire"], "power": 2, "baseImages": ["0128_paldea_fire", "0128_paldea_fire_ico"], "dexEntriesPos": 1},
+					{"conditions": {"gene": 3}, "fullName": "Paldean Tauros (aqua breed)", "name": "Tauros", "types": ["fighting", "water"], "power": 2, "baseImages": ["0128_paldea_water", "0128_paldea_water_ico"], "dexEntriesPos": 1}
 				]
 			},
 			"0129magi": {
@@ -18713,13 +18713,13 @@
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1005roar", "minlvl": 50}
+					{"id": "1005roar", "minlvl": 55}
 				]
 			},
 			{
 				"gen": 9,
 				"members": [
-					{"id": "1006iron", "minlvl": 50}
+					{"id": "1006iron", "minlvl": 55}
 				]
 			},
 			{
