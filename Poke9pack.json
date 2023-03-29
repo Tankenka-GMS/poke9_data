@@ -1,11 +1,11 @@
 {
 	"packName": "poke9_data",
 	"packPublicName": "Pokemon [9 gens] Data Pack",
-	"versionName": "1.1",
-	"versionNumber": 11,
+	"versionName": "1.2",
+	"versionNumber": 12,
 	"compatibleBackups": ["poke8_data", "poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke8_data", "poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
-	"minAppVersion": 252,
+	"minAppVersion": 254,
 	"data": {
 		"shinies": true,
 		"dexentries": true,
@@ -11344,7 +11344,7 @@
 				"dexEntry": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
 				"forms": [
 					{"fullName": "Enamorus (Incarnate Forme)", "name": "Enamorus", "types": ["fairy", "flying"], "power": 3, "baseImages": ["0905_incarnate", "0905_incarnate_ico"]},
-					{"conditions": {"item": "Reveal Glass"}, "fullName": "Enamorus (Therian Forme)", "name": "Enamorus", "types": ["fairy", "flying"], "power": 3, "baseImages": ["0905_therian", "0905_therian_ico"]}
+					{"conditions": {"item": "Reveal Glass"}, "fullName": "Enamorus (Therian Forme)", "name": "Enamorus", "types": ["fairy", "flying"], "power": 3, "cry": "905T", "baseImages": ["0905_therian", "0905_therian_ico"]}
 				]
 			},
 			"0906spri": {
@@ -11464,8 +11464,8 @@
 				"cry": "916",
 				"dexEntry": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail.",
 				"forms": [
-					{"conditions": {"gender": 0}, "name": "Oinkologne", "types": ["normal"], "power": 2, "baseImages": ["0916", "0916"]},
-					{"conditions": {"gender": 1}, "name": "Oinkologne", "types": ["normal"], "power": 2, "baseImages": ["0916_f", "0916_f"]}
+					{"conditions": {"gender": 0}, "name": "Oinkologne", "types": ["normal"], "power": 2, "cry": "916M", "baseImages": ["0916", "0916"]},
+					{"conditions": {"gender": 1}, "name": "Oinkologne", "types": ["normal"], "power": 2, "cry": "916F", "baseImages": ["0916_f", "0916_f"]}
 				]
 			},
 			"0917taro": {
@@ -11563,8 +11563,8 @@
 				"cry": "925",
 				"dexEntry": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0925_three", "0925_three"]},
-					{"conditions": {"gene": 1}, "name": "Maushold", "types": ["normal"], "power": 2, "baseImages": ["0925_four", "0925_four"]}
+					{"conditions": {"gene": 0}, "name": "Maushold", "types": ["normal"], "power": 2, "cry": "925T", "baseImages": ["0925_three", "0925_three"]},
+					{"conditions": {"gene": 1}, "name": "Maushold", "types": ["normal"], "power": 2, "cry": "925F", "baseImages": ["0925_four", "0925_four"]}
 				]
 			},
 			"0926fido": {
@@ -11671,7 +11671,7 @@
 				"genders": [50,50],
 				"warm": true,
 				"growth": "slow",
-				"cry": "0935",
+				"cry": "935",
 				"dexEntry": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Carchadet will battle even tough opponents.",
 				"forms": [
 					{"name": "Charcadet", "types": ["fire"], "power": 0, "baseImages": ["0935", "0935"]}
@@ -11684,7 +11684,7 @@
 			"0936arma": {
 				"genders": [50,50],
 				"growth": "slow",
-				"cry": "0936",
+				"cry": "936",
 				"dexEntry": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
 				"forms": [
 					{"name": "Armarouge", "types": ["fire", "psychic"], "power": 2, "baseImages": ["0936", "0936"]}
@@ -11693,7 +11693,7 @@
 			"0937ceru": {
 				"genders": [50,50],
 				"growth": "slow",
-				"cry": "0937",
+				"cry": "937",
 				"dexEntry": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
 				"forms": [
 					{"name": "Ceruledge", "types": ["fire", "ghost"], "power": 2, "baseImages": ["0937", "0937"]}
@@ -11807,7 +11807,7 @@
 			"0948toed": {
 				"genders": [50,50],
 				"growth": "mediumslow",
-				"cry": "0948",
+				"cry": "948",
 				"dexEntry": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
 				"forms": [
 					{"name": "Toedscool", "types": ["ground", "grass"], "power": 0, "baseImages": ["0948", "0948"]}
@@ -11819,7 +11819,7 @@
 			"0949toed": {
 				"genders": [50,50],
 				"growth": "mediumslow",
-				"cry": "0949",
+				"cry": "949",
 				"dexEntry": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
 				"forms": [
 					{"name": "Toedscruel", "types": ["ground", "grass"], "power": 2, "baseImages": ["0949", "0949"]}
@@ -11900,7 +11900,7 @@
 			"0957tink": {
 				"genders": [0,100],
 				"growth": "mediumslow",
-				"cry": "0957",
+				"cry": "957",
 				"dexEntry": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
 				"forms": [
 					{"name": "Tinkatink", "types": ["fairy", "steel"], "power": 0, "baseImages": ["0957", "0957"]}
@@ -11912,7 +11912,7 @@
 			"0958tink": {
 				"genders": [0,100],
 				"growth": "mediumslow",
-				"cry": "0958",
+				"cry": "958",
 				"dexEntry": "This Pokémon will attack groups of <<0624pawn>> and <<0625bish>>, gathering metal from them in order to create a large and sturdy hammer.",
 				"forms": [
 					{"name": "Tinkatuff", "types": ["fairy", "steel"], "power": 1, "baseImages": ["0958", "0958"]}
@@ -11924,7 +11924,7 @@
 			"0959tink": {
 				"genders": [0,100],
 				"growth": "mediumslow",
-				"cry": "0959",
+				"cry": "959",
 				"dexEntry": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying <<0823corv>>.",
 				"forms": [
 					{"name": "Tinkaton", "types": ["fairy", "steel"], "power": 2, "baseImages": ["0959", "0959"]}
@@ -11979,7 +11979,7 @@
 				"dexEntry": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
 				"forms": [
 					{"conditions": {"lastOutcome": "win"}, "name": "Palafin", "types": ["water"], "power": 2, "baseImages": ["0964", "0964"]},
-					{"conditions": {"lastOutcome": "loss"}, "name": "Palafin", "types": ["water"], "power": 3, "baseImages": ["0964_hero", "0964_hero"]}
+					{"conditions": {"lastOutcome": "loss"}, "name": "Palafin", "types": ["water"], "power": 3, "cry": "964H", "baseImages": ["0964_hero", "0964_hero"]}
 				]
 			},
 			"0965varo": {
@@ -12118,15 +12118,15 @@
 				"cry": "978",
 				"dexEntry": "This is a small dragon Pokémon. It lives inside the mouth of <<0977dond>> to protect itself from enemies on the outside.",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0978_orange", "0978_orange"]},
-					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0978_red", "0978_red"]},
-					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "baseImages": ["0978_yellow", "0978_yellow"]}
+					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "cry": "978O", "baseImages": ["0978_orange", "0978_orange"]},
+					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "cry": "978R", "baseImages": ["0978_red", "0978_red"]},
+					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "cry": "978Y", "baseImages": ["0978_yellow", "0978_yellow"]}
 				]
 			},
 			"0979anni": {
 				"genders": [50,50],
 				"growth": "mediumfast",
-				"cry": "0979",
+				"cry": "979",
 				"dexEntry": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
 				"forms": [
 					{"name": "Annihilape", "types": ["fighting", "ghost"], "power": 2, "baseImages": ["0979", "0979"]}
@@ -12135,7 +12135,7 @@
 			"0980clod": {
 				"genders": [50,50],
 				"growth": "mediumfast",
-				"cry": "0980",
+				"cry": "980",
 				"dexEntry": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
 				"forms": [
 					{"name": "Clodsire", "types": ["poison", "ground"], "power": 1, "baseImages": ["0980", "0980"]}
@@ -12163,7 +12163,7 @@
 			"0983king": {
 				"genders": [50,50],
 				"growth": "mediumfast",
-				"cry": "0983",
+				"cry": "983",
 				"dexEntry": "Only a <<0625bish>> that stands above all others in its vast army can evolve into Kingambit.",
 				"forms": [
 					{"name": "Kingambit", "types": ["dark", "steel"], "power": 2, "baseImages": ["0983", "0983"]}
@@ -12317,8 +12317,8 @@
 				"cry": "999",
 				"dexEntry": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0999_chest", "0999_chest"]},
-					{"conditions": {"gene": 1}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "baseImages": ["0999_roaming", "0999_roaming"]}
+					{"conditions": {"gene": 0}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "cry": "999C", "baseImages": ["0999_chest", "0999_chest"]},
+					{"conditions": {"gene": 1}, "name": "Gimmighoul", "types": ["ghost"], "power": 0, "cry": "999R", "baseImages": ["0999_roaming", "0999_roaming"]}
 				],
 				"evolutions": [
 					{"id": "1000ghol", "conditions": {"coins": 999}}
