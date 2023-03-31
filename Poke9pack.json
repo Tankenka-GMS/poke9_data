@@ -1,8 +1,8 @@
 {
 	"packName": "poke9_data",
 	"packPublicName": "Pokemon [9 gens] Data Pack",
-	"versionName": "1.2",
-	"versionNumber": 12,
+	"versionName": "1.3",
+	"versionNumber": 13,
 	"compatibleBackups": ["poke8_data", "poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke8_data", "poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"minAppVersion": 254,
@@ -2747,9 +2747,9 @@
 				"dexEntries": [2],
 				"forms": [
 					{"conditions": {"gene": 0}, "name": "Tauros", "types": ["normal"], "power": 2, "baseImages": ["0128", "0128_ico"]},
-					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros (combat breed)", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea_ico"], "dexEntriesPos": 1},
-					{"conditions": {"gene": 2}, "fullName": "Paldean Tauros (blaze breed)", "name": "Tauros", "types": ["fighting", "fire"], "power": 2, "baseImages": ["0128_paldea_fire", "0128_paldea_fire_ico"], "dexEntriesPos": 1},
-					{"conditions": {"gene": 3}, "fullName": "Paldean Tauros (aqua breed)", "name": "Tauros", "types": ["fighting", "water"], "power": 2, "baseImages": ["0128_paldea_water", "0128_paldea_water_ico"], "dexEntriesPos": 1}
+					{"conditions": {"gene": 1}, "fullName": "Paldean Tauros (combat breed)", "name": "Tauros", "types": ["fighting"], "power": 2, "baseImages": ["0128_paldea", "0128_paldea"], "dexEntriesPos": 1},
+					{"conditions": {"gene": 2}, "fullName": "Paldean Tauros (blaze breed)", "name": "Tauros", "types": ["fighting", "fire"], "power": 2, "baseImages": ["0128_paldea_blaze", "0128_paldea_blaze"], "dexEntriesPos": 1},
+					{"conditions": {"gene": 3}, "fullName": "Paldean Tauros (aqua breed)", "name": "Tauros", "types": ["fighting", "water"], "power": 2, "baseImages": ["0128_paldea_aqua", "0128_paldea_aqua"], "dexEntriesPos": 1}
 				]
 			},
 			"0129magi": {
@@ -3476,7 +3476,7 @@
 				"forms": [
 					{"conditions": {"gene": 0, "gender": 0}, "name": "Wooper", "types": ["water", "ground"], "power": -1, "baseImages": ["0194", "0194_ico"]},
 					{"conditions": {"gene": 0, "gender": 1}, "name": "Wooper", "types": ["water", "ground"], "power": -1, "baseImages": ["0194_f", "0194_ico"]},
-					{"conditions": {"gene": 1}, "fullName": "Paldean Wooper", "name": "Wooper", "types": ["poison", "ground"], "power": -1, "baseImages": ["0194_paldea", "0194_paldea_ico"]}
+					{"conditions": {"gene": 1}, "fullName": "Paldean Wooper", "name": "Wooper", "types": ["poison", "ground"], "power": -1, "baseImages": ["0194_paldea", "0194_paldea"]}
 				],
 				"evolutions": [
 					{"id": "0195quag", "conditions": {"gene": 0, "level": 20}},
@@ -3631,7 +3631,7 @@
 			"0206duns": {
 				"genders": [50,50],
 				"growth": "mediumfast",
-				"genes": [75,25],
+				"genes": [98,2],
 				"cry": "206",
 				"dexEntry": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground.",
 				"forms": [
@@ -11545,8 +11545,8 @@
 			},
 			"0924tand": {
 				"genders": [0,0],
-				"genes": [50,50],
 				"growth": "fast",
+				"genes": [2,98],
 				"cry": "924",
 				"dexEntry": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
 				"forms": [
@@ -11558,8 +11558,8 @@
 			},
 			"0925maus": {
 				"genders": [0,0],
-				"genes": [50,50],
 				"growth": "fast",
+				"genes": [2,98],
 				"cry": "925",
 				"dexEntry": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.",
 				"forms": [
@@ -11623,8 +11623,8 @@
 			},
 			"0931squa": {
 				"genders": [50,50],
-				"genes": [25,25,25,25],
 				"growth": "slowfast",
+				"genes": [25,25,25,25],
 				"cry": "931",
 				"dexEntry": "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
 				"forms": [
@@ -12113,8 +12113,8 @@
 			},
 			"0978tats": {
 				"genders": [50,50],
-				"genes": [33.4,33.3,33.3],
 				"growth": "mediumslow",
+				"genes": [33.4,33.3,33.3],
 				"cry": "978",
 				"dexEntry": "This is a small dragon Pokémon. It lives inside the mouth of <<0977dond>> to protect itself from enemies on the outside.",
 				"forms": [
@@ -12153,11 +12153,12 @@
 			"0982dudu": {
 				"genders": [50,50],
 				"growth": "mediumslow",
+				"genes": [98,2],
 				"cry": "982",
 				"dexEntry": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0982", "0982"]},
-					{"conditions": {"gene": 1}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0982", "0982"]}
+					{"conditions": {"gene": 0}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0982_two", "0982_two"]},
+					{"conditions": {"gene": 1}, "name": "Dudunsparce", "types": ["normal"], "power": 2, "baseImages": ["0982_three", "0982_three"]}
 				]
 			},
 			"0983king": {
@@ -12312,8 +12313,8 @@
 			},
 			"0999gimm": {
 				"genders": [0,0],
-				"genes": [50,50],
 				"growth": "slow",
+				"genes": [50,50],
 				"cry": "999",
 				"dexEntry": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
 				"forms": [
