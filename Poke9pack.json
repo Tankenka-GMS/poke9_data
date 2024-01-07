@@ -11314,10 +11314,12 @@
 			"0901ursa": {
 				"genders": [50,50],
 				"growth": "mediumfast",
+				"genes": [98,2],
 				"cry": "901",
 				"dexEntry": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
 				"forms": [
-					{"name": "Ursaluna", "types": ["normal", "ground"], "power": 2, "baseImages": ["0901", "0901_ico"]}
+					{"conditions": {"gene": 0}, "name": "Ursaluna", "types": ["ground", "normal"], "power": 2, "baseImages": ["0901", "0901_ico"]},
+					{"conditions": {"gene": 1}, "fullName": "Bloodmoon Ursaluna", "name": "Ursaluna", "types": ["ground", "normal"], "power": 3, "baseImages": ["0901_bloodmoon", "0901_bloodmoon"]}
 				]
 			},
 			"0902basc": {
