@@ -1,8 +1,8 @@
 {
 	"packName": "poke9_data",
 	"packPublicName": "Pokemon [9 gens] Data Pack",
-	"versionName": "1.3",
-	"versionNumber": 13,
+	"versionName": "1.4",
+	"versionNumber": 14,
 	"compatibleBackups": ["poke8_data", "poke7c_data", "poke_data", "poke7_data", "poke7bt_data", "pokebt_zhae_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"compatibleMultiplayer": ["poke8_data", "poke7c_data", "poke7_data", "poke7bt_data", "pokegen1_vldc_data", "pokegen2_vldc_data", "pokegen3_vldc_data", "pokegen4_vldc_data", "pokegen5_vldc_data", "pokegen6_vldc_data", "pokegen7_vldc_data"],
 	"minAppVersion": 254,
@@ -613,6 +613,13 @@
 			"Auspicious Armor": {"icon": "auspiciousarmor.png", "desc": "A peculiar set of armor that can make a certain species of Pokémon evolve. Auspicious wishes live within it."},
 			"Malicious Armor": {"icon": "maliciousarmor.png", "desc": "A peculiar set of armor that can make a certain species of Pokémon evolve. Malicious will lurks within it."},
 			"Leader's Crest": {"icon": "leaderscrest.png", "desc": "A shard of what appears to be an old blade of some sort. It is held only by <<0625bish>> that head up a group of <<0624pawn>>."},
+			"Syrupy Apple": {"icon": "syrupyapple.png", "desc": "A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy."},
+			"Unremarkable Teacup": {"icon": "unremarkableteacup.png", "desc": "A peculiar teacup that can make a certain species of Pokémon evolve. It may be cracked, but tea drunk from it is delicious."},
+			"Masterpiece Teacup": {"icon": "masterpieceteacup.png", "desc": "A peculiar teacup that can make a certain species of Pokémon evolve. It may be chipped, but tea drunk from it is delicious."},
+			"Wellspring Mask": {"icon": "wellspringmask.png", "desc": "An item to be held by <<1017oger>>. This carved wooden mask is adorned with crystals and allows <<1017oger>> to wield the Water type during battle."},
+			"Hearthflame Mask": {"icon": "heartflamemask.png", "desc": "An item to be held by <<1017oger>>. This carved wooden mask is adorned with crystals and allows <<1017oger>> to wield the Fire type during battle."},
+			"Cornerstone Mask": {"icon": "cornerstonemask.png", "desc": "An item to be held by <<1017oger>>. This carved wooden mask is adorned with crystals and allows <<1017oger>> to wield the Rock type during battle."},
+			"Metal Alloy": {"icon": "metalalloy.png", "desc": "A peculiar metal that can make certain species of Pokémon evolve. It is composed of many layers."},
 			"Meadow Plate": {"icon": "meadow_plate.png", "desc": "An item to be held by a Pokémon. It's a stone tablet that boosts the power of Grass-type moves."},
 			"Flame Plate": {"icon": "flame_plate.png", "desc": "An item to be held by a Pokémon. It's a stone tablet that boosts the power of Fire-type moves."},
 			"Splash Plate": {"icon": "splash_plate.png", "desc": "An item to be held by a Pokémon. It's a stone tablet that boosts the power of Water-type moves."},
@@ -10557,7 +10564,8 @@
 				],
 				"evolutions": [
 					{"id": "0841flap", "conditions": {"item": "Tart Apple"}},
-					{"id": "0842appl", "conditions": {"item": "Sweet Apple"}}
+					{"id": "0842appl", "conditions": {"item": "Sweet Apple"}},
+					{"id": "1011dipp", "conditions": {"item": "Syrupy Apple"}}
 				]
 			},
 			"0841flap": {
@@ -11138,6 +11146,9 @@
 				"dexEntry": "Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.",
 				"forms": [
 					{"name": "Duraludon", "types": ["steel", "dragon"], "power": 2, "baseImages": ["0884", "0884_ico"]}
+				],
+				"evolutions": [
+					{"id": "1018arch", "conditions": {"item": "Metal Alloy"}}
 				]
 			},
 			"0885dree": {
@@ -12422,6 +12433,152 @@
 				"dexEntry": "???",
 				"forms": [
 					{"name": "Iron Leaves", "types": ["grass", "psychic"], "power": 3, "baseImages": ["1010", "1010_ico"]}
+				]
+			},
+			"1011dipp": {
+				"genders": [50,50],
+				"growth": "slowfast",
+				"cry": "1011",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Dipplin", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1011", "1011_ico"]}
+				],
+				"evolutions": [
+					{"id": "1019hydr", "conditions": {"level": 60}}
+				]
+			},
+			"1012polt": {
+				"genders": [0,0],
+				"growth": "mediumfast",
+				"genes": [98,2],
+				"cry": "1012",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Poltchageist", "types": ["grass", "ghost"], "power": 0, "baseImages": ["1012", "1012_ico"]}
+				],
+				"evolutions": [
+					{"id": "1013sini", "conditions": [{"gene": 0, "item": "Unremarkable Teacup"}, {"gene": 1, "item": "Masterpiece Teacup"}]}
+				]
+			},
+			"1013sini": {
+				"genders": [0,0],
+				"growth": "mediumfast",
+				"genes": [98,2],
+				"cry": "1013",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Sinistcha", "types": ["grass", "ghost"], "power": 2, "baseImages": ["1013", "1013_ico"]}
+				]
+			},
+			"1014okid": {
+				"genders": [100,0],
+				"growth": "slow",
+				"cry": "1014",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Okidogi", "types": ["poison", "fighting"], "power": 3, "baseImages": ["1014", "1014_ico"]}
+				]
+			},
+			"1015munk": {
+				"genders": [100,0],
+				"growth": "slow",
+				"cry": "1015",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Munkidori", "types": ["poison", "psychic"], "power": 3, "baseImages": ["1015", "1015_ico"]}
+				]
+			},
+			"1016feza": {
+				"genders": [100,0],
+				"growth": "slow",
+				"cry": "1016",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Fezandipiti", "types": ["poison", "fairy"], "power": 3, "baseImages": ["1016", "1016_ico"]}
+				]
+			},
+			"1017oger": {
+				"genders": [0,100],
+				"growth": "slow",
+				"cry": "1017",
+				"dexEntry": "???",
+				"forms": [
+					{"fullName": "Ogerpon (Teal Mask form)", "name": "Ogerpon", "types": ["grass"], "power": 2, "baseImages": ["1017_teal", "1017_teal_ico"]},
+					{"conditions": {"item": "Wellspring Mask"}, "fullName": "Ogerpon (Wellspring Mask form)", "name": "Ogerpon", "types": ["grass", "water"], "power": 2, "baseImages": ["1017_wellspring", "1017_wellspring_ico"]},
+					{"conditions": {"item": "Hearthflame Mask"}, "fullName": "Ogerpon (Hearthflame Mask form)", "name": "Ogerpon", "types": ["grass", "fire"], "power": 2, "baseImages": ["1017_heartflame", "1017_heartflame_ico"]},
+					{"conditions": {"item": "Cornerstone Mask"}, "fullName": "Ogerpon (Cornerstone Mask form)", "name": "Ogerpon", "types": ["grass", "rock"], "power": 2, "baseImages": ["1017_cornerstone", "1017_cornerstone_ico"]}
+				]
+			},
+			"1018arch": {
+				"genders": [50,50],
+				"growth": "mediumfast",
+				"cry": "1017",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Archaludon", "types": ["steel", "dragon"], "power": 3, "baseImages": ["1017", "1017_ico"]}
+				]
+			},
+			"1019hydr": {
+				"genders": [50,50],
+				"growth": "slowfast",
+				"cry": "1019",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Hydrapple", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1019", "1019_ico"]}
+				]
+			},
+			"1020goug": {
+				"genders": [0,0],
+				"growth": "slow",
+				"cry": "1020",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Gouging Fire", "types": ["fire", "dragon"], "power": 3, "baseImages": ["1020", "1020_ico"]}
+				]
+			},
+			"1021ragi": {
+				"genders": [0,0],
+				"growth": "slow",
+				"cry": "1021",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Raging Bolt", "types": ["electric", "dragon"], "power": 3, "baseImages": ["1021", "1021_ico"]}
+				]
+			},
+			"1022iron": {
+				"genders": [0,0],
+				"growth": "slow",
+				"cry": "1022",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Iron Boulder", "types": ["rock", "psychic"], "power": 3, "baseImages": ["1022", "1022_ico"]}
+				]
+			},
+			"1023iron": {
+				"genders": [0,0],
+				"growth": "slow",
+				"cry": "1023",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Iron Crown", "types": ["steel", "psychic"], "power": 3, "baseImages": ["1023", "1023_ico"]}
+				]
+			},
+			"1024tera": {
+				"genders": [50,50],
+				"growth": "slow",
+				"cry": "1024",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Terapagos", "types": ["normal"], "power": 3, "baseImages": ["1024_terastal", "1024_terastal_ico"]}
+				]
+			},
+			"1025pech": {
+				"genders": [0,0],
+				"growth": "slow",
+				"cry": "1025",
+				"dexEntry": "???",
+				"forms": [
+					{"name": "Pecharunt", "types": ["poison", "ghost"], "power": 3, "baseImages": ["1025", "1025_ico"]}
 				]
 			}
 		},
@@ -17313,11 +17470,14 @@
 				"members": [
 					{"id": "0840appl", "range": [1, 100]},
 					{"id": "0841flap", "range": [45, 100]},
-					{"id": "0842appl", "range": [45, 100]}
+					{"id": "0842appl", "range": [45, 100]},
+					{"id": "1011dipp", "range": [45, 100]},
+					{"id": "1019hydr", "range": [60, 100]}
 				],
 				"items": [
-					{"id": "Tart Apple", "prob": 1.5},
-					{"id": "Sweet Apple", "prob": 1.5}
+					{"id": "Tart Apple", "prob": 1},
+					{"id": "Sweet Apple", "prob": 1},
+					{"id": "Syrupy Apple", "prob": 1}
 				]
 			},
 			{
@@ -17552,7 +17712,11 @@
 				"eggFrequency": 1,
 				"eggCycles": 30,
 				"members": [
-					{"id": "0884dura"}
+					{"id": "0884dura", "range": [1, 100]},
+					{"id": "1018arch", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Metal Alloy", "prob": 2.5}
 				]
 			},
 			{
@@ -17970,6 +18134,20 @@
 				"members": [
 					{"id": "0999gimm", "range": [1, 100]},
 					{"id": "1000ghol", "range": [55, 100]}
+				]
+			},
+			{
+				"gen": 9,
+				"diffusion": 0.9,
+				"eggFrequency": 2,
+				"eggCycles": 20,
+				"members": [
+					{"id": "1012polt", "range": [1, 100]},
+					{"id": "1013sini", "range": [45, 100]}
+				],
+				"items": [
+					{"id": "Unremarkable Teacup", "prob": 2.5},
+					{"id": "Masterpiece Teacup", "prob": 0.1}
 				]
 			}
 		],
@@ -18763,6 +18941,72 @@
 				"gen": 9,
 				"members": [
 					{"id": "1010iron", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1014okid", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1015munk", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1016feza", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"fullName": false,
+				"members": [
+					{"id": "1017oger", "minlvl": 70}
+				],
+				"items": [
+					{"id": "Wellspring Mask", "prob": 0.034},
+					{"id": "Hearthflame Mask", "prob": 0.033},
+					{"id": "Cornerstone Mask", "prob": 0.033}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1020goug", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1021ragi", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1022iron", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1023iron", "minlvl": 70}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1024tera", "minlvl": 80}
+				]
+			},
+			{
+				"gen": 9,
+				"members": [
+					{"id": "1025pech", "minlvl": 80}
 				]
 			}
 		]
