@@ -12443,7 +12443,7 @@
 				"cry": "1011",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Dipplin", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1011", "1011_ico"]}
+					{"name": "Dipplin", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1011", "1011"]}
 				],
 				"evolutions": [
 					{"id": "1019hydr", "conditions": {"level": 60}}
@@ -12456,7 +12456,7 @@
 				"cry": "1012",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Poltchageist", "types": ["grass", "ghost"], "power": 0, "baseImages": ["1012", "1012_ico"]}
+					{"name": "Poltchageist", "types": ["grass", "ghost"], "power": 0, "baseImages": ["1012", "1012"]}
 				],
 				"evolutions": [
 					{"id": "1013sini", "conditions": [{"gene": 0, "item": "Unremarkable Teacup"}, {"gene": 1, "item": "Masterpiece Teacup"}]}
@@ -12469,7 +12469,7 @@
 				"cry": "1013",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Sinistcha", "types": ["grass", "ghost"], "power": 2, "baseImages": ["1013", "1013_ico"]}
+					{"name": "Sinistcha", "types": ["grass", "ghost"], "power": 2, "baseImages": ["1013", "1013"]}
 				]
 			},
 			"1014okid": {
@@ -12478,7 +12478,7 @@
 				"cry": "1014",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Okidogi", "types": ["poison", "fighting"], "power": 3, "baseImages": ["1014", "1014_ico"]}
+					{"name": "Okidogi", "types": ["poison", "fighting"], "power": 3, "baseImages": ["1014", "1014"]}
 				]
 			},
 			"1015munk": {
@@ -12487,7 +12487,7 @@
 				"cry": "1015",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Munkidori", "types": ["poison", "psychic"], "power": 3, "baseImages": ["1015", "1015_ico"]}
+					{"name": "Munkidori", "types": ["poison", "psychic"], "power": 3, "baseImages": ["1015", "1015"]}
 				]
 			},
 			"1016feza": {
@@ -12496,7 +12496,7 @@
 				"cry": "1016",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Fezandipiti", "types": ["poison", "fairy"], "power": 3, "baseImages": ["1016", "1016_ico"]}
+					{"name": "Fezandipiti", "types": ["poison", "fairy"], "power": 3, "baseImages": ["1016", "1016"]}
 				]
 			},
 			"1017oger": {
@@ -12505,10 +12505,10 @@
 				"cry": "1017",
 				"dexEntry": "???",
 				"forms": [
-					{"fullName": "Ogerpon (Teal Mask form)", "name": "Ogerpon", "types": ["grass"], "power": 2, "baseImages": ["1017_teal", "1017_teal_ico"]},
-					{"conditions": {"item": "Wellspring Mask"}, "fullName": "Ogerpon (Wellspring Mask form)", "name": "Ogerpon", "types": ["grass", "water"], "power": 2, "baseImages": ["1017_wellspring", "1017_wellspring_ico"]},
-					{"conditions": {"item": "Hearthflame Mask"}, "fullName": "Ogerpon (Hearthflame Mask form)", "name": "Ogerpon", "types": ["grass", "fire"], "power": 2, "baseImages": ["1017_heartflame", "1017_heartflame_ico"]},
-					{"conditions": {"item": "Cornerstone Mask"}, "fullName": "Ogerpon (Cornerstone Mask form)", "name": "Ogerpon", "types": ["grass", "rock"], "power": 2, "baseImages": ["1017_cornerstone", "1017_cornerstone_ico"]}
+					{"fullName": "Ogerpon (Teal Mask form)", "name": "Ogerpon", "types": ["grass"], "power": 2, "baseImages": ["1017_teal", "1017_teal"]},
+					{"conditions": {"item": "Wellspring Mask"}, "fullName": "Ogerpon (Wellspring Mask form)", "name": "Ogerpon", "types": ["grass", "water"], "power": 2, "baseImages": ["1017_wellspring", "1017_wellspring"]},
+					{"conditions": {"item": "Hearthflame Mask"}, "fullName": "Ogerpon (Hearthflame Mask form)", "name": "Ogerpon", "types": ["grass", "fire"], "power": 2, "baseImages": ["1017_heartflame", "1017_heartflame"]},
+					{"conditions": {"item": "Cornerstone Mask"}, "fullName": "Ogerpon (Cornerstone Mask form)", "name": "Ogerpon", "types": ["grass", "rock"], "power": 2, "baseImages": ["1017_cornerstone", "1017_cornerstone"]}
 				]
 			},
 			"1018arch": {
@@ -12517,7 +12517,7 @@
 				"cry": "1017",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Archaludon", "types": ["steel", "dragon"], "power": 3, "baseImages": ["1017", "1017_ico"]}
+					{"name": "Archaludon", "types": ["steel", "dragon"], "power": 3, "baseImages": ["1017", "1017"]}
 				]
 			},
 			"1019hydr": {
@@ -12526,7 +12526,7 @@
 				"cry": "1019",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Hydrapple", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1019", "1019_ico"]}
+					{"name": "Hydrapple", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1019", "1019"]}
 				]
 			},
 			"1020goug": {
@@ -12535,7 +12535,7 @@
 				"cry": "1020",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Gouging Fire", "types": ["fire", "dragon"], "power": 3, "baseImages": ["1020", "1020_ico"]}
+					{"name": "Gouging Fire", "types": ["fire", "dragon"], "power": 3, "baseImages": ["1020", "1020"]}
 				]
 			},
 			"1021ragi": {
@@ -12544,7 +12544,7 @@
 				"cry": "1021",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Raging Bolt", "types": ["electric", "dragon"], "power": 3, "baseImages": ["1021", "1021_ico"]}
+					{"name": "Raging Bolt", "types": ["electric", "dragon"], "power": 3, "baseImages": ["1021", "1021"]}
 				]
 			},
 			"1022iron": {
@@ -12553,7 +12553,7 @@
 				"cry": "1022",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Iron Boulder", "types": ["rock", "psychic"], "power": 3, "baseImages": ["1022", "1022_ico"]}
+					{"name": "Iron Boulder", "types": ["rock", "psychic"], "power": 3, "baseImages": ["1022", "1022"]}
 				]
 			},
 			"1023iron": {
@@ -12562,7 +12562,7 @@
 				"cry": "1023",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Iron Crown", "types": ["steel", "psychic"], "power": 3, "baseImages": ["1023", "1023_ico"]}
+					{"name": "Iron Crown", "types": ["steel", "psychic"], "power": 3, "baseImages": ["1023", "1023"]}
 				]
 			},
 			"1024tera": {
@@ -12571,7 +12571,7 @@
 				"cry": "1024",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Terapagos", "types": ["normal"], "power": 3, "baseImages": ["1024_terastal", "1024_terastal_ico"]}
+					{"name": "Terapagos", "types": ["normal"], "power": 3, "baseImages": ["1024_terastal", "1024_terastal"]}
 				]
 			},
 			"1025pech": {
@@ -12580,7 +12580,7 @@
 				"cry": "1025",
 				"dexEntry": "???",
 				"forms": [
-					{"name": "Pecharunt", "types": ["poison", "ghost"], "power": 3, "baseImages": ["1025", "1025_ico"]}
+					{"name": "Pecharunt", "types": ["poison", "ghost"], "power": 3, "baseImages": ["1025", "1025"]}
 				]
 			}
 		},
