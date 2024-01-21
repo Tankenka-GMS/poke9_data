@@ -12514,7 +12514,7 @@
 			"1018arch": {
 				"genders": [50,50],
 				"growth": "mediumfast",
-				"cry": "1017",
+				"cry": "1018",
 				"dexEntry": "???",
 				"forms": [
 					{"name": "Archaludon", "types": ["steel", "dragon"], "power": 3, "baseImages": ["1018", "1018"]}
