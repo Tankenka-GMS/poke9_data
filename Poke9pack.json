@@ -11319,7 +11319,7 @@
 				"dexEntry": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
 				"forms": [
 					{"conditions": {"gene": 0}, "name": "Ursaluna", "types": ["ground", "normal"], "power": 2, "baseImages": ["0901", "0901_ico"]},
-					{"conditions": {"gene": 1}, "fullName": "Bloodmoon Ursaluna", "name": "Ursaluna", "types": ["ground", "normal"], "power": 3, "baseImages": ["0901_bloodmoon", "0901_bloodmoon"]}
+					{"conditions": {"gene": 1}, "fullName": "Bloodmoon Ursaluna", "name": "Ursaluna", "types": ["ground", "normal"], "power": 3, "baseImages": ["0901_bloodmoon", "0901_bloodmoon_ico"]}
 				]
 			},
 			"0902basc": {
@@ -12443,7 +12443,7 @@
 				"cry": "1011",
 				"dexEntry": "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
 				"forms": [
-					{"name": "Dipplin", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1011", "1011"]}
+					{"name": "Dipplin", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1011", "1011_ico"]}
 				],
 				"evolutions": [
 					{"id": "1019hydr", "conditions": {"level": 60}}
@@ -12456,7 +12456,7 @@
 				"cry": "1012",
 				"dexEntry": "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.",
 				"forms": [
-					{"name": "Poltchageist", "types": ["grass", "ghost"], "power": 0, "baseImages": ["1012", "1012"]}
+					{"name": "Poltchageist", "types": ["grass", "ghost"], "power": 0, "baseImages": ["1012", "1012_ico"]}
 				],
 				"evolutions": [
 					{"id": "1013sini", "conditions": [{"gene": 0, "item": "Unremarkable Teacup"}, {"gene": 1, "item": "Masterpiece Teacup"}]}
@@ -12469,7 +12469,7 @@
 				"cry": "1013",
 				"dexEntry": "It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.",
 				"forms": [
-					{"name": "Sinistcha", "types": ["grass", "ghost"], "power": 2, "baseImages": ["1013", "1013"]}
+					{"name": "Sinistcha", "types": ["grass", "ghost"], "power": 2, "baseImages": ["1013", "1013_ico"]}
 				]
 			},
 			"1014okid": {
@@ -12478,7 +12478,7 @@
 				"cry": "1014",
 				"dexEntry": "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
 				"forms": [
-					{"name": "Okidogi", "types": ["poison", "fighting"], "power": 3, "baseImages": ["1014", "1014"]}
+					{"name": "Okidogi", "types": ["poison", "fighting"], "power": 3, "baseImages": ["1014", "1014_ico"]}
 				]
 			},
 			"1015munk": {
@@ -12487,7 +12487,7 @@
 				"cry": "1015",
 				"dexEntry": "The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.",
 				"forms": [
-					{"name": "Munkidori", "types": ["poison", "psychic"], "power": 3, "baseImages": ["1015", "1015"]}
+					{"name": "Munkidori", "types": ["poison", "psychic"], "power": 3, "baseImages": ["1015", "1015_ico"]}
 				]
 			},
 			"1016feza": {
@@ -12496,7 +12496,7 @@
 				"cry": "1016",
 				"dexEntry": "Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.",
 				"forms": [
-					{"name": "Fezandipiti", "types": ["poison", "fairy"], "power": 3, "baseImages": ["1016", "1016"]}
+					{"name": "Fezandipiti", "types": ["poison", "fairy"], "power": 3, "baseImages": ["1016", "1016_ico"]}
 				]
 			},
 			"1017oger": {
@@ -12505,10 +12505,10 @@
 				"cry": "1017",
 				"dexEntry": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
 				"forms": [
-					{"fullName": "Ogerpon (Teal Mask form)", "name": "Ogerpon", "types": ["grass"], "power": 2, "baseImages": ["1017_teal", "1017_teal"]},
-					{"conditions": {"item": "Wellspring Mask"}, "fullName": "Ogerpon (Wellspring Mask form)", "name": "Ogerpon", "types": ["grass", "water"], "power": 2, "baseImages": ["1017_wellspring", "1017_wellspring"]},
-					{"conditions": {"item": "Hearthflame Mask"}, "fullName": "Ogerpon (Hearthflame Mask form)", "name": "Ogerpon", "types": ["grass", "fire"], "power": 2, "baseImages": ["1017_heartflame", "1017_heartflame"]},
-					{"conditions": {"item": "Cornerstone Mask"}, "fullName": "Ogerpon (Cornerstone Mask form)", "name": "Ogerpon", "types": ["grass", "rock"], "power": 2, "baseImages": ["1017_cornerstone", "1017_cornerstone"]}
+					{"fullName": "Ogerpon (Teal Mask form)", "name": "Ogerpon", "types": ["grass"], "power": 2, "baseImages": ["1017_teal", "1017_teal_ico"]},
+					{"conditions": {"item": "Wellspring Mask"}, "fullName": "Ogerpon (Wellspring Mask form)", "name": "Ogerpon", "types": ["grass", "water"], "power": 2, "baseImages": ["1017_wellspring", "1017_wellspring_ico"]},
+					{"conditions": {"item": "Hearthflame Mask"}, "fullName": "Ogerpon (Hearthflame Mask form)", "name": "Ogerpon", "types": ["grass", "fire"], "power": 2, "baseImages": ["1017_heartflame", "1017_heartflame_ico"]},
+					{"conditions": {"item": "Cornerstone Mask"}, "fullName": "Ogerpon (Cornerstone Mask form)", "name": "Ogerpon", "types": ["grass", "rock"], "power": 2, "baseImages": ["1017_cornerstone", "1017_cornerstone_ico"]}
 				]
 			},
 			"1018arch": {
@@ -12517,7 +12517,7 @@
 				"cry": "1018",
 				"dexEntry": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
 				"forms": [
-					{"name": "Archaludon", "types": ["steel", "dragon"], "power": 3, "baseImages": ["1018", "1018"]}
+					{"name": "Archaludon", "types": ["steel", "dragon"], "power": 3, "baseImages": ["1018", "1018_ico"]}
 				]
 			},
 			"1019hydr": {
@@ -12526,7 +12526,7 @@
 				"cry": "1019",
 				"dexEntry": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
 				"forms": [
-					{"name": "Hydrapple", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1019", "1019"]}
+					{"name": "Hydrapple", "types": ["grass", "dragon"], "power": 2, "baseImages": ["1019", "1019_ico"]}
 				]
 			},
 			"1020goug": {
@@ -12535,7 +12535,7 @@
 				"cry": "1020",
 				"dexEntry": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
 				"forms": [
-					{"name": "Gouging Fire", "types": ["fire", "dragon"], "power": 3, "baseImages": ["1020", "1020"]}
+					{"name": "Gouging Fire", "types": ["fire", "dragon"], "power": 3, "baseImages": ["1020", "1020_ico"]}
 				]
 			},
 			"1021ragi": {
@@ -12544,7 +12544,7 @@
 				"cry": "1021",
 				"dexEntry": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
 				"forms": [
-					{"name": "Raging Bolt", "types": ["electric", "dragon"], "power": 3, "baseImages": ["1021", "1021"]}
+					{"name": "Raging Bolt", "types": ["electric", "dragon"], "power": 3, "baseImages": ["1021", "1021_ico"]}
 				]
 			},
 			"1022iron": {
@@ -12553,7 +12553,7 @@
 				"cry": "1022",
 				"dexEntry": "It resembles a Pokémon described in a dubious magazine as a <<0639terr>> that had been modified by an evil organization.",
 				"forms": [
-					{"name": "Iron Boulder", "types": ["rock", "psychic"], "power": 3, "baseImages": ["1022", "1022"]}
+					{"name": "Iron Boulder", "types": ["rock", "psychic"], "power": 3, "baseImages": ["1022", "1022_ico"]}
 				]
 			},
 			"1023iron": {
@@ -12562,7 +12562,7 @@
 				"cry": "1023",
 				"dexEntry": "It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a <<0638coba>>.",
 				"forms": [
-					{"name": "Iron Crown", "types": ["steel", "psychic"], "power": 3, "baseImages": ["1023", "1023"]}
+					{"name": "Iron Crown", "types": ["steel", "psychic"], "power": 3, "baseImages": ["1023", "1023_ico"]}
 				]
 			},
 			"1024tera": {
@@ -12571,7 +12571,7 @@
 				"cry": "1024",
 				"dexEntry": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
 				"forms": [
-					{"name": "Terapagos", "types": ["normal"], "power": 3, "baseImages": ["1024_terastal", "1024_terastal"]}
+					{"name": "Terapagos", "types": ["normal"], "power": 3, "baseImages": ["1024_terastal", "1024_terastal_ico"]}
 				]
 			},
 			"1025pech": {
@@ -12580,7 +12580,7 @@
 				"cry": "1025",
 				"dexEntry": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt's control, chained to its will.",
 				"forms": [
-					{"name": "Pecharunt", "types": ["poison", "ghost"], "power": 3, "baseImages": ["1025", "1025"]}
+					{"name": "Pecharunt", "types": ["poison", "ghost"], "power": 3, "baseImages": ["1025", "1025_ico"]}
 				]
 			}
 		},
