@@ -1603,7 +1603,9 @@
 				"forms": [
 					{"conditions": {"gene": 0, "gender": 0}, "name": "Raichu", "types": ["electric"], "power": 2, "baseImages": ["0026", "0026_ico"]},
 					{"conditions": {"gene": 0, "gender": 1}, "name": "Raichu", "types": ["electric"], "power": 2, "baseImages": ["0026_f", "0026_ico"]},
-					{"conditions": {"gene": 1}, "fullName": "Alolan Raichu", "name": "Raichu", "types": ["electric", "psychic"], "power": 2, "baseImages": ["0026_alola", "0026_alola_ico"], "dexEntriesPos": 1}
+					{"conditions": {"gene": 1}, "fullName": "Alolan Raichu", "name": "Raichu", "types": ["electric", "psychic"], "power": 2, "baseImages": ["0026_alola", "0026_alola_ico"], "dexEntriesPos": 1},
+					{"conditions": {"gene": 0, "item": "Raichunite X"}, "name": "Mega Raichu X", "types": ["electric"], "power": 3, "cry": "026X", "baseImages": ["0026_megax", "0026_megax_ico"]},
+					{"conditions": {"gene": 0, "item": "Raichunite Y"}, "name": "Mega Raichu Y", "types": ["electric"], "power": 3, "cry": "026Y", "baseImages": ["0026_megay", "0026_megay_ico"]}
 				]
 			},
 			"0027sand": {
@@ -1716,7 +1718,8 @@
 				"cry": "036",
 				"dexEntries": [],
 				"forms": [
-					{"name": "Clefable", "types": ["fairy"], "power": 2, "baseImages": ["0036", "0036_ico"]}
+					{"name": "Clefable", "types": ["fairy"], "power": 2, "baseImages": ["0036", "0036_ico"]},
+					{"conditions": {"item": "Clefablite"}, "name": "Mega Clefable", "types": ["fairy", "flying"], "power": 3, "cry": "036M", "baseImages": ["0036_mega", "0036_mega_ico"]}
 				]
 			},
 			"0037vulp": {
@@ -2126,7 +2129,8 @@
 				"cry": "071",
 				"dexEntries": [],
 				"forms": [
-					{"name": "Victreebel", "types": ["grass", "poison"], "power": 2, "baseImages": ["0071", "0071_ico"]}
+					{"name": "Victreebel", "types": ["grass", "poison"], "power": 2, "baseImages": ["0071", "0071_ico"]},
+					{"conditions": {"item": "Victreebelite"}, "name": "Mega Victreebel", "types": ["grass", "poison"], "power": 3, "cry": "071M", "baseImages": ["0071_mega", "0071_mega_ico"]}
 				]
 			},
 			"0072tent": {
@@ -2716,7 +2720,8 @@
 				"cry": "121",
 				"dexEntries": [],
 				"forms": [
-					{"name": "Starmie", "types": ["water", "psychic"], "power": 2, "baseImages": ["0121", "0121_ico"]}
+					{"name": "Starmie", "types": ["water", "psychic"], "power": 2, "baseImages": ["0121", "0121_ico"]},
+					{"conditions": {"item": "Starminite"}, "name": "Mega Starmie", "types": ["water", "psychic"], "power": 3, "cry": "121M", "baseImages": ["0121_mega", "0121_mega_ico"]}
 				]
 			},
 			"0122mrmi": {
@@ -3030,7 +3035,8 @@
 				"cry": "149",
 				"dexEntries": [],
 				"forms": [
-					{"name": "Dragonite", "types": ["dragon", "flying"], "power": 3, "baseImages": ["0149", "0149_ico"]}
+					{"name": "Dragonite", "types": ["dragon", "flying"], "power": 3, "baseImages": ["0149", "0149_ico"]},
+					{"conditions": {"item": "Dragoninite"}, "name": "Mega Dragonite", "types": ["dragon", "flying"], "power": 4, "cry": "149M", "baseImages": ["0149_mega", "0149_mega_ico"]}
 				]
 			},
 			"0150mewt": {
@@ -3084,7 +3090,8 @@
 				"dexEntry": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
 				"forms": [
 					{"conditions": {"gender": 0}, "name": "Meganium", "types": ["grass"], "power": 2, "baseImages": ["0154", "0154_ico"]},
-					{"conditions": {"gender": 1}, "name": "Meganium", "types": ["grass"], "power": 2, "baseImages": ["0154_f", "0154_ico"]}
+					{"conditions": {"gender": 1}, "name": "Meganium", "types": ["grass"], "power": 2, "baseImages": ["0154_f", "0154_ico"]},
+					{"conditions": {"item": "Meganiumite"}, "name": "Mega Meganium", "types": ["grass", "fairy"], "power": 3, "cry": "154M", "baseImages": ["0154_mega", "0154_mega_ico"]}
 				]
 			},
 			"0155cynd": {
@@ -3154,7 +3161,8 @@
 				"cry": "160",
 				"dexEntry": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
 				"forms": [
-					{"name": "Feraligatr", "types": ["water"], "power": 2, "baseImages": ["0160", "0160_ico"]}
+					{"name": "Feraligatr", "types": ["water"], "power": 2, "baseImages": ["0160", "0160_ico"]},
+					{"conditions": {"item": "Feraligite"}, "name": "Mega Feraligatr", "types": ["water", "dragon"], "power": 3, "cry": "160M", "baseImages": ["0160_mega", "0160_mega_ico"]}
 				]
 			},
 			"0161sent": {
@@ -3933,7 +3941,8 @@
 				"cry": "227",
 				"dexEntry": "Its metal body is sturdy, but it does rust rather easily. So on rainy days, this Pokémon prefers to stay put in its nest.",
 				"forms": [
-					{"name": "Skarmory", "types": ["steel", "flying"], "power": 2, "baseImages": ["0227", "0227_ico"]}
+					{"name": "Skarmory", "types": ["steel", "flying"], "power": 2, "baseImages": ["0227", "0227_ico"]},
+					{"conditions": {"item": "Skarmorite"}, "name": "Mega Skarmory", "types": ["steel", "flying"], "power": 3, "cry": "227M", "baseImages": ["0227_mega", "0227_mega_ico"]}
 				]
 			},
 			"0228houn": {
@@ -5355,7 +5364,8 @@
 				"cry": "358",
 				"dexEntry": "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
 				"forms": [
-					{"name": "Chimecho", "types": ["psychic"], "power": 2, "baseImages": ["0358", "0358_ico"]}
+					{"name": "Chimecho", "types": ["psychic"], "power": 2, "baseImages": ["0358", "0358_ico"]},
+					{"conditions": {"item": "Chimechite"}, "name": "Mega Chimecho", "types": ["psychic","steel"], "power": 3, "cry": "358M", "baseImages": ["0358_mega", "0358_mega_ico"]}
 				]
 			},
 			"0359abso": {
@@ -5365,7 +5375,8 @@
 				"dexEntry": "Although it's said to bring disaster, in actuality, this Pokémon possesses a calm disposition and warns people of any crises that loom.",
 				"forms": [
 					{"name": "Absol", "types": ["dark"], "power": 2, "baseImages": ["0359", "0359_ico"]},
-					{"conditions": {"item": "Absolite"}, "name": "Mega Absol", "types": ["dark"], "power": 3, "cry": "359M", "baseImages": ["0359_mega", "0359_mega_ico"]}
+					{"conditions": {"item": "Absolite"}, "name": "Mega Absol", "types": ["dark"], "power": 3, "cry": "359M", "baseImages": ["0359_mega", "0359_mega_ico"]},
+					{"conditions": {"item": "Absolite Z"}, "name": "Mega Absol Z", "types": ["dark","ghost"], "power": 3, "cry": "359Z", "baseImages": ["0359_megaz", "0359_megaz_ico"]}
 				]
 			},
 			"0360wyna": {
@@ -5791,7 +5802,8 @@
 				"dexEntry": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.",
 				"forms": [
 					{"conditions": {"gender": 0}, "name": "Staraptor", "types": ["normal", "flying"], "power": 2, "baseImages": ["0398", "0398_ico"]},
-					{"conditions": {"gender": 1}, "name": "Staraptor", "types": ["normal", "flying"], "power": 2, "baseImages": ["0398_f", "0398_ico"]}
+					{"conditions": {"gender": 1}, "name": "Staraptor", "types": ["normal", "flying"], "power": 2, "baseImages": ["0398_f", "0398_ico"]},
+					{"conditions": {"item": "Staraptite"}, "name": "Mega Staraptor", "types": ["fighting", "flying"], "power": 3, "cry": "398M", "baseImages": ["0398_mega", "0398_mega_ico"]}
 				]
 			},
 			"0399bido": {
@@ -6314,7 +6326,8 @@
 				"forms": [
 					{"conditions": {"gender": 0}, "name": "Garchomp", "types": ["dragon", "ground"], "power": 3, "baseImages": ["0445", "0445_ico"]},
 					{"conditions": {"gender": 1}, "name": "Garchomp", "types": ["dragon", "ground"], "power": 3, "baseImages": ["0445_f", "0445_ico"]},
-					{"conditions": {"item": "Garchompite"}, "name": "Mega Garchomp", "types": ["dragon", "ground"], "power": 4, "cry": "445M", "baseImages": ["0445_mega", "0445_mega_ico"]}
+					{"conditions": {"item": "Garchompite"}, "name": "Mega Garchomp", "types": ["dragon", "ground"], "power": 4, "cry": "445M", "baseImages": ["0445_mega", "0445_mega_ico"]},
+					{"conditions": {"item": "Garchompite Z"}, "name": "Mega Garchomp Z", "types": ["dragon"], "power": 4, "cry": "445Z", "baseImages": ["0445_megaz", "0445_megaz_ico"]}
 				]
 			},
 			"0446munc": {
@@ -6348,7 +6361,8 @@
 				"dexEntry": "Not only does it perceive auras, but it has also gained the power to control them. It employs them in battle.",
 				"forms": [
 					{"name": "Lucario", "types": ["fighting", "steel"], "power": 2, "baseImages": ["0448", "0448_ico"]},
-					{"conditions": {"item": "Lucarionite"}, "name": "Mega Lucario", "types": ["fighting", "steel"], "power": 3, "cry": "448M", "baseImages": ["0448_mega", "0448_mega_ico"]}
+					{"conditions": {"item": "Lucarionite"}, "name": "Mega Lucario", "types": ["fighting", "steel"], "power": 3, "cry": "448M", "baseImages": ["0448_mega", "0448_mega_ico"]},
+					{"conditions": {"item": "Lucarionite Z"}, "name": "Mega Lucario Z", "types": ["fighting", "steel"], "power": 3, "cry": "448Z", "baseImages": ["0448_megaz", "0448_megaz_ico"]}
 				]
 			},
 			"0449hipp": {
@@ -6651,7 +6665,8 @@
 				"cry": "478",
 				"dexEntry": "The soul of a woman lost on a snowy mountain possessed an icicle, becoming this Pokémon. The food it most relishes is the souls of men.",
 				"forms": [
-					{"name": "Froslass", "types": ["ice", "ghost"], "power": 2, "baseImages": ["0478", "0478_ico"]}
+					{"name": "Froslass", "types": ["ice", "ghost"], "power": 2, "baseImages": ["0478", "0478_ico"]},
+					{"conditions": {"item": "Froslassite"}, "name": "Mega Froslass", "types": ["ice", "ghost"], "power": 3, "cry": "478M", "baseImages": ["0478_mega", "0478_mega_ico"]}
 				]
 			},
 			"0479roto": {
@@ -6722,7 +6737,8 @@
 				"cry": "485",
 				"dexEntry": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
 				"forms": [
-					{"name": "Heatran", "types": ["fire", "steel"], "power": 3, "baseImages": ["0485", "0485_ico"]}
+					{"name": "Heatran", "types": ["fire", "steel"], "power": 3, "baseImages": ["0485", "0485_ico"]},
+					{"conditions": {"item": "Heatranite"}, "name": "Mega Heatran", "types": ["fire", "steel"], "power": 4, "cry": "485M", "baseImages": ["0485_mega", "0485_mega_ico"]}
 				]
 			},
 			"0486regi": {
@@ -6777,7 +6793,8 @@
 				"cry": "491",
 				"dexEntry": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
 				"forms": [
-					{"name": "Darkrai", "types": ["dark"], "power": 3, "baseImages": ["0491", "0491_ico"]}
+					{"name": "Darkrai", "types": ["dark"], "power": 3, "baseImages": ["0491", "0491_ico"]},
+					{"conditions": {"item": "Darkranite"}, "name": "Mega Darkrai", "types": ["dark"], "power": 4, "cry": "491M", "baseImages": ["0491_mega", "0491_mega_ico"]}
 				]
 			},
 			"0492shay": {
@@ -6888,7 +6905,8 @@
 				"cry": "500",
 				"dexEntry": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
 				"forms": [
-					{"name": "Emboar", "types": ["fire", "fighting"], "power": 2, "baseImages": ["0500", "0500_ico"]}
+					{"name": "Emboar", "types": ["fire", "fighting"], "power": 2, "baseImages": ["0500", "0500_ico"]},
+					{"conditions": {"item": "Emboarite"}, "name": "Mega Emboar", "types": ["fire", "fighting"], "power": 3, "cry": "500M", "baseImages": ["0500_mega", "0500_mega_ico"]}
 				]
 			},
 			"0501osha": {
@@ -7214,7 +7232,8 @@
 				"cry": "530",
 				"dexEntry": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
 				"forms": [
-					{"name": "Excadrill", "types": ["ground", "steel"], "power": 2, "baseImages": ["0530", "0530_ico"]}
+					{"name": "Excadrill", "types": ["ground", "steel"], "power": 2, "baseImages": ["0530", "0530_ico"]},
+					{"conditions": {"item": "Excadrite"}, "name": "Mega Excadrill", "types": ["ground", "steel"], "power": 3, "cry": "530M", "baseImages": ["0530_mega", "0530_mega_ico"]}
 				]
 			},
 			"0531audi": {
@@ -7374,7 +7393,8 @@
 				"cry": "545",
 				"dexEntry": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
 				"forms": [
-					{"name": "Scolipede", "types": ["bug", "poison"], "power": 2, "baseImages": ["0545", "0545_ico"]}
+					{"name": "Scolipede", "types": ["bug", "poison"], "power": 2, "baseImages": ["0545", "0545_ico"]},
+					{"conditions": {"item": "Scolipite"}, "name": "Mega Scolipede", "types": ["bug", "poison"], "power": 3, "cry": "545M", "baseImages": ["0545_mega", "0545_mega_ico"]}
 				]
 			},
 			"0546cott": {
@@ -7545,7 +7565,8 @@
 				"cry": "560",
 				"dexEntry": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
 				"forms": [
-					{"name": "Scrafty", "types": ["dark", "fighting"], "power": 2, "baseImages": ["0560", "0560_ico"]}
+					{"name": "Scrafty", "types": ["dark", "fighting"], "power": 2, "baseImages": ["0560", "0560_ico"]},
+					{"conditions": {"item": "Scraftinite"}, "name": "Mega Scrafty", "types": ["dark", "fighting"], "power": 3, "cry": "560M", "baseImages": ["0560_mega", "0560_mega_ico"]}
 				]
 			},
 			"0561sigi": {
@@ -8025,7 +8046,8 @@
 				"cry": "604",
 				"dexEntry": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
 				"forms": [
-					{"name": "Eelektross", "types": ["electric"], "power": 2, "baseImages": ["0604", "0604_ico"]}
+					{"name": "Eelektross", "types": ["electric"], "power": 2, "baseImages": ["0604", "0604_ico"]},
+					{"conditions": {"item": "Eelektrossite"}, "name": "Mega Eelektross", "types": ["electric"], "power": 3, "cry": "604M", "baseImages": ["0604_mega", "0604_mega_ico"]}
 				]
 			},
 			"0605elgy": {
@@ -8082,7 +8104,8 @@
 				"cry": "609",
 				"dexEntry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
 				"forms": [
-					{"name": "Chandelure", "types": ["ghost", "fire"], "power": 2, "baseImages": ["0609", "0609_ico"]}
+					{"name": "Chandelure", "types": ["ghost", "fire"], "power": 2, "baseImages": ["0609", "0609_ico"]},
+					{"conditions": {"item": "Chandelurite"}, "name": "Mega Chandelure", "types": ["ghost", "fire"], "power": 3, "cry": "609M", "baseImages": ["0609_mega", "0609_mega_ico"]}
 				]
 			},
 			"0610axew": {
@@ -8228,7 +8251,8 @@
 				"cry": "623",
 				"dexEntry": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
 				"forms": [
-					{"name": "Golurk", "types": ["ground", "ghost"], "power": 2, "baseImages": ["0623", "0623_ico"]}
+					{"name": "Golurk", "types": ["ground", "ghost"], "power": 2, "baseImages": ["0623", "0623_ico"]},
+					{"conditions": {"item": "Golurkite"}, "name": "Mega Golurk", "types": ["ground", "ghost"], "power": 3, "cry": "623M", "baseImages": ["0623_mega", "0623_mega_ico"]}
 				]
 			},
 			"0624pawn": {
@@ -8537,7 +8561,8 @@
 				"cry": "652",
 				"dexEntry": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
 				"forms": [
-					{"name": "Chesnaught", "types": ["grass", "fighting"], "power": 2, "baseImages": ["0652", "0652_ico"]}
+					{"name": "Chesnaught", "types": ["grass", "fighting"], "power": 2, "baseImages": ["0652", "0652_ico"]},
+					{"conditions": {"item": "Chesnaughtite"}, "name": "Mega Chesnaught", "types": ["grass", "fighting"], "power": 3, "cry": "652M", "baseImages": ["0652_mega", "0652_mega_ico"]}
 				]
 			},
 			"0653fenn": {
@@ -8570,7 +8595,8 @@
 				"cry": "655",
 				"dexEntry": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
 				"forms": [
-					{"name": "Delphox", "types": ["fire", "psychic"], "power": 2, "baseImages": ["0655", "0655_ico"]}
+					{"name": "Delphox", "types": ["fire", "psychic"], "power": 2, "baseImages": ["0655", "0655_ico"]},
+					{"conditions": {"item": "Delphoxite"}, "name": "Mega Delphox", "types": ["fire", "psychic"], "power": 3, "cry": "655M", "baseImages": ["0655_mega", "0655_mega_ico"]}
 				]
 			},
 			"0656froa": {
@@ -8604,7 +8630,8 @@
 				"dexEntry": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
 				"forms": [
 					{"name": "Greninja", "types": ["water", "dark"], "power": 2, "baseImages": ["0658", "0658_ico"]},
-					{"conditions": {"item": "Ash Cap"}, "name": "Ash Greninja", "types": ["water", "dark"], "power": 3, "baseImages": ["0658_ash", "0658_ash_ico"]}
+					{"conditions": {"item": "Ash Cap"}, "name": "Ash Greninja", "types": ["water", "dark"], "power": 3, "baseImages": ["0658_ash", "0658_ash_ico"]},
+					{"conditions": {"item": "Greninjite"}, "name": "Mega Greninja", "types": ["water", "dark"], "power": 3, "cry": "658M", "baseImages": ["0658_mega", "0658_mega_ico"]}
 				]
 			},
 			"0659bunn": {
@@ -8737,7 +8764,8 @@
 				"dexEntry": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
 				"forms": [
 					{"conditions": {"gender": 0}, "name": "Pyroar", "types": ["fire", "normal"], "power": 2, "baseImages": ["0668", "0668_ico"]},
-					{"conditions": {"gender": 1}, "name": "Pyroar", "types": ["fire", "normal"], "power": 2, "baseImages": ["0668_f", "0668_f_ico"]}
+					{"conditions": {"gender": 1}, "name": "Pyroar", "types": ["fire", "normal"], "power": 2, "baseImages": ["0668_f", "0668_f_ico"]},
+					{"conditions": {"item": "Pyroarite"}, "name": "Mega Pyroar", "types": ["fire", "normal"], "power": 3, "cry": "668M", "baseImages": ["0668_mega", "0668_mega_ico"]}
 				]
 			},
 			"0669flab": {
@@ -8868,7 +8896,8 @@
 				"dexEntry": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
 				"forms": [
 					{"conditions": {"gender": 0}, "name": "Meowstic", "types": ["psychic"], "power": 2, "baseImages": ["0678", "0678_ico"]},
-					{"conditions": {"gender": 1}, "name": "Meowstic", "types": ["psychic"], "power": 2, "baseImages": ["0678_f", "0678_f_ico"]}
+					{"conditions": {"gender": 1}, "name": "Meowstic", "types": ["psychic"], "power": 2, "baseImages": ["0678_f", "0678_f_ico"]},
+					{"conditions": {"item": "Meowsticite"}, "name": "Mega Meowstic", "types": ["psychic"], "power": 3, "cry": "678M", "baseImages": ["0678_mega", "0678_mega_ico"]}
 				]
 			},
 			"0679hone": {
@@ -8965,7 +8994,8 @@
 				"cry": "687",
 				"dexEntry": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
 				"forms": [
-					{"name": "Malamar", "types": ["dark", "psychic"], "power": 2, "baseImages": ["0687", "0687_ico"]}
+					{"name": "Malamar", "types": ["dark", "psychic"], "power": 2, "baseImages": ["0687", "0687_ico"]},
+					{"conditions": {"item": "Malamarite"}, "name": "Mega Malamar", "types": ["dark", "psychic"], "power": 3, "cry": "687M", "baseImages": ["0687_mega", "0687_mega_ico"]}
 				]
 			},
 			"0688bina": {
@@ -8986,7 +9016,8 @@
 				"cry": "689",
 				"dexEntry": "Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders.",
 				"forms": [
-					{"name": "Barbaracle", "types": ["rock", "water"], "power": 2, "baseImages": ["0689", "0689_ico"]}
+					{"name": "Barbaracle", "types": ["rock", "water"], "power": 2, "baseImages": ["0689", "0689_ico"]},
+					{"conditions": {"item": "Barbaracite"}, "name": "Mega Barbaracle", "types": ["rock", "fighting"], "power": 3, "cry": "689M", "baseImages": ["0689_mega", "0689_mega_ico"]}
 				]
 			},
 			"0690skre": {
@@ -9007,7 +9038,8 @@
 				"cry": "691",
 				"dexEntry": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
 				"forms": [
-					{"name": "Dragalge", "types": ["poison", "dragon"], "power": 2, "baseImages": ["0691", "0691_ico"]}
+					{"name": "Dragalge", "types": ["poison", "dragon"], "power": 2, "baseImages": ["0691", "0691_ico"]},
+					{"conditions": {"item": "Dragalgite"}, "name": "Mega Dragalge", "types": ["poison", "dragon"], "power": 3, "cry": "691M", "baseImages": ["0691_mega", "0691_mega_ico"]}
 				]
 			},
 			"0692clau": {
@@ -9109,7 +9141,8 @@
 				"cry": "701",
 				"dexEntry": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
 				"forms": [
-					{"name": "Hawlucha", "types": ["fighting", "flying"], "power": 2, "baseImages": ["0701", "0701_ico"]}
+					{"name": "Hawlucha", "types": ["fighting", "flying"], "power": 2, "baseImages": ["0701", "0701_ico"]},
+					{"conditions": {"item": "Hawluchanite"}, "name": "Mega Hawlucha", "types": ["fighting", "flying"], "power": 3, "cry": "701M", "baseImages": ["0701_mega", "0701_mega_ico"]}
 				]
 			},
 			"0702dede": {
@@ -9291,7 +9324,8 @@
 				"forms": [
 					{"conditions": {"gene": 0}, "fullName": "Zygarde (10% Forme)", "name": "Zygarde", "types": ["dragon", "ground"], "power": 2, "cry": "718A", "baseImages": ["0718_10", "0718_10_ico"], "dexEntriesPos": 1},
 					{"conditions": {"gene": 1}, "fullName": "Zygarde (50% Forme)", "name": "Zygarde", "types": ["dragon", "ground"], "power": 3, "baseImages": ["0718_50", "0718_50_ico"]},
-					{"conditions": {"gene": 2}, "fullName": "Zygarde (Complete Forme)", "name": "Zygarde", "types": ["dragon", "ground"], "power": 4, "cry": "718C", "baseImages": ["0718_complete", "0718_complete_ico"], "dexEntriesPos": 2}
+					{"conditions": {"gene": 2}, "fullName": "Zygarde (Complete Forme)", "name": "Zygarde", "types": ["dragon", "ground"], "power": 4, "cry": "718C", "baseImages": ["0718_complete", "0718_complete_ico"], "dexEntriesPos": 2},
+					{"conditions": {"gene": 2, "item": "Zygardite"}, "name": "Mega Zygarde", "types": ["dragon", "ground"], "power": 4, "cry": "718M", "baseImages": ["0718_mega", "0718_mega_ico"]}
 				],
 				"evolutions": [
 					{"id": "0718zyga", "gene": 1, "conditions": {"gene": 0, "item": "Zygarde Cells"}},
@@ -9535,7 +9569,8 @@
 				"cry": "740",
 				"dexEntry": "It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.",
 				"forms": [
-					{"name": "Crabominable", "types": ["fighting", "ice"], "power": 1, "baseImages": ["0740", "0740_ico"]}
+					{"name": "Crabominable", "types": ["fighting", "ice"], "power": 2, "baseImages": ["0740", "0740_ico"]},
+					{"conditions": {"item": "Crabominite"}, "name": "Mega Crabominable", "types": ["fighting", "ice"], "power": 3, "cry": "740M", "baseImages": ["0740_mega", "0740_mega_ico"]}
 				]
 			},
 			"0741oric": {
@@ -9839,7 +9874,8 @@
 				"cry": "768",
 				"dexEntry": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
 				"forms": [
-					{"name": "Golisopod", "types": ["bug", "water"], "power": 2, "baseImages": ["0768", "0768_ico"]}
+					{"name": "Golisopod", "types": ["bug", "water"], "power": 2, "baseImages": ["0768", "0768_ico"]},
+					{"conditions": {"item": "Golisopite"}, "name": "Mega Golisopod", "types": ["bug", "steel"], "power": 3, "cry": "768M", "baseImages": ["0768_mega", "0768_mega_ico"]}
 				]
 			},
 			"0769sand": {
@@ -9978,7 +10014,8 @@
 				"cry": "780",
 				"dexEntry": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
 				"forms": [
-					{"name": "Drampa", "types": ["normal", "dragon"], "power": 2, "baseImages": ["0780", "0780_ico"]}
+					{"name": "Drampa", "types": ["normal", "dragon"], "power": 2, "baseImages": ["0780", "0780_ico"]},
+					{"conditions": {"item": "Drampanite"}, "name": "Mega Drampa", "types": ["normal", "dragon"], "power": 3, "cry": "780M", "baseImages": ["0780_mega", "0780_mega_ico"]}
 				]
 			},
 			"0781dhel": {
@@ -10188,11 +10225,18 @@
 			"0801mage": {
 				"genders": [0,0],
 				"growth": "slow",
+				"genes": [100,0],
 				"cry": "801",
 				"dexEntry": "This artificial Pokémon, constructed more than 500 years ago, can understand human speech but cannot itself speak.",
 				"forms": [
-					{"name": "Magearna", "types": ["steel", "fairy"], "power": 3, "baseImages": ["0801", "0801_ico"]},
-					{"conditions": {"item": "Gear Paint"}, "name": "Magearna", "types": ["steel", "fairy"], "power": 3, "baseImages": ["0801_original", "0801_original_ico"]}
+					{"conditions": {"gene": 0}, "name": "Magearna", "types": ["steel", "fairy"], "power": 3, "baseImages": ["0801", "0801_ico"]},
+					{"conditions": {"gene": 1}, "name": "Magearna", "types": ["steel", "fairy"], "power": 3, "baseImages": ["0801_original", "0801_original_ico"]},
+					{"conditions": {"gene": 0, "item": "Magearnite"}, "name": "Mega Magearna", "types": ["steel", "fairy"], "power": 4, "cry": "801M", "baseImages": ["0801_mega", "0801_mega_ico"]},
+					{"conditions": {"gene": 1, "item": "Magearnite"}, "name": "Mega Magearna", "types": ["steel", "fairy"], "power": 4, "cry": "801M", "baseImages": ["0801_mega_original", "0801_mega_original_ico"]}
+				],
+				"evolutions": [
+					{"id": "0801mage", "gene": 1, "conditions": {"gene": 0, "item": "Gear Paint", "consume": false}},
+					{"id": "0801mage", "gene": 0, "conditions": {"gene": 1, "item": "Gear Paint", "consume": false}}
 				]
 			},
 			"0802mars": {
@@ -10249,7 +10293,8 @@
 				"cry": "807",
 				"dexEntry": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they'll be electrocuted by the flying sparks.",
 				"forms": [
-					{"name": "Zeraora", "types": ["electric"], "power": 3, "baseImages": ["0807", "0807_ico"]}
+					{"name": "Zeraora", "types": ["electric"], "power": 3, "baseImages": ["0807", "0807_ico"]},
+					{"conditions": {"item": "Zeraorite"}, "name": "Mega Zeraora", "types": ["electric"], "power": 4, "cry": "807M", "baseImages": ["0807_mega", "0807_mega_ico"]}
 				]
 			},
 			"0808melt": {
@@ -11055,7 +11100,8 @@
 				"cry": "870",
 				"dexEntry": "Five of them are troopers, and one is the brass. The brass's orders are absolute.",
 				"forms": [
-					{"name": "Falinks", "types": ["fighting"], "power": 2, "baseImages": ["0870", "0870_ico"]}
+					{"name": "Falinks", "types": ["fighting"], "power": 2, "baseImages": ["0870", "0870_ico"]},
+					{"conditions": {"item": "Falinksite"}, "name": "Mega Falinks", "types": ["fighting"], "power": 3, "cry": "870M", "baseImages": ["0870_mega", "0870_mega_ico"]}
 				]
 			},
 			"0871pinc": {
@@ -11910,7 +11956,8 @@
 				"cry": "952",
 				"dexEntry": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
 				"forms": [
-					{"name": "Scovillain", "types": ["grass", "fire"], "power": 2, "baseImages": ["0952", "0952_ico"]}
+					{"name": "Scovillain", "types": ["grass", "fire"], "power": 2, "baseImages": ["0952", "0952_ico"]},
+					{"conditions": {"item": "Scovillainite"}, "name": "Mega Scovillain", "types": ["grass", "fire"], "power": 3, "cry": "952M", "baseImages": ["0952_mega", "0952_mega_ico"]}
 				]
 			},
 			"0953rell": {
@@ -12085,7 +12132,7 @@
 				"cry": "969",
 				"dexEntry": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
 				"forms": [
-					{"name": "Glimmet", "types": ["poison", "rock"], "power": 0, "baseImages": ["0969", "0969_ico"]}
+					{"name": "Glimmet", "types": ["rock", "poison"], "power": 0, "baseImages": ["0969", "0969_ico"]}
 				],
 				"evolutions": [
 					{"id": "0970glim", "conditions": {"level": 35}}
@@ -12097,7 +12144,8 @@
 				"cry": "970",
 				"dexEntry": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
 				"forms": [
-					{"name": "Glimmora", "types": ["poison", "rock"], "power": 2, "baseImages": ["0970", "0970_ico"]}
+					{"name": "Glimmora", "types": ["rock", "poison"], "power": 2, "baseImages": ["0970", "0970_ico"]},
+					{"conditions": {"item": "Glimmoranite"}, "name": "Mega Glimmora", "types": ["rock", "poison"], "power": 3, "cry": "970M", "baseImages": ["0970_mega", "0970_mega_ico"]}
 				]
 			},
 			"0971grea": {
@@ -12176,9 +12224,12 @@
 				"cry": "978",
 				"dexEntry": "This is a small dragon Pokémon. It lives inside the mouth of <<0977dond>> to protect itself from enemies on the outside.",
 				"forms": [
-					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "cry": "978O", "baseImages": ["0978_orange", "0978_orange_ico"]},
-					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "cry": "978R", "baseImages": ["0978_red", "0978_red_ico"]},
-					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["water", "dragon"], "power": 2, "cry": "978Y", "baseImages": ["0978_yellow", "0978_yellow_ico"]}
+					{"conditions": {"gene": 0}, "name": "Tatsugiri", "types": ["dragon", "water"], "power": 2, "cry": "978O", "baseImages": ["0978_orange", "0978_orange_ico"]},
+					{"conditions": {"gene": 1}, "name": "Tatsugiri", "types": ["dragon", "water"], "power": 2, "cry": "978R", "baseImages": ["0978_red", "0978_red_ico"]},
+					{"conditions": {"gene": 2}, "name": "Tatsugiri", "types": ["dragon", "water"], "power": 2, "cry": "978Y", "baseImages": ["0978_yellow", "0978_yellow_ico"]},
+					{"conditions": {"gene": 0, "item": "Tatsugirinite"}, "name": "Mega Tatsugiri", "types": ["dragon", "water"], "power": 3, "cry": "978M", "baseImages": ["0978_mega_curly", "0978_mega_curly_ico"]},
+					{"conditions": {"gene": 1, "item": "Tatsugirinite"}, "name": "Mega Tatsugiri", "types": ["dragon", "water"], "power": 3, "cry": "978M", "baseImages": ["0978_mega_droopy", "0978_mega_droopy_ico"]},
+					{"conditions": {"gene": 2, "item": "Tatsugirinite"}, "name": "Mega Tatsugiri", "types": ["dragon", "water"], "power": 3, "cry": "978M", "baseImages": ["0978_mega_stretchy", "0978_mega_stretchy_ico"]}
 				]
 			},
 			"0979anni": {
@@ -12342,7 +12393,7 @@
 				"cry": "996",
 				"dexEntry": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
 				"forms": [
-					{"name": "Frigibax", "types": ["ice", "dragon"], "power": 0, "baseImages": ["0996", "0996_ico"]}
+					{"name": "Frigibax", "types": ["dragon", "ice"], "power": 0, "baseImages": ["0996", "0996_ico"]}
 				],
 				"evolutions": [
 					{"id": "0997arct", "conditions": {"level": 35}}
@@ -12354,7 +12405,7 @@
 				"cry": "997",
 				"dexEntry": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
 				"forms": [
-					{"name": "Arctibax", "types": ["ice", "dragon"], "power": 1, "baseImages": ["0997", "0997_ico"]}
+					{"name": "Arctibax", "types": ["dragon", "ice"], "power": 1, "baseImages": ["0997", "0997_ico"]}
 				],
 				"evolutions": [
 					{"id": "0998baxc", "conditions": {"level": 54}}
@@ -12366,7 +12417,8 @@
 				"cry": "998",
 				"dexEntry": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
 				"forms": [
-					{"name": "Baxcalibur", "types": ["ice", "dragon"], "power": 3, "baseImages": ["0998", "0998_ico"]}
+					{"name": "Baxcalibur", "types": ["dragon", "ice"], "power": 3, "baseImages": ["0998", "0998_ico"]},
+					{"conditions": {"item": "Baxcalibrite"}, "name": "Mega Baxcalibur", "types": ["dragon", "ice"], "power": 4, "cry": "998M", "baseImages": ["0998_mega", "0998_mega_ico"]}
 				]
 			},
 			"0999gimm": {
