@@ -1,10 +1,12 @@
 newimages/
 old_packs/
+releases/
 *.bin
 *.zip
 *.rar
 *.xlsx
 *.json0
+*.ods#
 core_0.jar
 core_1.jar
 privatekey.txt
