@@ -12825,7 +12825,9 @@
 				],
 				"items": [
 					{"id": "Thunder Stone", "prob": 2.5},
-					{"id": "Ash Cap", "prob": 0.3}
+					{"id": "Ash Cap", "prob": 0.3},
+					{"id": "Raichunite X", "prob": 0.3, "minlvl": 50},
+					{"id": "Raichunite Y", "prob": 0.3, "minlvl": 50}
 				]
 			},
 			{
@@ -12903,7 +12905,8 @@
 					{"id": "0036clef", "range": [45, 100]}
 				],
 				"items": [
-					{"id": "Moon Stone", "prob": 2.5}
+					{"id": "Moon Stone", "prob": 2.5},
+					{"id": "Clefablite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -13157,7 +13160,8 @@
 					{"id": "0071vict", "range": [45, 100]}
 				],
 				"items": [
-					{"id": "Leaf Stone", "prob": 2.5}
+					{"id": "Leaf Stone", "prob": 2.5},
+					{"id": "Victreebelite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -13607,7 +13611,8 @@
 					{"id": "0121star", "range": [45, 100]}
 				],
 				"items": [
-					{"id": "Water Stone", "prob": 2.5}
+					{"id": "Water Stone", "prob": 2.5},
+					{"id": "Starminite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -13872,6 +13877,9 @@
 					{"id": "0147drat", "range": [1, 34]},
 					{"id": "0148drag", "range": [30, 59]},
 					{"id": "0149drag", "range": [55, 100]}
+				],
+				"items": [
+					{"id": "Dragoninite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -13884,6 +13892,9 @@
 					{"id": "0152chik", "range": [1, 20]},
 					{"id": "0153bayl", "range": [16, 36]},
 					{"id": "0154mega", "range": [32, 100]}
+				],
+				"items": [
+					{"id": "Meganiumite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -13923,6 +13934,9 @@
 					{"id": "0158toto", "range": [1, 22]},
 					{"id": "0159croc", "range": [18, 34]},
 					{"id": "0160fera", "range": [30, 100]}
+				],
+				"items": [
+					{"id": "Feraligite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -14372,6 +14386,9 @@
 				"eggCycles": 25,
 				"members": [
 					{"id": "0227skar"}
+				],
+				"items": [
+					{"id": "Skarmorite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -15080,6 +15097,9 @@
 				"members": [
 					{"id": "0433chin", "range": [1, 20]},
 					{"id": "0358chim", "range": [16, 100]}
+				],
+				"items": [
+					{"id": "Chimechite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -15091,7 +15111,8 @@
 					{"id": "0359abso"}
 				],
 				"items": [
-					{"id": "Absolite", "prob": 0.5, "minlvl": 50}
+					{"id": "Absolite", "prob": 0.3, "minlvl": 50},
+					{"id": "Absolite Z", "prob": 0.3, "minlvl": 50}
 				]
 			},
 			{
@@ -15107,7 +15128,8 @@
 				],
 				"items": [
 					{"id": "Dawn Stone", "prob": 1.5},
-					{"id": "Glalitite", "prob": 0.5, "minlvl": 50}
+					{"id": "Glalitite", "prob": 0.3, "minlvl": 50},
+					{"id": "Froslassite", "prob": 0.3, "minlvl": 50}
 				]
 			},
 			{
@@ -15230,6 +15252,9 @@
 					{"id": "0396star", "range": [1, 18]},
 					{"id": "0397star", "range": [14, 38]},
 					{"id": "0398star", "range": [34, 100]}
+				],
+				"items": [
+					{"id": "Staraptite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -15440,7 +15465,8 @@
 					{"id": "0445garc", "range": [48, 100]}
 				],
 				"items": [
-					{"id": "Garchompite", "prob": 0.5, "minlvl": 50}
+					{"id": "Garchompite", "prob": 0.3, "minlvl": 50},
+					{"id": "Garchompite Z", "prob": 0.3, "minlvl": 50}
 				]
 			},
 			{
@@ -15453,7 +15479,8 @@
 					{"id": "0448luca", "range": [20, 100]}
 				],
 				"items": [
-					{"id": "Lucarionite", "prob": 0.5, "minlvl": 50}
+					{"id": "Lucarionite", "prob": 0.3, "minlvl": 50},
+					{"id": "Lucarionite Z", "prob": 0.3, "minlvl": 50}
 				]
 			},
 			{
@@ -15557,6 +15584,9 @@
 					{"id": "0498tepi", "range": [1, 21]},
 					{"id": "0499pign", "range": [17, 40]},
 					{"id": "0500embo", "range": [36, 100]}
+				],
+				"items": [
+					{"id": "Emboarite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -15722,6 +15752,9 @@
 				"members": [
 					{"id": "0529dril", "range": [1, 35]},
 					{"id": "0530exca", "range": [31, 100]}
+				],
+				"items": [
+					{"id": "Excadrite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -15799,6 +15832,9 @@
 					{"id": "0543veni", "range": [1, 26]},
 					{"id": "0544whir", "range": [22, 34]},
 					{"id": "0545scol", "range": [30, 100]}
+				],
+				"items": [
+					{"id": "Scolipite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -15921,6 +15957,9 @@
 				"members": [
 					{"id": "0559scra", "range": [1, 43]},
 					{"id": "0560scra", "range": [39, 100]}
+				],
+				"items": [
+					{"id": "Scraftinite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16169,7 +16208,8 @@
 					{"id": "0604eele", "range": [55, 100]}
 				],
 				"items": [
-					{"id": "Thunder Stone", "prob": 2.5}
+					{"id": "Thunder Stone", "prob": 2.5},
+					{"id": "Eelektrossite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16193,7 +16233,8 @@
 					{"id": "0609chan", "range": [55, 100]}
 				],
 				"items": [
-					{"id": "Dusk Stone", "prob": 2.5}
+					{"id": "Dusk Stone", "prob": 2.5},
+					{"id": "Chandelurite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16286,6 +16327,9 @@
 				"members": [
 					{"id": "0622gole", "range": [1, 47]},
 					{"id": "0623golu", "range": [43, 100]}
+				],
+				"items": [
+					{"id": "Golurkite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16393,6 +16437,9 @@
 					{"id": "0650ches", "range": [1, 20]},
 					{"id": "0651quil", "range": [16, 40]},
 					{"id": "0652ches", "range": [36, 100]}
+				],
+				"items": [
+					{"id": "Chesnaughtite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16405,6 +16452,9 @@
 					{"id": "0653fenn", "range": [1, 20]},
 					{"id": "0654brai", "range": [16, 40]},
 					{"id": "0655delp", "range": [36, 100]}
+				],
+				"items": [
+					{"id": "Delphoxite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16419,7 +16469,8 @@
 					{"id": "0658gren", "range": [36, 100]}
 				],
 				"items": [
-					{"id": "Ash Cap", "prob": 0.3}
+					{"id": "Ash Cap", "prob": 0.3},
+					{"id": "Greninjite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16712,6 +16763,9 @@
 				"members": [
 					{"id": "0667litl", "range": [1, 39]},
 					{"id": "0668pyro", "range": [35, 100]}
+				],
+				"items": [
+					{"id": "Pyroarite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16765,6 +16819,9 @@
 				"members": [
 					{"id": "0677espu", "range": [1, 29]},
 					{"id": "0678meow", "range": [25, 100]}
+				],
+				"items": [
+					{"id": "Meowsticite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16815,6 +16872,9 @@
 				"members": [
 					{"id": "0686inka", "range": [1, 34]},
 					{"id": "0687mala", "range": [30, 100]}
+				],
+				"items": [
+					{"id": "Malamarite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16825,6 +16885,9 @@
 				"members": [
 					{"id": "0688bina", "range": [1, 43]},
 					{"id": "0689barb", "range": [39, 100]}
+				],
+				"items": [
+					{"id": "Barbaracite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16836,6 +16899,9 @@
 				"members": [
 					{"id": "0690skre", "range": [1, 52]},
 					{"id": "0691drag", "range": [48, 100]}
+				],
+				"items": [
+					{"id": "Dragalgite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -16888,6 +16954,9 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0701hawl"}
+				],
+				"items": [
+					{"id": "Hawluchanite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -17096,7 +17165,8 @@
 					{"id": "0740crab", "range": [45, 100]}
 				],
 				"items": [
-					{"id": "Ice Rock", "prob": 2.5}
+					{"id": "Ice Rock", "prob": 2.5},
+					{"id": "Crabominite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -17296,6 +17366,9 @@
 				"members": [
 					{"id": "0767wimp", "range": [1, 34]},
 					{"id": "0768goli", "range": [30, 100]}
+				],
+				"items": [
+					{"id": "Golisopite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -17410,6 +17483,9 @@
 				"eggCycles": 20,
 				"members": [
 					{"id": "0780dram"}
+				],
+				"items": [
+					{"id": "Drampanite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -17700,6 +17776,9 @@
 				"eggCycles": 25,
 				"members": [
 					{"id": "0870fali"}
+				],
+				"items": [
+					{"id": "Falinksite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -18054,7 +18133,8 @@
 					{"id": "0952scov", "range": [45, 100]}
 				],
 				"items": [
-					{"id": "Fire Stone", "prob": 2.5}
+					{"id": "Fire Stone", "prob": 2.5},
+					{"id": "Scovillainite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -18153,6 +18233,9 @@
 				"members": [
 					{"id": "0969glim", "range": [1, 39]},
 					{"id": "0970glim", "range": [35, 100]}
+				],
+				"items": [
+					{"id": "Glimmoranite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -18212,6 +18295,9 @@
 				"eggCycles": 35,
 				"members": [
 					{"id": "0978tats"}
+				],
+				"items": [
+					{"id": "Tatsugirinite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -18223,6 +18309,9 @@
 					{"id": "0996frig", "range": [1, 39]},
 					{"id": "0997arct", "range": [35, 58]},
 					{"id": "0998baxc", "range": [54, 100]}
+				],
+				"items": [
+					{"id": "Baxcalibrite", "prob": 0.5, "minlvl": 50}
 				]
 			},
 			{
@@ -18461,6 +18550,9 @@
 				"gen": 4,
 				"members": [
 					{"id": "0485heat", "minlvl": 70}
+				],
+				"items": [
+					{"id": "Heatranite", "prob": 0.1}
 				]
 			},
 			{
@@ -18498,6 +18590,9 @@
 				"gen": 4,
 				"members": [
 					{"id": "0491dark", "minlvl": 50}
+				],
+				"items": [
+					{"id": "Darkranite", "prob": 0.1}
 				]
 			},
 			{
@@ -18663,7 +18758,8 @@
 					{"id": "0718zyga", "minlvl": 70}
 				],
 				"items": [
-					{"id": "Zygarde Cells", "prob": 0.1}
+					{"id": "Zygarde Cells", "prob": 0.05},
+					{"id": "Zygardite", "prob": 0.05}
 				]
 			},
 			{
@@ -18785,7 +18881,8 @@
 					{"id": "0801mage", "minlvl": 70}
 				],
 				"items": [
-					{"id": "Gear Paint", "prob": 0.1}
+					{"id": "Gear Paint", "prob": 0.05},
+					{"id": "Magearnite", "prob": 0.05}
 				]
 			},
 			{
@@ -18816,6 +18913,9 @@
 				"gen": 7,
 				"members": [
 					{"id": "0807zera", "minlvl": 65}
+				],
+				"items": [
+					{"id": "Zeraorite", "prob": 0.1}
 				]
 			},
 			{
